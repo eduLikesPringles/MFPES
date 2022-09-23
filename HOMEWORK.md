@@ -1,3 +1,6 @@
+# ASAP
+- learn names (teachers and students)
+
 # 2022/09/29
 ## D. Física
 - inventar una medida que tomar en casa
