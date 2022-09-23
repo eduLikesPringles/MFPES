@@ -1,6 +1,12 @@
 # ASAP
 - learn names (teachers and students)
 
+# 2022/09/26
+
+## Procesos y Contextos Educativos
+- leer lo que ha colgao la profe del tema y preguntar dudas
+- hacer grupos de 4
+
 # 2022/09/29
 ## D. Física
 - inventar una medida que tomar en casa
