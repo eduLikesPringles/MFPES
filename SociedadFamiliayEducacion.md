@@ -50,4 +50,13 @@
     - Collaboration us the stuff of growth
     - El Sistema educativo está hecho para reproducir las desigualdades y no para luchar contra ellas, parece. Las escuelas están controladas por los gobiernos y los gobiernos están controlados con las economías. Es muy difícil mover todo eso, pero ojalá dar con la clave.
 
--	TAREAS: venir con un tema más y rellenar la hoja Excel esta
+-	**TAREAS: venir con un tema más y rellenar la hoja Excel esta**
+
+## 2022/09/26
+
+- la sociología nace de preguntas del tipo: por qué ésta gente tiene más dinero que esta otra? Etc.
+- sociología: investiga todo lo que está en el ámbito de la realidad.
+- un profesor de mi profesor la definió así: la sociología es lo que hacen los sociólogos. son como bufones. siempre están con el poder, pero deberían reírse de él. no pueden huir del poder.
+estamos en el plano epistemológico: qué puede conocerse de la realidad social? no estamos en el plano ontológico, ni en el metodológico, ni en el tecnológico.
+- efecto pigmalion: capacidad que tiene un profesor de proyectar sobre un alumno si va a poder o no hacerse con la asignatura.
+

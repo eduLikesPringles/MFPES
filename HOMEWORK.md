@@ -1,6 +1,9 @@
 # ASAP
 - learn names (teachers and students)
 
+# ASYNCRONOUS
+- leer la ruptura del ascensor social (noticia?)
+
 # 2022/09/26
 
 ## Procesos y Contextos Educativos
