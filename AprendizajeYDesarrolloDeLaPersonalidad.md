@@ -1,0 +1,86 @@
+APRENDIZAJE Y DESARROLLO DE LA PERSONALIDAD
+
+-	José Antonio bueno alvarez
+-	Departamento de investigación y psicología en educación
+-	31 años en la casa lleva el boss
+-	Maestro de educación primaria. Graduado en psicología. Doctorado en pedagogía de la educación.
+-	Tutorías online: L-V 8-19h
+-	4207 es su despacho
+-	alvarez@ucm.es
+-	No escribirle por el campus virtual. Escribir al correo directamente.
+-	En la web de la asignatura en el CV se habilitará un enlace al teams
+-	Hay un semáforo por ahí en el CV que marca temperaturas y con eso se decide si se da clase en la uni o n    - 
+-	El profe propone que nos certifiquemos con Google scholar o Microsoft sobre el manejo de tecnologías para la enseñanza
+-	Resolución grupal y entrega individual cuando se vaya pudiendo. Mejor que no pase más de una semana entre entregas
+-	Discusión en grupo. Parte en común. Aportación individual.
+-	Viable factible y realista es una buena solución
+-	No emperrarse en enseñar como a ti te funciona. Hay que enseñar como le venga bien al que tienes delante.
+-	No solo enseñaremos. También educaremos.
+-	FUNDACIÓN TELEFÓNICA PUBLICA ESTUDIOS SOBRE LO QUE FUNCIONA Y NO FUNCIONA EN LA ENSEÑANZA. ECHARLE UN VISTAZO
+-	Tener cuidado con lo que publiques en redes sociales. Mucho cuidao que te puede hacer mucho mal.
+-	No dar teléfono nunca
+2022/09/22
+-	Las chicas maduran antes que los chicos pero desde los 11 o 12 años ya!
+-	Cómo se trata el tema del teléfono móvil por las noches? Destrucción de conexiones neuronales. Los padres puede que vengan en algún momento a solicitar guidance sobre el tema.
+-	El que tienes delante puede no aprender como tú
+-	El que tienes delante puede que sude de lo que le quieras contar
+-	No es solo contar. Es contar para ser entendido.
+-	Quieren ser mayores pero no quieren crecer.
+-	ACTIVIDAD PRÁCTICA:
+    - (recordar las 3 partes: trabajo en grupo, puesta en común, componente individual)
+    - Cómo aprendo hoy en día? (como adulto, lo que soy) (no confundirlo con el por qué aprendo)
+        - Se usa mucho internet. Puede distraer, pero si aprendes a usarlo bien, reconoces lo weno de lo malo.
+        - Preguntando mucho para que me apunten.
+        - De mis amigos y compañeros.
+        - Se aprende mucho por boca.
+        - Te juntas con el que sabe.
+        - Ya se ha desarrollado un criterio para elegir la información
+        - Copiando el ejemplo bueno
+        - También puede que no haya una sola verdad o una sola forma buena de hacerlo.
+        - Videotutoriales.
+        - Ahora vamos a lo que nos gusta y aprendemos de ahí.
+        - Fallando mucho y asumiendo las consecuencias de tus errores. Antes era todo más guiado.
+        - Ahora aprendemos más despacio pero mejor, porque el tiempo no es limitante.
+        - Con ejemplos se aprende
+        - Con cosas tangibles. Con analogías.
+    - Cómo he aprendido todo lo que sé hoy?
+        - Memorizando (más en clase)
+        - En casa con experiencias
+        - En el cole haciendo todo por pasos
+        - Diferentes fuentes. En casa más visual y práctico.
+        - Hacer ejercicios. Teoría – ejercicios – problemas.
+        - La repetición hacía aprender muy bien
+        - Los esquemas ayudaban a aprender.
+        - Tema valores observando qué tratos me gustaban o no e intentar replicar lo weno. También experimentando. Tiras del pelo ala gente y les duele, entonces no lo haces más.
+        - Algunos bajo presión. Yo era más organizado. Tenía horarios.
+        - Por castigo recompensa.
+        - Yo de pequeño con mi amigo pedro y migui. Enseñando a mis amigos. Aprendizaje con iguales o algo así.
+        - A hablar por imitación
+    - Tips del profe:
+        - Entregar la parte de grupo todos igual
+        - Darle forma más de redacción
+        - No limitar el aprendizaje al contexto académico. Hablar tb de lo que se aprende fuera.
+        - Hemos aprendido siempre a solas? O con alguien?
+        - Se aprende de la misma forma ahora que de pequeños?
+        - Hemos dejado de aprender con ojos de niño?
+        - Cómo aprendimos a atarnos los cordones de las zapas, a nadar, a montar en bici, a andar, a andar?
+    - Qué dice el resto de grupos?
+        - Educación obligatoria más estricta y no por interés. Miedo a sacar mala nota o por que te pongan un negativo. Luego hay más libertad de elegir y mueve también el interés.
+        - Proceso más básico observar y repetir.
+        - Info se recibe en solitario pero luego aprendizaje es más en grupos. Puesta en común de entendimiento de conceptos.
+        - Mi amigo estalella me enseñó a limpiarme el culo
+        - De pequeños somos más dependientes de la confianza en los demás. Ahora tenemos menos miedo. Ahora somos más crédulos o más críticos? Somos ahora más flexibles ahora al cambiar nuestra forma de pensar? De pequeño eres más moldeable. Ahora no tanto. Ahora tienes prejuicios, te cuesta más adaptarte a lo que te cuentan. Ahora quizá más sesgado.
+        - Lo que no les ha pasado a los niños, para ellos no existe. Cómo eres capaz de meterte dentro de su lógica para que te entienda?
+        - El profe que está cerca de la realidad de lo que yo hago, me va a enseñar mejor. Corolario: conoce mejor a quien enseñas.
+        - Las experiencias traumáticas te hacen aprender más o te hacen aprender menos? Seguro que menos. Mucha gente genera conductas de evitación o de escape.
+        - Por qué nos empeñamos en que repitan lo que les enseño?
+        - Cómo podemos ayudar a pensar en nuestros muchachos? Cómo pueden aprender a desarrollar el pensamiento crítico?
+        - Cuanto más te encaminas hacia una forma de pensar, más rechazas otras formas de pensar.
+        - He de poner bajo la luz de la lupa si al enseñar lo he hecho bien o si me ha salido de chiripa. Ahí juega un papel clave nuestra rigidez mental.
+        - Cuando somos más pequeños somos más egocéntricos: si no me ha pasado a mí, no es verdad. Si sí me ha pasado a mí, tiene que ser la verdad.
+        - De mayor vemos determinada prensa y tele pq somos más tozudos.
+        - Mi forma de entender el mundo se proyecta hacia mis alumnos. Hay que tener mucho cuidado con eso.
+        - Educar hacia el escuchar, para que se trabaje de distinta forma.
+        - Primero te fijas en profes y padres. Luego observas, reflexionas y haces.
+        - Ana dice que no podemos ‘inculcar’ a los niños lo que es malo. Tenemos que guiar su pensamiento.
+        - Nuestras creencias matizan las acciones que tomamos al enseñar.
