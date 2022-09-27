@@ -24,7 +24,9 @@
 -	Nosotros somos profes. No somos ni pedagogos ni psicólogos. Hay que tener eso claro. No podemos resolver problemas personales. Si vemos conductas extrañas, asociales, etc, lo mandamos al especialista.
 -	Admitir siempre preguntas y responderlas en el momento es bien; porque aporta a la clase.
 -	La física y la química no es de sentido común. Por eso es difícil. Otra cosa es que lo entendamos, pero no significa que sea obvio.
-15/09/2022
+
+## 15/09/2022
+
 -	Un maestro es el que adquiere competencia profesional docente
 -	Conocimientos profesionales (Grossman et al., 2005)
 -	Toda esta vaina está en la presentación, así que apuntare más anécdotas que otra cosa
@@ -42,7 +44,8 @@
 -	Lo que consigamos en los primeros años es lo que marcará nuestra profesión pa los restos. La curva de performance para el profe es parabólica con el tiempo.
 -	Para investigar se leen reviews y se va a congresos
 
-202209/20
+## 202209/20
+
 -	STEM: science, technology, engineering, mathematics
 -	No Podemos hacer lo que queramos. Tenemos que enseñar lo que nos dicen. El cómo lo hacemos sí lo elegimos.
 -	Las concepciones alternativas son las ideas que traen los escolares de casa, que no se corresponden con las científicas.
@@ -59,9 +62,11 @@
 -	Siempre atender preguntas. Siempre máximo respeto a las ideas preconcebidas de los alumnos.
 -	Reconocer los éxitos y no los fracasos. Hay que alabar cuando alguien hace algo bien. Hay alumnos que lo necesitan más que otros.
 -	Lo que no se evalúa no significa que no tenga importancia. Es preferible evaluar todas y cada una de las cosas que se hacen, aunque no estén en el currículum académico.
--	Es importante poner bibliografía. Hay que ponerlo en formato APA7. (perez y lopez 2025). Las revistas se ponen completas. No con abreviaturas. ECHALE UN VISTAZO
--	PARA HACER LA UNIDAD DIDÁCTICA: tienen que tener una componente experimental importante. Igual algunas tienen que incluir tecnologías TIC.
--	PARA MI GRUPO (GRUPO 3): MIRAR EL CURRÍCULUM DE LA ESO. EXPERIMENTALIDAD. TIC. Nos ha tocado enseñar plásticos.
+-	Es importante poner bibliografía. Hay que ponerlo en formato APA7. (perez y lopez 2025). Las revistas se ponen completas. No con abreviaturas.
+
+## PARA HACER LA UNIDAD DIDÁCTICA: 
+- tienen que tener una componente experimental importante. Igual algunas tienen que incluir tecnologías TIC.
+- PARA MI GRUPO (GRUPO 3): MIRAR EL CURRÍCULUM DE LA ESO. EXPERIMENTALIDAD. TIC. Nos ha tocado enseñar plásticos.
     - Van a hacer bachillerato o no?
     - Finalidad de lo que enseño
     - Principios
@@ -72,7 +77,10 @@
     - ahí hay criterios de evaluación. 
     - Contenidos. Mirar. Materia y cambio es lo que se ve en segundo.
     - En tercero de la eso se ve lo que nos interesa.
-2022/09/22
+
+## 2022/09/22
+
+## PARA HACER LA UNIDAD DIDÁCTICA: 
 -	La comunidad de Madrid decide un 50% de lo que se va a enseñar.
 -	El estado decide el otro 50%.
 -	Los objetivos a 5 tipos de capacidades cognitivas humanas:

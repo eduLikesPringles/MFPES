@@ -1,4 +1,5 @@
-Complementos de Química
+# Complementos de Química
+
 -	Los martes de 6 a 8 aquí
 -	Los miércoles se da clase en químicas: QB62. En el edificio b en la última planta.
 -	El labo es el labo de la planta baja. Es el laboratorio integrado de química.
@@ -26,3 +27,16 @@ Complementos de Química
 -	Las filas son periodos
 -	(hablamos de la tabla periódica)
 -	DEBERES: AJUSTAR LAS REACCIONES QUE VIMOS EN CLASE.
+
+## 2022/09/27
+
+- Los metales tienden perder electrones para
+formar iones cargados positivamente: cationes.
+- Los no metales tienden a ganar electrones para
+formar iones cargados negativamente: aniones.
+- al calcular la masa molar de un compuesto, se calcula como la suma de las masas molares de cada uno de los elementos que lo conforman multiplicado por "el número de proporción de cada uno de estos elementos".
+- OILRIG: regla nemotécnica para describir lo que le pasa a algo. oxidation is loss, reduction is gain. elements that get oxidated, reduce others, and viceversa.
+- anión: ión de carga negativa
+- ánodo: electrodo positivo de una cuba electrolítica, al que se dirigen los aniones en una disolución
+- Las energías de ionización disminuyen cuando los radios atómicos aumentan.
+- la electronegatividad es la tendencia de un elemento, en un compuesto químico, a atraer electrones a sí mismo. crece en diagonal hacia arriba a la derecha, en la tabla periódica (o sea, crece con los periodos y decrece con los grupos)
