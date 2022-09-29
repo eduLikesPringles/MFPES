@@ -40,3 +40,11 @@ formar iones cargados negativamente: aniones.
 - ánodo: electrodo positivo de una cuba electrolítica, al que se dirigen los aniones en una disolución
 - Las energías de ionización disminuyen cuando los radios atómicos aumentan.
 - la electronegatividad es la tendencia de un elemento, en un compuesto químico, a atraer electrones a sí mismo. crece en diagonal hacia arriba a la derecha, en la tabla periódica (o sea, crece con los periodos y decrece con los grupos)
+
+- una sustancia no es ácida o básica de manera intrínseca, sino que manifiesta un comportamiento ácido o básico en la reacción.
+- el agua es una sustancia anfótera. dependiendo de con qué esté reaccionando, puede actuar como ácido o como base
+- el agua pura no conduce la electricidad porque no tiene iones libres.
+- hay dos formas de conducir la electricidad: electrónica e iónica.
+- ácido fuerte no implica que te queme más o menos. fuerte tiene que ver con que la reacción sea reversible (aquí sería ácido débil) o no (aquí sería ácido fuerte, cuando la reacción se produce por completo).
+- la escala pH solo tiene sentido para disoluciones diluidas.
+- el agua pura NO es ácida a 50ºC. Aunque se mida 6.63 de pH, la concentración de hidrógeno iones y de iones hidróxido es la misma.

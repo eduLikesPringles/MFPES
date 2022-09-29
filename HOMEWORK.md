@@ -1,9 +1,9 @@
 # ASAP
-- learn students' names
 
 # ASYNCRONOUS
 - leer la ruptura del ascensor social (noticia?)
 - echarle un vistazo a la notación APA7
+- mirar ISS incendios en no gravedad.
 
 # 2022/09/26
 
@@ -37,4 +37,18 @@
 
     - opción B: medir temperatura vela a diferentes distancias.
         pintar gráfica y comprobar la curva. pintar la curva de las medidas parriba, pabajo, y para el lado.
+
+- enseño cómo se mide
+- pongo algo muy fácil, de medida simple
+- VER VÍDEO WHAT DE FARENHEIT EN YOUTUBE
+- al final me planteo las superficies equipotenciales al rededor de la vela.
+
+# 2022/10/04
+
+- caja de zapatos con monedas dentro. no se puede abrir. tienen que adivinar cuánto hay dentro. preguntas en qué parte del proceso del método científico estoy. se dan cuenta de que es cíclico. preparar un guión en el que apuntamos qué emociones queremos apuntar
+    - segundo nivel: nosotros apuntamos. se divierte? se frustra? qué siente?
+    - tercer nivel: luego les contamos lo que han sentido.
+    - LEER EL PAPER QUE EMPIEZA POR 'INTEGRATING...'
+    - LEER EL PAPER QUE SE LLAMA 'CAJA NEGRA INVESTIGACIÓN EN LA ESCUELA' o algo así
+    - las emociones se pueden ver de forma observacional o de forma declarativa.
 

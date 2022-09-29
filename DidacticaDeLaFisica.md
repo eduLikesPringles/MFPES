@@ -146,3 +146,20 @@ SIGUIENTE TEMA: CIENCIA Y EMOCIONES
     - IMPORTANTE QUE SALGA LA INICIATIVA DE LOS ALUMNOS.
 -	DOCUMENTAL: CAVAR, SOÑAR APRENDER. ECHARLE UN VISTAZO.
 -	Importante conectar las matemáticas con la realidad y que los nuevos conceptos se presenten con lenguaje cotidiano y desde el por qué. (pensar en el ejemplo de la media)
+
+## 2022/09/27
+
+- el enfoque que hay que darle a la práctica es el de un aprendizaje por indagación, mejor que una experiencia guiada.
+- problema del nadador y el aceite. tiramos al bueno al aceite pa que se hunda (como nosotros en el aire).
+- cuál es vuestro volumen? asumiendo que mi densidad es la del agua, y que peso 70kg, mi volumen es 70L.
+- cuanto más divertido, más tensión emocional genera. eso lo mide angel en el contexto de aprendizaje por indagación.
+- un pascal es la presión que ejerce una sábana sobre nosotros.
+- lo  mejor para enseñar algo en simbólico es primero introducir el concepto en lo tangible y luego en abstracto. al final se pasa a lo simbólico.
+- trasposición didáctica: pasar el conocimiento científico a conocimiento académico.
+- 1N es lo que pesa 1 botella con 100 mL de agua
+- la fuerza que puedo ejercer contra la pared es poco más que mi peso.
+- frente a otros animales somos buenos en precisión de tiro, en controlar fuerzas pequeñas (ej. escribiendo)
+- no poner el big picture de primeras. primero que aprendan a medir. luego que aprendar a explicarlo con lenguaje cotidiano. luego resolver un problema divertido con lo aprendido.
+- cuando al medir surgen múltiplos y submúltiplos, se puede introducir los prefijos mega, micro, etc.
+- los espectros de radiación de los elementos químicos se encuentran en los espectros de la radiación de las galaxias. con eso se puede medir la velocidad a la que se alejan de nosotros. sale que todas han salido de donde estamos nosotros. Big Bang. Analogía con el globo que se infla. Aumenta el espacio dentro.
+- contar cifras significativas en contexto. por qué se pone 8.50 en vez de 8.5, etc. el 0 ese se pone porque mi regla medía hasta ahí.

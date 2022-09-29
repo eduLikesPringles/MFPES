@@ -109,3 +109,9 @@
 -	Capacidades de movilizar, articular y hacer que sean funcionales esos contenidos.
 -	**PARA LOS PLÁSTICOS: no tenemos por qué formular. Qué podemos hacer con los plásticos para desarrollar alguna competencia específica? Se puede sintetizar algún plástico? Lo podemos relacionar con los problemas medioambientales.**
 -	Los contenidos son el medio para que construyan la competencia
+
+## 2022/09/27
+
+- un descriptor te especifíca para cada una de las competencias clave (ej STEM), las subcompetencias que hay que adquirir. Se suelen etiquetar STEM1, STEM2, etc. (o algo así)
+- el primer problema profesional con el que nos vamos a encontrar va a ser el de relacionar el currículum con los contenidos de clase.
+- los criterios relacionados con la actividad científica básica hay que meterlos obligatoriamente.

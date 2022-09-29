@@ -29,46 +29,48 @@ APRENDIZAJE Y DESARROLLO DE LA PERSONALIDAD
 -	ACTIVIDAD PRÁCTICA:
     - (recordar las 3 partes: trabajo en grupo, puesta en común, componente individual)
     - Cómo aprendo hoy en día? (como adulto, lo que soy) (no confundirlo con el por qué aprendo)
-        - Se usa mucho internet. Puede distraer, pero si aprendes a usarlo bien, reconoces lo weno de lo malo.
-        - Preguntando mucho para que me apunten.
-        - De mis amigos y compañeros.
-        - Se aprende mucho por boca.
-        - Te juntas con el que sabe.
-        - Ya se ha desarrollado un criterio para elegir la información
-        - Copiando el ejemplo bueno
+        - Se usa mucho internet. Puede distraer, pero si aprendes a usarlo bien, reconoces lo weno de lo malo. OK
+        - Preguntando mucho para que me apunten. OK 
+        - De mis amigos y compañeros. OK
+        - Se aprende mucho por boca. OK
+        - Te juntas con el que sabe. OK
+        - Ya se ha desarrollado un criterio para elegir la información OK
+        - Copiando el ejemplo bueno OK
         - También puede que no haya una sola verdad o una sola forma buena de hacerlo.
-        - Videotutoriales.
-        - Ahora vamos a lo que nos gusta y aprendemos de ahí.
-        - Fallando mucho y asumiendo las consecuencias de tus errores. Antes era todo más guiado.
-        - Ahora aprendemos más despacio pero mejor, porque el tiempo no es limitante.
-        - Con ejemplos se aprende
-        - Con cosas tangibles. Con analogías.
+        - Videotutoriales. OK
+        - Ahora vamos a lo que nos gusta y aprendemos de ahí. OK
+        - Fallando mucho y asumiendo las consecuencias de tus errores. Antes era todo más guiado. OK
+        - Ahora aprendemos más despacio pero mejor, porque el tiempo no es limitante. OK
+        - Con ejemplos se aprende OK
+        - Con cosas tangibles. Con analogías. PERSONAL
     - Cómo he aprendido todo lo que sé hoy?
-        - Memorizando (más en clase)
-        - En casa con experiencias
-        - En el cole haciendo todo por pasos
-        - Diferentes fuentes. En casa más visual y práctico.
-        - Hacer ejercicios. Teoría – ejercicios – problemas.
-        - La repetición hacía aprender muy bien
-        - Los esquemas ayudaban a aprender.
-        - Tema valores observando qué tratos me gustaban o no e intentar replicar lo weno. También experimentando. Tiras del pelo ala gente y les duele, entonces no lo haces más.
-        - Algunos bajo presión. Yo era más organizado. Tenía horarios.
-        - Por castigo recompensa.
-        - Yo de pequeño con mi amigo pedro y migui. Enseñando a mis amigos. Aprendizaje con iguales o algo así.
-        - A hablar por imitación
+        - Memorizando (más en clase) OK
+        - En casa con experiencias OK
+        - En el cole haciendo todo por pasos OK
+        - Diferentes fuentes. En casa más visual y práctico. OK
+        - Hacer ejercicios. Teoría – ejercicios – problemas. OK
+        - La repetición hacía aprender muy bien OK
+        - Los esquemas ayudaban a aprender. OK
+        - Tema valores observando qué tratos me gustaban o no e intentar replicar lo weno. También experimentando. Tiras del pelo ala gente y les duele, entonces no lo haces más. OK
+        - Algunos bajo presión. Yo era más organizado. Tenía horarios. OK
+        - Por castigo recompensa. OK
+        - Yo de pequeño con mi amigo pedro y migui. Enseñando a mis amigos. Aprendizaje con iguales o algo así. PERSONAL
+        - A hablar por imitación OK
     - Tips del profe:
         - Entregar la parte de grupo todos igual
         - Darle forma más de redacción
         - No limitar el aprendizaje al contexto académico. Hablar tb de lo que se aprende fuera.
-        - Hemos aprendido siempre a solas? O con alguien?
-        - Se aprende de la misma forma ahora que de pequeños?
-        - Hemos dejado de aprender con ojos de niño?
+        - Hemos aprendido siempre a solas? O con alguien? FALTA
+        - Se aprende de la misma forma ahora que de pequeños? FALTA
+        - Hemos dejado de aprender con ojos de niño? FALTA
         - Cómo aprendimos a atarnos los cordones de las zapas, a nadar, a montar en bici, a andar, a andar?
+
+
     - Qué dice el resto de grupos?
         - Educación obligatoria más estricta y no por interés. Miedo a sacar mala nota o por que te pongan un negativo. Luego hay más libertad de elegir y mueve también el interés.
         - Proceso más básico observar y repetir.
         - Info se recibe en solitario pero luego aprendizaje es más en grupos. Puesta en común de entendimiento de conceptos.
-        - Mi amigo estalella me enseñó a limpiarme el culo
+        - Mi amigo estalella me enseñó a limpiarme el culo PERSONAL
         - De pequeños somos más dependientes de la confianza en los demás. Ahora tenemos menos miedo. Ahora somos más crédulos o más críticos? Somos ahora más flexibles ahora al cambiar nuestra forma de pensar? De pequeño eres más moldeable. Ahora no tanto. Ahora tienes prejuicios, te cuesta más adaptarte a lo que te cuentan. Ahora quizá más sesgado.
         - Lo que no les ha pasado a los niños, para ellos no existe. Cómo eres capaz de meterte dentro de su lógica para que te entienda?
         - El profe que está cerca de la realidad de lo que yo hago, me va a enseñar mejor. Corolario: conoce mejor a quien enseñas.
