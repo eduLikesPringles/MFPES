@@ -29,7 +29,7 @@
 - ejercicios orbitales atómicos tema 1_2 pg 41
 - repasar diamagnetismo vs paramagnetismo
 
-# 2022/09/29
+# 2022/10/04
 ## D. Física
 - inventar una medida que tomar en casa
     - opción A: pelota, hilo y regla para comprobar volumen.
@@ -52,3 +52,20 @@
     - LEER EL PAPER QUE SE LLAMA 'CAJA NEGRA INVESTIGACIÓN EN LA ESCUELA' o algo así
     - las emociones se pueden ver de forma observacional o de forma declarativa.
 
+## 2022/10/06
+
+ANÁLISIS Y DESARROLLO DE LA PERSONALIDAD:
+
+tenemos en clase a un chico o chica, que con sus intervenciones nos impide dar la clase. qué puedo hacer con ellos para poder darla?
+
+PARTE GRUPAL:
+- Marta con niños en exclusión social dice que aunque sean malos, hablando los entiendes. Si ven que se puede dialogar contigo.
+- quizá el primer día poner límites. que vean que no pasas, que te interesa que aprendan.
+- hablar con el alumno fuera de la clase. atacando la superficie. si no se muestra receptivo intentar buscar info en otros profes. o quizá hacer una encuesta en clase donde apuntan lo que les gusta y lo que no.
+- si eso no funciona, podemos hacer lo de la tabla de puntitos. reflejar en esa tabla posibles comportamientos individuales que puedan impedir la clase.
+- contar alguna batallita que se asemeje a lo que estaba pasando. dejar claras las consecuencias que eso tuvo para el resto de la clase.
+- estimular al chaval para que no interfiera. que haga de pinche.
+- yo tuve profes que naturalizaban las bromas. las reían con nosotros, pero luego ponían el límite y comenzaba la clase.
+- aprovechar una situación de distracción para redirigir la dirección de la clase. ejemplo de la lluvia.
+- no infantilizar. tratarlos como a gente mayor.
+- si toca muchos los huevos soltarle la típica de si no te interesa no atiendas, pero por lo menos callate.

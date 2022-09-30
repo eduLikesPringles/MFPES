@@ -86,3 +86,26 @@ APRENDIZAJE Y DESARROLLO DE LA PERSONALIDAD
         - Primero te fijas en profes y padres. Luego observas, reflexionas y haces.
         - Ana dice que no podemos ‘inculcar’ a los niños lo que es malo. Tenemos que guiar su pensamiento.
         - Nuestras creencias matizan las acciones que tomamos al enseñar.
+
+## 2022/09/29
+
+- reforzamiento: las consecuncias de nuestros actos.
+- las consecuencias de nuestros comportamientos son las que determinan si repetimos o no esos comportamientos.
+- los castigos se llaman de refuerzos aversivos
+- los premios son refuerzos negativos
+- cómo era el ejemplo con salimos 10 min antes? salimos 10 min después? no salimos 10 min antes?
+- cuidado con castigar los malos comportamientos de un individuo. si se ven reforzados por el grupo, va a seguir portándose así.
+- es importante reconocer el comportamiento opuesto al malo. a veces castigamos lo malo, pero no premiamos lo opuesto de lo malo.
+- principio de la contingencia: en cuanto el alumno se porta bien o mal le premio o le castigo al instante. así el alumno establece una relación causa efecto en cuanto a las consecuencias de sus comportamientos.
+- principio de la credibilidad: perro ladrador poco mordedor. sé consecuente con lo que dices que vas a hacer. si has dicho que vas a castigar, castigas. cumplir con la amenaza y cumplir con el premio.
+- el usar refuerzos mal es peor que el no usarlos. a corto plazo: los alumnos se portan bien solo cuando estás delante. si solo repartes sugus cuando hacen algo bien, generas una dependencia. a larco plazo: 
+- para administrar premios: controlar la variable tiempo y controlar la variable cantidad. cuando preguntan, agradezco la pregunta la primera o segunda vez. a partir de ahí ya no alabo la pregunta tan frecuentemente. voy a ir haciéndolo cada vez menos, para que se normalice esa conducta.
+- técnica de aproximaciones sucesivas. reconocer partes buenas del comportamiento en alguien que se porte peor, para corregir poco a poco su comportamiento.
+- 5 técnicas de modificación de conducta en orden ascendente de dificultad:
+    - técnica de la extinción: no hacer caso al alumno que se porte mal. se usa cuando no es conveniente interrumpir la clase.
+    - técnica de la saturación: el sujeto repite o hace ese comportamiento hasta que se harte. ahora cuenta a toda la clase todo lo que has hablado con el de al lado.
+    - técnica de la economía de fichas: establecer unas reglas de juego (no gritar, no decir palabrotas, respetar el turno de palabra, etc.) Al final de la semana, o 15 días, en función de las monedas que la clase acumule, se pueden canjear por un tipo de beneficio u otro. Esto funciona para alumnos más pequeños.
+    - el penúltimo se me ha olvidado apuntarlo.
+    - el último: la técnica de contrato de contingencias.negociar con el alumno determinados beneficios a cambio de que te deje dar clase. dejar a los más problemáticos que lleguen tarde, que se pongan los cascos, etc. que él no te moleste a tí y que tú no el molestes a él. hay un libro que se titula cómo dar clase a los que no quieren. de ahí se pueden aprender recursos guays para enseñar a los que no quieren.
+
+    

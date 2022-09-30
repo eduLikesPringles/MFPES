@@ -163,3 +163,10 @@ SIGUIENTE TEMA: CIENCIA Y EMOCIONES
 - cuando al medir surgen múltiplos y submúltiplos, se puede introducir los prefijos mega, micro, etc.
 - los espectros de radiación de los elementos químicos se encuentran en los espectros de la radiación de las galaxias. con eso se puede medir la velocidad a la que se alejan de nosotros. sale que todas han salido de donde estamos nosotros. Big Bang. Analogía con el globo que se infla. Aumenta el espacio dentro.
 - contar cifras significativas en contexto. por qué se pone 8.50 en vez de 8.5, etc. el 0 ese se pone porque mi regla medía hasta ahí.
+
+## 2022/09/29
+
+- metacognitivo: cuando analizas lo cognitivo
+- metaafectivo: cuando analizas lo afectivo
+- se juntan por bernouilli. las botellas de agua al soplar en medio!
+- cambio emocional cálido vs cambio emocional frío.
