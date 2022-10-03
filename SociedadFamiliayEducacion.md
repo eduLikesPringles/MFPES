@@ -60,3 +60,7 @@
 estamos en el plano epistemológico: qué puede conocerse de la realidad social? no estamos en el plano ontológico, ni en el metodológico, ni en el tecnológico.
 - efecto pigmalion: capacidad que tiene un profesor de proyectar sobre un alumno si va a poder o no hacerse con la asignatura.
 
+## 2022/10/03
+
+- vamos a hablar de perspectiva de género
+- género vs sexo: sexo tiene que ver con la biología (cromosomas, etc.) 

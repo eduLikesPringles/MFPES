@@ -5,13 +5,7 @@
 - echarle un vistazo a la notación APA7
 - mirar ISS incendios en no gravedad.
 
-# 2022/09/26
-
-## Procesos y Contextos Educativos
-- leer lo que ha colgao la profe del tema y preguntar dudas
-- hacer grupos de 4
-
-# 2022/09/28
+## Complementos de Química
 
 - seguir leyendo los pdfs del tema 2
 - formulación ejercicios tema 1_1 pg 43 (lo empecé en el cuaderno)
@@ -43,8 +37,6 @@
 - VER VÍDEO WHAT DE FARENHEIT EN YOUTUBE
 - al final me planteo las superficies equipotenciales al rededor de la vela.
 
-# 2022/10/04
-
 - caja de zapatos con monedas dentro. no se puede abrir. tienen que adivinar cuánto hay dentro. preguntas en qué parte del proceso del método científico estoy. se dan cuenta de que es cíclico. preparar un guión en el que apuntamos qué emociones queremos apuntar
     - segundo nivel: nosotros apuntamos. se divierte? se frustra? qué siente?
     - tercer nivel: luego les contamos lo que han sentido.
@@ -69,3 +61,29 @@ PARTE GRUPAL:
 - aprovechar una situación de distracción para redirigir la dirección de la clase. ejemplo de la lluvia.
 - no infantilizar. tratarlos como a gente mayor.
 - si toca muchos los huevos soltarle la típica de si no te interesa no atiendas, pero por lo menos callate.
+
+# 2022/10/07
+# 2022/10/08
+# 2022/10/09
+# 2022/10/10
+# 2022/10/11
+# 2022/10/12
+# 2022/10/13
+# 2022/10/14
+# 2022/10/15
+# 2022/10/16
+# 2022/10/17
+# 2022/10/18
+# 2022/10/19
+# 2022/10/20
+# 2022/10/21
+# 2022/10/22
+# 2022/10/23
+# 2022/10/24
+# 2022/10/25
+# 2022/10/26
+# 2022/10/27
+# 2022/10/28
+# 2022/10/29
+# 2022/10/30
+# 2022/10/31
