@@ -170,3 +170,20 @@ SIGUIENTE TEMA: CIENCIA Y EMOCIONES
 - metaafectivo: cuando analizas lo afectivo
 - se juntan por bernouilli. las botellas de agua al soplar en medio!
 - cambio emocional cálido vs cambio emocional frío.
+
+## 2022/10/04
+
+- Dinámica de "Caja Negra" en clase:
+    - cada vez han ido sofisticando más los experimentos.
+    - primero mucha alegría ("qué divertido esto"). Es crucial que el experimento sea abierto. Empiezan a negociar ("Venga, dímelo y así ganamos a los otros grupos!").
+    - luego se ponen manos a la obra. Prueban estrategias de análisis. Estas las aplican sistemáticamente.
+    - los observadores no sabíamos lo que estaban sintiendo, pero podíamos intuirlo.
+    - cuando alguien del grupo se viene abajo, puedo hablar con él en petit comité para traerle arriba.
+    - puedo apoyar al reflexivo en vez de al gracioso, para guiar bien por el buen camino.
+    - a veces son las emociones las que arrastran el comportamiento cognitivo y a veces al revés.
+    - no soy psicñologo pero sí profe. puedo darles el imán en el momento preciso. puedo apoyar al reflexivo para darle más protagonismo.
+    - como emociones y procesos cognitivos están ligados, intervengo sobre los cognitivos para modular las emociones y favorecer las que ayudan al aprendizaje.
+    - solo emociones es psicología. si estas emociones las ligamos con procesos cognitivos y las fases del proceso de aprendizaje en el que están, ya entramos en educación. está bien que se diviertan, pero no todo es divertirse. también hay que aprender.
+    - al trabajar en grupo pasaba que cuando uno se desenganchaba, luego se reenganchaba cuando se proponía una idea nueva. lo que de manera solitaria podría haber ido muy a trompicones, en grupo va más fluido. los individuos se pueden permitir distraerse, frustrarse o relajarse de vez en cuando, pq el resto del grupo va tirando.
+    - además cuando se explica al que se desengancha, se aseguran el resto de componentes de que están entendiendo bien lo que han aprendido, pq saben explicarlo!
+    

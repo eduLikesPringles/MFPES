@@ -115,3 +115,11 @@
 - un descriptor te especifíca para cada una de las competencias clave (ej STEM), las subcompetencias que hay que adquirir. Se suelen etiquetar STEM1, STEM2, etc. (o algo así)
 - el primer problema profesional con el que nos vamos a encontrar va a ser el de relacionar el currículum con los contenidos de clase.
 - los criterios relacionados con la actividad científica básica hay que meterlos obligatoriamente.
+
+## 2022/10/04
+
+- por qué ahora el enfoque es por competencias?
+    - porque se acercan más a los saberes útiles del mundo real
+- ya tenemos en europa a mazo peña escolarizada. por eso ahora hay que trabajar hacia mejorar la calidad.
+- competencias: combinación de destrezas, conocimientos y actitudes que posee una persona. o definido de otra manera: combinación de destrezas, conocimientos y actitudes adecuadas al contexto.
+- tipos de competencia: clave o básicas, y científica (específica de nuestra especialidad FyQ)

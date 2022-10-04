@@ -1,4 +1,5 @@
 # ASAP
+- trabajo de PyCE del viernes pasado!
 
 # ASYNCRONOUS
 - leer la ruptura del ascensor social (noticia?)
@@ -22,27 +23,19 @@
 - repasar cómo se ordenaban los electrones en orbitales
 - ejercicios orbitales atómicos tema 1_2 pg 41
 - repasar diamagnetismo vs paramagnetismo
+- buscar qué era el principio de le chatelier
 
 # 2022/10/04
 ## D. Física
-- inventar una medida que tomar en casa
-    - opción A: pelota, hilo y regla para comprobar volumen.
-        obtenerlo tb con principio de Arquímedes.
-
-    - opción B: medir temperatura vela a diferentes distancias.
-        pintar gráfica y comprobar la curva. pintar la curva de las medidas parriba, pabajo, y para el lado.
+- medir temperatura vela a diferentes distancias. pintar gráfica y comprobar la curva. pintar la curva de las medidas parriba, pabajo, y para el lado.
 
 - enseño cómo se mide
 - pongo algo muy fácil, de medida simple
 - VER VÍDEO WHAT DE FARENHEIT EN YOUTUBE
 - al final me planteo las superficies equipotenciales al rededor de la vela.
 
-- caja de zapatos con monedas dentro. no se puede abrir. tienen que adivinar cuánto hay dentro. preguntas en qué parte del proceso del método científico estoy. se dan cuenta de que es cíclico. preparar un guión en el que apuntamos qué emociones queremos apuntar
-    - segundo nivel: nosotros apuntamos. se divierte? se frustra? qué siente?
-    - tercer nivel: luego les contamos lo que han sentido.
-    - LEER EL PAPER QUE EMPIEZA POR 'INTEGRATING...'
-    - LEER EL PAPER QUE SE LLAMA 'CAJA NEGRA INVESTIGACIÓN EN LA ESCUELA' o algo así
-    - las emociones se pueden ver de forma observacional o de forma declarativa.
+- cómo evalúo? lo sofisticado de la medida? la imaginación? la capacidad de movilizar medios?
+- HACER GUIÓN 
 
 ## 2022/10/06
 
@@ -64,7 +57,13 @@ PARTE GRUPAL:
 
 # 2022/10/07
 # 2022/10/08
+
 # 2022/10/09
+## Didáctica de la Física
+- mirar todo lo que se pueda de plásticos.
+- ponerlo en común.
+- intentar ligarlo con las competencias del excel
+
 # 2022/10/10
 # 2022/10/11
 # 2022/10/12

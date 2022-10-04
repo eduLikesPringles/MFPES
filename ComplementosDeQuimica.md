@@ -48,3 +48,15 @@ formar iones cargados negativamente: aniones.
 - ácido fuerte no implica que te queme más o menos. fuerte tiene que ver con que la reacción sea reversible (aquí sería ácido débil) o no (aquí sería ácido fuerte, cuando la reacción se produce por completo).
 - la escala pH solo tiene sentido para disoluciones diluidas.
 - el agua pura NO es ácida a 50ºC. Aunque se mida 6.63 de pH, la concentración de hidrógeno iones y de iones hidróxido es la misma.
+
+## 2022/10/04
+
+- en un sistema en equilibibrio, los componentes se escriben con dos flechitas
+- la cantidad de moles en el equilibrio tiene que ver con la cantidad de moles de cada especie con las que partimos.
+- ley de acción de masas: apuntada en el cuadernillo Bluetaber
+- en un gas ideal las moléculas no ocupan volumen y no interaccionan entre sí
+- condiciones estandar suele ser 1 bar de presión, concentración de 1 molar y normalmente, aunque no tiene por qué, a 25 grados.
+- el mármol es carbonato de calcio.
+- si la K(sub_c) es muy pequeña, significa que el equilibrio está desplazado muy a la izquierda (?)
+- solubilidad se mide en gramos partido mililitro. nada es completamente insoluble.
+- una disolución saturada contiene el máximo posible de soluto disuelto.
