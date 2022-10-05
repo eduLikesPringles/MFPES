@@ -60,3 +60,11 @@ formar iones cargados negativamente: aniones.
 - si la K(sub_c) es muy pequeña, significa que el equilibrio está desplazado muy a la izquierda (?)
 - solubilidad se mide en gramos partido mililitro. nada es completamente insoluble.
 - una disolución saturada contiene el máximo posible de soluto disuelto.
+
+## 2022/10/05
+
+- los NOx son responsables de la lluvia ácida. vienen sobre todo de los tubos de escape de los coches. el N2 y 02 están presentes en la atmósfera. a temp ambiente no reaccionan. no obstante, a temps muy eleveadas, reaccionan para dar óxidos de nitrógenos. en un coche no entra 02 puro, sino que entra aire natural. eso contiene un 80% de N2, por lo que a las altas temperaturas alcanzadas en el motor del coche, se crean NOx.
+- el oxidante se reduce y el reductor se oxida. el oxidante al reducirse gana electrones.
+- para ajustar reacciones redox en medio ácido, puedes añadir agua y cationes hidrógeno
+- pera ajustar reacciones redox en medio básico, puedes añadir agua y aniones hidróxido.
+- por convenio se tabulan los pares en el sentido de la reducción. (la tablita con los potenciales de las pilas esas raras)

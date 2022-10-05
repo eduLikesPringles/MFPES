@@ -24,6 +24,7 @@
 - ejercicios orbitales atómicos tema 1_2 pg 41
 - repasar diamagnetismo vs paramagnetismo
 - buscar qué era el principio de le chatelier
+- qué era la dismutación?
 
 # 2022/10/04
 ## D. Física
@@ -39,7 +40,10 @@
 
 ## 2022/10/06
 
-ANÁLISIS Y DESARROLLO DE LA PERSONALIDAD:
+## clase de los lunes:
+- chequear trabajo de los compis
+
+## ANÁLISIS Y DESARROLLO DE LA PERSONALIDAD:
 
 tenemos en clase a un chico o chica, que con sus intervenciones nos impide dar la clase. qué puedo hacer con ellos para poder darla?
 
