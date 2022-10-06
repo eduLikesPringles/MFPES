@@ -123,3 +123,7 @@
 - ya tenemos en europa a mazo peña escolarizada. por eso ahora hay que trabajar hacia mejorar la calidad.
 - competencias: combinación de destrezas, conocimientos y actitudes que posee una persona. o definido de otra manera: combinación de destrezas, conocimientos y actitudes adecuadas al contexto.
 - tipos de competencia: clave o básicas, y científica (específica de nuestra especialidad FyQ)
+
+## 2022/10/06
+
+- el conocimiento escolar y el conocimiento científico son distintos

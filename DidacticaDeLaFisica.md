@@ -187,3 +187,37 @@ SIGUIENTE TEMA: CIENCIA Y EMOCIONES
     - al trabajar en grupo pasaba que cuando uno se desenganchaba, luego se reenganchaba cuando se proponía una idea nueva. lo que de manera solitaria podría haber ido muy a trompicones, en grupo va más fluido. los individuos se pueden permitir distraerse, frustrarse o relajarse de vez en cuando, pq el resto del grupo va tirando.
     - además cuando se explica al que se desengancha, se aseguran el resto de componentes de que están entendiendo bien lo que han aprendido, pq saben explicarlo!
     
+    ## 2022/10/06
+    ### ACTIVIDADES POR GRUPOS
+    - lo difícil de hacer actividades abiertas es que son muy difíciles de controlar
+
+    - Grupo 1 (Mika, Diego, etc.): Anemómetro
+        - alumnos miden a diferentes alturas.
+        - medir la velocidad del viento en...
+
+    - Grupo 2 (Laura, Carlos Elías, etc.): ver cuánta agua se derrocha en un día
+        - se han enfocado en el diseño: mido las gotas en un intervalo y luego extrapolo a lo que cae en un día?
+        - es casi más de estimar que de medir.
+
+    - Grupo 3 (Mi grupo): Vela y temperatura
+        - es cerrada 
+        - va mucho sobre diseño experimental. mido de cerca a lejos o de lejos a cerca?
+        - por ejemplo podemos pedir que midan las isotermas en el entorno de un foco
+        - la parte del diseño sería guiada y en la parte abierta les decimos que midan cosas en casa. nevera, vela, fogón, etc.
+    
+    - Grupo 4 (Safa, Andrea, etc.): 
+        - cuál es el volumen de un vagón de tren del metro de madrid?
+
+    - Grupo 5 (Mariajo, Ana, Joseba, etc.):
+        - 
+
+    - Grupo X (Emilio, etc.)
+        - medir velocidades al subir pisos de escaleras. lo pueden medir en pisos, en escaleras, o en metros por segundo.
+        - Ángel propone relacionar esas medidas con la potencia generada por el ser humano que sube las escaleras.
+        - la potencia del ser humano es como de 2 caballos. (1CV no es la potencia de un caballo de carne y hueso).
+
+# TEMA 3: LAS CONCEPCIONES ALTERNATIVAS
+
+- quién y cómo se investiga qué es pensar?
+    - cada ciencia lo investiga con sus propios métodos
+    - habla Ángel de las hormigas, que son tontas como unidad, pero el sistema es inteligente. Pone el ejemplo de los dos caminos de las hormigas. Hay uno largo y otro corto.

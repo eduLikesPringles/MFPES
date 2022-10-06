@@ -1,10 +1,11 @@
 # ASAP
-- trabajo de PyCE del viernes pasado!
+- trabajo de PyCE del viernes pasado! Enviar actividad por correo.
 
 # ASYNCRONOUS
 - leer la ruptura del ascensor social (noticia?)
 - echarle un vistazo a la notación APA7
 - mirar ISS incendios en no gravedad.
+- VER VÍDEO WHAT DE FARENHEIT EN YOUTUBE
 
 ## Complementos de Química
 
@@ -26,18 +27,6 @@
 - buscar qué era el principio de le chatelier
 - qué era la dismutación?
 
-# 2022/10/04
-## D. Física
-- medir temperatura vela a diferentes distancias. pintar gráfica y comprobar la curva. pintar la curva de las medidas parriba, pabajo, y para el lado.
-
-- enseño cómo se mide
-- pongo algo muy fácil, de medida simple
-- VER VÍDEO WHAT DE FARENHEIT EN YOUTUBE
-- al final me planteo las superficies equipotenciales al rededor de la vela.
-
-- cómo evalúo? lo sofisticado de la medida? la imaginación? la capacidad de movilizar medios?
-- HACER GUIÓN 
-
 ## 2022/10/06
 
 ## clase de los lunes:
@@ -48,6 +37,7 @@
 tenemos en clase a un chico o chica, que con sus intervenciones nos impide dar la clase. qué puedo hacer con ellos para poder darla?
 
 PARTE GRUPAL:
+- llamar la atención en clase
 - Marta con niños en exclusión social dice que aunque sean malos, hablando los entiendes. Si ven que se puede dialogar contigo.
 - quizá el primer día poner límites. que vean que no pasas, que te interesa que aprendan.
 - hablar con el alumno fuera de la clase. atacando la superficie. si no se muestra receptivo intentar buscar info en otros profes. o quizá hacer una encuesta en clase donde apuntan lo que les gusta y lo que no.
@@ -58,6 +48,44 @@ PARTE GRUPAL:
 - aprovechar una situación de distracción para redirigir la dirección de la clase. ejemplo de la lluvia.
 - no infantilizar. tratarlos como a gente mayor.
 - si toca muchos los huevos soltarle la típica de si no te interesa no atiendas, pero por lo menos callate.
+- decir que les afecta a los compañeros
+
+- sacarle de clase y hacer la clase divertida cuando él no está
+- notita a los padres o cualquier otra cosa que le de miedo
+- privándole de recreos (poniendo partes por ejemplo)
+- negociar con él el aprobado a cambio de que me deje en paz al resto de compañeros
+- volver la clase más aburrida si esa persona está molestando
+
+- comparación de edades:
+    - de más mayores les jode más que les quiten la libertad
+    - de más pequeños les jode más que te comuniques con tus padres
+
+- pistas del profe:
+    - cómo tenemos en cuenta la reacción del grupo de compañeros?
+    - a veces los comportamientos se producen por no evitarlos a tiempo. a veces se produce por no resaltar lo bueno. a veces pasa que al individuo le renta que se rían sus amigos aunque le castigues.
+    - el profe dice que el hablar con el chaval es una NO SOLUCIÓN.
+
+    - si le ríen las gracias, tarea para casa para todos.
+
+PUESTA EN COMÚN EN CLASE:
+- lo de sacar a la gente en clase dice Diego que aplica más a los más pequeños, porque ellos suelen tener más vergüenza a salir.
+- David dice aplicar la técnica del silencio incómodo.
+- El Doctor dice que nosotros tb tenemos que analizar a los alumnos que vamos a tener. 
+- Diego habla de conocer bien las relaciones entre los alumnos para ver quienes van a ser los más problemáticos, quienes van a reír más las gracias, etc. El que se porta mal es el popular? Es el 
+- Carlos Elías habla de controlar dónde se sientan los alumnos
+- Mariajo habla de excursiones premio, a toda la clase, si se portan todos bien. Esto genera debate, porque hay algunos que dicen que la clase se te vuelve en contra por quitarle a los buenos el premio por culpa de los malos.
+
+SIGUIENTE CASO:
+
+- cómo hago que alguien que no participa en clase, participe? si se calla, no responde, se sonroja, llora, etc.
+
+- paso a paso. si no me lo haces en la pizarra, hazmelo en un papel.
+- mika dice que dos casos: ansiedad social y ansiedad por conocimientos.
+- crear una confianza (no hay preguntas tontas).
+- los compis hablan que si se bloquean, pedirles cosas por separado y tal.
+- tutorías. la vida social va de hablar en público y cada vez más vas a tener que hablar más en público. aquí tenemos un espacio bastante más friendly para tener un diálogo pq no es un chaval problemático.
+- refuerzo positivo con caramelos a toda la clase. para eso prima que haya un buen ambiente en clase.
+- tutoría o charlas obligatorias para los que se ríen del que habla en clase y por eso le da vergüenza.
 
 # 2022/10/07
 # 2022/10/08
@@ -69,9 +97,17 @@ PARTE GRUPAL:
 - intentar ligarlo con las competencias del excel
 
 # 2022/10/10
+## DIDÁCTICA DE LA QUÍMICA
+- analizar fragmentos seleccionados de libros de texto (MIRAR LOS DEBERES EN LA CLASE DEL día 06 en el campus)
+
 # 2022/10/11
 # 2022/10/12
+
 # 2022/10/13
+## DIDÁCTICA DE LA FÍSICA
+- hacer la actividad de medidas propuesta por el grupo 2.
+- crear un sistema de evaluación (rúbrica) para evaluar al grupo que haga nuestra actividad (que va a ser el 4).
+
 # 2022/10/14
 # 2022/10/15
 # 2022/10/16
