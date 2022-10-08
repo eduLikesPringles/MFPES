@@ -2,10 +2,6 @@
 - trabajo de PyCE del viernes pasado! Enviar actividad por correo.
 
 # ASYNCRONOUS
-- leer la ruptura del ascensor social (noticia?)
-- echarle un vistazo a la notación APA7
-- mirar ISS incendios en no gravedad.
-- VER VÍDEO WHAT DE FARENHEIT EN YOUTUBE
 
 ## Complementos de Química
 
@@ -34,16 +30,28 @@
 
 ## ANÁLISIS Y DESARROLLO DE LA PERSONALIDAD:
 
-tenemos en clase a un chico o chica, que con sus intervenciones nos impide dar la clase. qué puedo hacer con ellos para poder darla?
+QUÉ HACER CON UN ESTUDIANTE QUE IMPIDE DAR CLASE:
+
+En mi grupo, hemos decidido que la acción que tomamos al respecto, tiene que ver con la intensidad de la molestia del alumno, o con el nivel de aceptabilidad social de su comportamiento. Por ejemplo, si el alumno solamente está hablando con el compañero de al lado porque se ha distraído, consideramos suficiente un simple toque de atención; mientras que si se dedica a gritar, tirar cosas, o faltar el respeto de alguna manera, la intervención sería más severa, por ejemplo sacándolo de clase y poniendo un parte.
+
+Por eso, hemos ordenado de menor a mayor 'severidad' las intervenciones que podríamos llevar a cabo como docentes. Como acabo de mencionar, ante distracciones involuntarias o más leves, vemos correcto tomar medidas como dar un toque de atención. También hemos considerado, reenfocar la atención del alumno involucrándole con lo que estemos haciendo en clase: si por ejemplo estamos haciendo un experimento, lo podemos sacar a que nos haga de pinche. O si estamos resolviendo ejercicios, podemos sacarle a la pizarra a ayudar.
+
+Si la distracción que el alumno genera en la clase va más allá de simple ruido, y se puede distinguir lo que está diciendo, nosotros como docentes podemos utilizar el tema del que se esté hablando y comentar algo relacionado con ello. Por ejemplo, un caso muy común es el de "Hala! Está granizando!" - A lo que toda la clase mira y se distrae. El docente puede aprovechar para contar una historia interesante sobre por qué graniza, o incluso incentivar a los alumnos a participar ofreciendo un premio (ej. caramelos, una subida pequeña de nota, etc.) De esa manera, consigue que los alumnos vuelvan a prestar atención y al terminar ese breve paréntesis puede seguir dando la clase, habiendo validado la curiosidad del alumno distractor y sin haberla castigado.
+
+Ligando con esta idea de validar, también podría darse el caso en el que un alumno comente algo gracioso relacionado con lo que se esté aprendiendo en un momento dado. Eso podría penalizarse de manera severa si el humor tiene carácter peyorativo, por ejemplo hacia un alumno. Pero luego comentaré esos casos más difíciles. Si se trata de una broma inocente, también puede ser buena idea validar ese sentido del humor, riendo junto a la clase la gracia y reconociendo que no ha estado mal (si ese es el caso), o riéndose de lo mala que es por ejemplo. Acto seguido, el docente debe seguir con la clase, de nuevo aprovechando que ha recuperado la atención del alumnado al dejar hueco para esa broma y reaccionar. Esto también coloca al docente en una posición de igualdad con el alumno, porque se involucra en las mismas cosas (la broma en este caso) y puede generar un ambiente distendido en el que aprender. Lanza el mensaje "yo cedo un poco si vosotros atendéis. Dejo que nos riamos un rato para descansar la mente, pero luego atendedme".
+
+En ocasiones, este tipo de mensajes se pueden lanzar de manera explícita. En mi opinión, puede ser beneficioso tomar 
+
 
 PARTE GRUPAL:
+
+
 - llamar la atención en clase
 - Marta con niños en exclusión social dice que aunque sean malos, hablando los entiendes. Si ven que se puede dialogar contigo.
 - quizá el primer día poner límites. que vean que no pasas, que te interesa que aprendan.
 - hablar con el alumno fuera de la clase. atacando la superficie. si no se muestra receptivo intentar buscar info en otros profes. o quizá hacer una encuesta en clase donde apuntan lo que les gusta y lo que no.
 - si eso no funciona, podemos hacer lo de la tabla de puntitos. reflejar en esa tabla posibles comportamientos individuales que puedan impedir la clase.
 - contar alguna batallita que se asemeje a lo que estaba pasando. dejar claras las consecuencias que eso tuvo para el resto de la clase.
-- estimular al chaval para que no interfiera. que haga de pinche.
 - yo tuve profes que naturalizaban las bromas. las reían con nosotros, pero luego ponían el límite y comenzaba la clase.
 - aprovechar una situación de distracción para redirigir la dirección de la clase. ejemplo de la lluvia.
 - no infantilizar. tratarlos como a gente mayor.
