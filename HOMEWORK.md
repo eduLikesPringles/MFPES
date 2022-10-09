@@ -1,5 +1,4 @@
 # ASAP
-- trabajo de PyCE del viernes pasado! Enviar actividad por correo.
 
 # ASYNCRONOUS
 
