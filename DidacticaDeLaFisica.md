@@ -221,3 +221,32 @@ SIGUIENTE TEMA: CIENCIA Y EMOCIONES
 - quién y cómo se investiga qué es pensar?
     - cada ciencia lo investiga con sus propios métodos
     - habla Ángel de las hormigas, que son tontas como unidad, pero el sistema es inteligente. Pone el ejemplo de los dos caminos de las hormigas. Hay uno largo y otro corto.
+
+## 2022/10/11
+
+- a nadie le interesa que los niños aprendan. solo quieren que les hagas de niñera en la guardería.
+- nosotros pensamos como somos. nuestra estructura fisiológica nos hace pensar como pensamos.
+- nuestra estructura matematico-física está basada en longitudes y no en áreas pq se nos da muy bien medir distancias. antes teníamos que medir lass distancias de árbol a árbol para trepar.
+- las aves miden muy bien las áreas.
+- en el propio índice de un libro esetamos diciendo cómo somos nosotros. el arcoiris lo categorizaamos dividiendo en colores discretos, cuando es un espectro contínuo de emisión.
+- cuando los nenes entran a una clase de física, vienen con sus conceptos armados. lo que hay que hacer promero es destruirlos para construir bien. recuerdas cuando te dijeron que la pared te empujaba de vuelta?
+
+### LAS CONCEPCIONES ALTERNATIVAS
+
+- en este campo hay un montón de investigación fenomenológica.
+- para acabar con misconceptions, el profesor propone explicar como lo hicieron los grandes en cada momento. la forma de aprender de los alumnos va a ser parecida cronológicamente a lo que sucedió a lo largo de la historia. con saber con qué período histórico corresponde la misconception, sabemos como explicar para arreglarla (como galileo en su momento, por ejemplo).
+- por qué se producen las misconceptions?
+- aprendizaje experiencial vs aprendizaje experimental. 
+- fuerza y presión se confunden porque al tacto se sienten muy parecidas. misma fuerza con la palma y con un dedo: la diferencia es que el dedo 'duele' un poco más.
+- cuando doy calor a algo cambia su temperatura? NO siempre! En un cambio de estado no pasa.
+- si no hago fuerza, el objeto se queda parado? NO! si ya estaba en movimiento, sigue con la misma velocidad.
+
+### BASES NEUROCIENTÍFICAS PARA EXPLICAR ALGUNAS CONCEPCIONES ALTERNATIVAS.
+
+- en las ciencias sociales todo es observacional o declarativo. las ciencias de la educación han sido así históricamente y llevaban así 50 años. ahora está siendo también una ciencia experimental.
+- angel tiene un aparatillo que llama el termosensímetro. la peña lo toca y categoriza temperaturas de un contínuo en 'muy caliente', 'caliente', 'muy frío', 'frío', etc.
+- cuando pones a un aprendiz y a un experto ante una situación se iluminan las mismas redes neuronales - las ligadas a la parte cerebral de identificación: vista, oído, etc. Los noveles responden antes. Los expertos iluminan las amígdalas. se paran a pensar. desactivan las partes de percepción. se ilumina el neocortex, y dan respuesta. dan acceso a la parte cognitiva antes de dar la respuesta. esto implica que los expertos siguen con ideas alternativas, pero son capaces de dejarlas de lado.
+
+## 2022/10/13
+
+En el examen va a entrar una pregunta sobre una rúbrica. compartimos entre todos las nuestras para nuestros problemas?

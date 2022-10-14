@@ -127,3 +127,11 @@
 ## 2022/10/06
 
 - el conocimiento escolar y el conocimiento científico son distintos
+
+## 2022/10/11
+
+- Mercedes propone qu las diferentes UD sirvan para responder preguntas específicas. Que el alumno vea la utilidad de lo que se está aprendiendo.
+
+## 2022/10/13
+
+- en la enseñanza no existe una relación estímulo - respuesta. Además la asimilación de conceptos no es instantánea.
