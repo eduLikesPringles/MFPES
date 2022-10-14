@@ -155,6 +155,12 @@ IDEAS:
 # 2022/10/19
 # 2022/10/20
 # 2022/10/21
+
+- buscar el proyecto educativo de un centro y ver si sigue la estructura que hemos aprendido en clase.
+    - tenemos un ejemplo de resolución
+    - tenemos guión de la práctica
+    - lo estamos haciendo en un google docs en mi drive de ucm
+
 # 2022/10/22
 # 2022/10/23
 # 2022/10/24

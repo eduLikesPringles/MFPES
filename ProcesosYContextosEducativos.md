@@ -48,3 +48,13 @@
 
 ## Pregunta tipo test del día:
 
+## 2022/10/14
+
+- me puedo presentar máximo a tres centros para ser director.
+- el inspector es el presidente de la comisión de la selección del director.
+
+# TEMA 2: PLANIFICACIÓN EDUCATIVA: NIVELES DE PLANIFICACIÓN EDUCATIVA
+
+- como profes, vamos a ver los documentos que hay en un centro y vamos a participar en su redacción.
+- en un centro público hay libertad de cátedra, pero en el departamento se pone la gente de acuerdo sobre los contenidos. el método de enseñanza no se impone.
+- en los centros privados, sí te dicen cómo dar la clase.
