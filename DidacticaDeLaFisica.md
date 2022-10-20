@@ -263,3 +263,8 @@ En el examen va a entrar una pregunta sobre una rúbrica. compartimos entre todo
 - NO CONSIDERES OBVIO NINGÚN CONCEPTO.
 - la trayectoria conceptual de un niño coincide en cronología con la trayectora conceptual global histórica.
 - pensamos como fisiológicamente somos. el frío no existe en física. existe el calor. pero nosotros sí sentimos el frío.
+
+## 2022/10/20
+
+- Qué es el momento de inercia? Ni me acuerdo.
+- Las cosas se entienden bien con una aproximación perceptiva (visualizando) y procedimental (jugueteando)
