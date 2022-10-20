@@ -135,3 +135,6 @@
 ## 2022/10/13
 
 - en la enseñanza no existe una relación estímulo - respuesta. Además la asimilación de conceptos no es instantánea.
+
+## 2022/10/18
+

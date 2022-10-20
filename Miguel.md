@@ -1,3 +1,6 @@
+# VÍDEOS EXPLICATIVOS
+- Qué es la presión de vapor: https://www.youtube.com/watch?v=qB3Gi1xbOQ0
+
 # Química Formulario
 
 Ecuación de estado de un gas ideal:

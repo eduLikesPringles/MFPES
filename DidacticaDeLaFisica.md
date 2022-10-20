@@ -250,3 +250,16 @@ SIGUIENTE TEMA: CIENCIA Y EMOCIONES
 ## 2022/10/13
 
 En el examen va a entrar una pregunta sobre una rúbrica. compartimos entre todos las nuestras para nuestros problemas?
+
+## 2022/10/18
+
+- las principales concepciones alternativas están publicadas. no está aún bien ordenado, pero están bien identificadas estas concepciones sobre diversos temas de física, química, mates, etc.
+- importante cuando seas profe estudiarte las concepciones alternativas para tener el problema bien identificado y poder paliarlo.
+- cuando los alumnos empiezan un cambio conceptual, parece que saben menos, porque empiezan a dudar de lo que está bien y lo que está mal. con el tiempo acaban estructurando bien los conceptos en su cabeza y aprenden un poquillo más. digamos que hay "valles" en el aprendizaje.
+- conocimientos prevoios vs concepciones alternaativas: lo primero son saaberes bien sabidos que preceden al conocimiento a adquirir en el presente. lo segundo son ideas erróneas que traen los alumnos de antes.
+- en la clase ideal, un profe se prepara el temario que va a dar, las concepciones alternativas, y hace que los alumnos las saquen en alto y que ellos mismos reflexionen sobre ellas y las corrijan.
+- en la bibliografía internacional se habla sobre los preservice teachers y los inservice teachers y se diferencian sus habilidades para enseñar, sus métodos y tal.
+- qué ganamos con comprender las ideas de nuestros alumnos? evitar confusiones, evaluar la modificación de las ideas, comprender las reinterpretaciones que los alumnos hacen de las actividades.
+- NO CONSIDERES OBVIO NINGÚN CONCEPTO.
+- la trayectoria conceptual de un niño coincide en cronología con la trayectora conceptual global histórica.
+- pensamos como fisiológicamente somos. el frío no existe en física. existe el calor. pero nosotros sí sentimos el frío.
