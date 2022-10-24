@@ -161,7 +161,19 @@ IDEAS:
 
 # 2022/10/22
 # 2022/10/23
+
 # 2022/10/24
+## D.Física
+- leer documento sobre la gramática visual
+
+## AyDdlP
+- identificar escenas en películas, series televisivas, dibujos animados, anuncio de televisión, etc. situaciones donde se aplican técnicas de modificación de conducta. mínimo 5 escenas de distintas. NO VALEN: los chicos del coro, entrenador carter, mentes peligrosas, poli de guardería, la naranja mecánica, supernanny. Entregar en un word el cachito de vídeo y mandárselo.
+    - merlí
+    - hermano mayor
+    - big bang
+    - full metal jacket
+    - harry potter (dolores umbridge)
+
 # 2022/10/25
 # 2022/10/26
 # 2022/10/27

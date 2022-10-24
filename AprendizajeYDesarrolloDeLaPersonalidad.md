@@ -108,4 +108,44 @@ APRENDIZAJE Y DESARROLLO DE LA PERSONALIDAD
     - el penúltimo se me ha olvidado apuntarlo.
     - el último: la técnica de contrato de contingencias.negociar con el alumno determinados beneficios a cambio de que te deje dar clase. dejar a los más problemáticos que lleguen tarde, que se pongan los cascos, etc. que él no te moleste a tí y que tú no el molestes a él. hay un libro que se titula cómo dar clase a los que no quieren. de ahí se pueden aprender recursos guays para enseñar a los que no quieren.
 
-    
+## 2022/10/20
+
+- aprendizaje por condicionamiento clásico (aprendizaje por juntamiento).
+    - habla José Antonio del perro de Pavlov - el de la campana y la salivación.
+- algo así pasa cuando se ríen de mí por tener un acento raro, o por responder mal, o por responder una bobada, etc.
+- cómo aprendes de alguien que hace algo bien? por cercanía física o por cercanía por similitud.
+- no hay que elegir al mejor. con elegir a alguno normalito que lo haga bien, vale. de hecho así los compañeros "se pican" para ver si tb lo pueden hacer.
+- si coges al alumno "perfecto" le pillan tirria o lo ven imposible.
+- observación e imitación son dos cosas distintas. en la imitación yo copio como un loro. en la observación yo presto atención, tengo ganas de aprender, encuentro una utilidad en aquello que estoy aprendiendo, y tb me busco un poco las habas para ver cómo me las apaño para aprender lo que tengo que aprender.
+- tres tipos de memorias: 
+    - memoria sensorial: aquí recibimos toda la info que nos transmiten nuestros sentidos (vista, oído, olfato, gusto, tacto, me duele esto, tengo calor, cuánta luz, etc.). Queda todo muy poco rato y esta info la descartamos a no ser que pasemos al siguiente nivel de la memoria: memoria a corto plazo o memoria de trabajo.
+    - memoria a corto plazo, tb conocida como memoria de trabajo: nuestra ram. no tiene una gran capacidad, pero el tiempo que me aguantan ahí las cosas es más largo.
+    - memoria a largo plazo: la memoria de verdad. tiene una capacidad prácticamente ilimitada e infinita, tanto en espacio como en tiempo que ocupan los recuerdos.
+- qué podemos hacer para que los alumnos recuerden lo que los estamos enseñando? Lo cuenta el profe en clase. Mirarlo en los apuntes.
+- el cerebro humano puede almacenar 5 +- 2 unidades de información
+- al aprender algo, lo relacionamos con algo que tenemos ya dentro de la cabeza.
+- el primer nivel de manejar la info es tocándola. manipulándola. esto es lo que se llama el nivel en activo.
+- hay que enseñar a hacer las cosas bien pero tb a saber que hacer cuando las cosas están mal.
+- hay que aprender a escribir en una pizarra. aprende a escribir mientras miras a los alumnos.
+- no hagas que los alumnos se aprendan de memoria los procedimientos pararesolver los ejercicios. haz que enitiendan lo que hacen.
+- añadir los pensamientos a las explicaciones ayuda a que ellos entiendan los procedimientos.
+
+# ACTIVIDAD 5. Elegir un algo del contenido curricular de la comunidad que sea del curso que sea y pensar cómo lo enseñaríamos a la luz de estas teorías que hemos visto ahora. No es una programación didáctica. Cómo aprenderían de las 3 maneras?
+
+- elegimos el movimiento armónico simple
+- 
+    - primero los motivamos con ejemplos cotidianos como boli, columpio, cuerda guitarra, etc.
+    - luego explicamos
+    - luego ejercicios
+
+    - fase de motivación: columpio. muelles. vídeo del puente.
+    - fase de comprensión: desarrollar el tema. ecuaciones. etc.
+    - fase de adquisición:
+    - fase de retención: experimento con el péndulo en clase. experimento de cátedra.
+    - fase de recordación:
+    - fase de generalización: 
+
+- 
+    - buscar MAS en internet y que se hagan la idea de cuando aplica los conocimientos que van a adquirir.
+    - luego cacharreo. darles muelles y péndulos y que cacharreen. que hagan sus hipótesis iniciales.
+    - luego que hagan el experimento bien, cogiendo las buenas ideas que hayan lanzado por ahí.

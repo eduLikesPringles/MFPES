@@ -268,3 +268,5 @@ En el examen va a entrar una pregunta sobre una rúbrica. compartimos entre todo
 
 - Qué es el momento de inercia? Ni me acuerdo.
 - Las cosas se entienden bien con una aproximación perceptiva (visualizando) y procedimental (jugueteando)
+- para dar clase bien, cojo el Alonso Finn, hago trasposición didáctica del contenido (cargándome las mates fuertes), miro concepciones alternativas, me curro explicaciones ilustrativas para luchar contra estas concepciones alternativas, y palante.
+- Cuando empecemos a curremos en las prácticas, GUARDAMOS EN NUESTRO PINCHO LAS PROGRAMACIONES. Por ley, tienen que estar disponibles, o algo así.

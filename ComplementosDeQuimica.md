@@ -68,3 +68,9 @@ formar iones cargados negativamente: aniones.
 - para ajustar reacciones redox en medio ácido, puedes añadir agua y cationes hidrógeno
 - pera ajustar reacciones redox en medio básico, puedes añadir agua y aniones hidróxido.
 - por convenio se tabulan los pares en el sentido de la reducción. (la tablita con los potenciales de las pilas esas raras)
+
+## 2022/10/20
+
+- por qué la indagación?
+- está la indagación en el currículo escolar?
+- MRPI: metodología de resolución de problemas como investigación / indagación
