@@ -1,4 +1,5 @@
 # ASAP
+- responder a angel ezquerra
 
 # ASYNCRONOUS
 - mirar party tricks o science tricks con cervezas.

@@ -64,3 +64,31 @@ estamos en el plano epistemológico: qué puede conocerse de la realidad social?
 
 - vamos a hablar de perspectiva de género
 - género vs sexo: sexo tiene que ver con la biología (cromosomas, etc.) 
+
+## 2022/10/24
+
+# Diversidad Cultural y Proceso Educativo
+(Habla Andrea:)
+- pluricultularidad
+- multiculturalidad
+(Habla Ana:)
+- transculturalidad (Haloween vs Día de Todos los Santos / Colonización Española)
+(Habla Amanda:)
+- interculturalidad ("entre culturas")
+
+(Habla Gon:)
+- Modelo asimilacionista francés : imposición de la cultura hegemónica a migrantes para su integración social.
+    - homogeneidad
+    - unilateralidad
+    - perspectiva cultural
+    - desaparición de discriminaciones
+    - inevitabilidad
+
+    - el modelo asimilacionista se sustenta a través de:
+        - promoción de lengua común
+        - currículos de enseñanza centralizados
+        - otra cosa que no me ha dado tiempo a apuntar
+
+(Habla Rubén)
+- Modelo multiculturalista británico:
+    - etc.
