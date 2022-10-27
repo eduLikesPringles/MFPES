@@ -270,3 +270,25 @@ En el examen va a entrar una pregunta sobre una rúbrica. compartimos entre todo
 - Las cosas se entienden bien con una aproximación perceptiva (visualizando) y procedimental (jugueteando)
 - para dar clase bien, cojo el Alonso Finn, hago trasposición didáctica del contenido (cargándome las mates fuertes), miro concepciones alternativas, me curro explicaciones ilustrativas para luchar contra estas concepciones alternativas, y palante.
 - Cuando empecemos a curremos en las prácticas, GUARDAMOS EN NUESTRO PINCHO LAS PROGRAMACIONES. Por ley, tienen que estar disponibles, o algo así.
+
+## 2022/10/25
+
+- RDR: ¿Dónde está un objeto? ¿Cómo determinarías
+la posición de un objeto? Indica todas las posibilidades.
+    - midiendo la distancia entre el objeto y yo y el ángulo respecto de una dirección de preferencia.
+    - cuanto más pequeños, más se usan a sí mismos como sistema de preferencia. A medida que se van haciendo más grandes, usan objetos grandes externos (ej. encima de la mesa).
+- qué carácterísticas comunes tienen?
+    - todos tienen un origen y todos tienen una métrica (distancias, ángulos, etc.)
+
+- recuerda aprovechar lo perceptivo para explicar los conceptos.
+
+- según un niño, "velocidad es lo que se tarda en llegar a un sitio"
+
+- los niños tienden a decir sí a todo, pero no tiene por qué ser verdad.
+
+## 2022/10/27
+
+# MRU: Movimiento Rectiíneo Uniforme
+
+- trayectoria recta
+- velocidad constante (el espacio recorrido entre el tiempo que se tarda es constante) (Inc(s) / Inc(t) = cte)

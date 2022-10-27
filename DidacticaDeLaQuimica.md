@@ -25,6 +25,36 @@
 -	Admitir siempre preguntas y responderlas en el momento es bien; porque aporta a la clase.
 -	La física y la química no es de sentido común. Por eso es difícil. Otra cosa es que lo entendamos, pero no significa que sea obvio.
 
+## Pending
+
+https://triplenlace.com/2020/10/09/como-recurrir-a-los-plasticos-para-explicar-conceptos-en-clase-de-fisica-y-quimica/
+https://blogsaverroes.juntadeandalucia.es/bibliotecaiesboliches/2019/11/20/tema-los-plasticos-teoria/
+    https://www.youtube.com/watch?v=DFp61svGlBE
+    https://www.youtube.com/watch?v=9jW4p_0e9j4 vídeo sobre polímeros en cosmocaixa
+        - juntando monómeros. enseña eslavones. 
+        - propiedades. guantes de gasolinera de polietileno. impermeable. no se sale el agua. resistente. no se rompe al llenar.atravesamos con un palo. no se sale el agua. las fibras no se rompen, solo se separan. botellas de agua tb es polietileno. la estructura vuelve a su forma inicial en casos ideales. poliexpan (pliestireno expandido) tiene mucho aire entre las estructuras. se usan para aislar térmicamente, acústicamente, etc. aisla mucho pq es el aire el que aisla. poliuretano, poliestireno mirar diferencias. no confundir. pliestireno no es biodegradable pero si reciclable. acetona hace que el poliestireno. reaccionan. la acetona rompe los enlacen de los monómeros, por lo que se escapa el aire. se obtiene al final una pasta de solo poliestireno. la espuma de poliuretano se puede hacer mezclando dos componentes. no me acuerdo de los nombres, pero la reacción es exotérmica. pasado un ratillo gana volumen.
+        - número hace referencia al tipo de plástico.
+    https://www.oposinet.com/temario-de-tecnologia/unidades-didacticas-tecnologia/los-materiales-plsticos/
+        - de aquí creo que no se puede sacar gran cosa
+    https://www.cac.es/cursomotivar/resources/document/2007/25.pdf
+        - propuesta con experimentos cotidianos chulis con plásticos
+    https://www.youtube.com/watch?v=xPK2tWHnk9U
+        - esto es unateleclase ejemplo. teórica. pero se pueden sacar cosillas. se puede ligar con algún experimento.
+    https://www.guiainfantil.com/educacion/medio-ambiente/6-juegos-unicos-y-originales-para-que-los-ninos-aprendan-de-ecologia/
+        - esto va de como educar a los nenes a reciclar y disminuir uso de plasticos en casa y cole
+    https://www.redalyc.org/journal/920/92068491020/html/
+        - 'etica sobre pl'asticos. pl'asticos s'i o pl'asticos no
+        
+    
+
+IDEAS: 
+- podemos introducir who, what, when, where, why.
+- plásticos: por qué aprender sobre ellos? Nos rodean. Por qué?
+- Cómo se hace un plástico? Para qué sirve? Por qué plástico y no otra cosa (ej, metal)?
+- ventajas e inconvenientes. Alternativas para reducir los residuos. Bolas de algas con agua.
+    - edible water veritasium https://www.youtube.com/watch?v=KppS7LRbybw
+    - ligar esto con la finalidad de la investigación y la ciencia. solucionar problemas a nivel global.
+
 ## 15/09/2022
 
 -	Un maestro es el que adquiere competencia profesional docente
@@ -136,5 +166,6 @@
 
 - en la enseñanza no existe una relación estímulo - respuesta. Además la asimilación de conceptos no es instantánea.
 
-## 2022/10/18
+## 2022/10/28
 
+- las concepciones alternativas son fruto de investigaciones empíricas. No son suposiciones que nosotros como profes nos hagamos. Ya están todas estudiadas (o al menos las más comunes).

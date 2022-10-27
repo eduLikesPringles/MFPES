@@ -144,8 +144,43 @@ APRENDIZAJE Y DESARROLLO DE LA PERSONALIDAD
     - fase de retención: experimento con el péndulo en clase. experimento de cátedra.
     - fase de recordación:
     - fase de generalización: 
+    - EVALUACIÓN: EXAMEN. TAREA PA CASA.
 
 - 
-    - buscar MAS en internet y que se hagan la idea de cuando aplica los conocimientos que van a adquirir.
-    - luego cacharreo. darles muelles y péndulos y que cacharreen. que hagan sus hipótesis iniciales.
-    - luego que hagan el experimento bien, cogiendo las buenas ideas que hayan lanzado por ahí.
+    - luego cacharreo. darles muelles y péndulos y que cacharreen. que hagan sus hipótesis iniciales. (enactiva)
+    - luego que hagan el experimento bien, cogiendo las buenas ideas que hayan lanzado por ahí. (icónica)
+    - luego graficar resultados, graficar dispositivo experimental, interpretar el fenómeno. (simbólica)
+    - finalmente algún problema relacionado más complejo. tal ves a tratarlo solamente con mates.
+    - EVALUACIÓN: INFORME Y QUE PLANTEEN UNA SITUACIÓN DONDE ESO SE PUEDA APLICAR
+
+- 
+    - qué tienen en común un cepillo de dientes eléctrico, un gato chino, y un colibrí? quién ha ido alguna vez a una tienda de chinos? quién se ha lavado alguna vez los dientes?
+    - podemos poner la circunferencia gonométrica y MCU para rescatar conceptos de antes.
+    - hablamos de aceleración, punto de máxima velocidad, etc. comparando con columpio.
+    - luego ya nos metemos con lapiz y papel.
+    - EVALUACIÓN: EXAMEN DE APLICACIÓN DEL CONOCIMIENTO. QUÉ OTRAS COSAS PUEDEN ENTENDER COMO FUNCIONAN ASÍ?
+
+OTROS GRUPOS:
+
+- diego ha dicho algo pero no me acuerdo qué
+- rubén dice que por qué flota el hielo, luego les habla de problemas de desidad y tal, luego hacen problemas con masas volumenes para que saquen densidad. luego que calculen sus datos experimentales. luego problemas pa casa y evaluar a partir de los resultados.
+- mika dice sistemas de referencia. habla de lo que hablaba angel. donde está este boli respecto de este alumno. que vean que la distancia es relativa. luego habla de coches y acceleraciones y trenes y las farolas que se muevan en relación al observador en el tren. resolverían un problema con diferentes sistemas de referencia para ver que sale lo mismo independientemente del observador. luego que se suban al metro y tiren pelotas y que lo observe el de dentro y el de fuera del metro.
+- joseba habla de mezclas. les pone colacao y leche. lo de toda la vida, vaya.
+- carlos dice que para el tradicional, ellos ponen los ejemplos. nah es igual que el resto. KAHOOT.
+- javi sebas habla de la ley de hook. goma de pelo y la tiran. van haciendo ejercicios y los refuerzan con correcciones en clase. retroalimentación constante.
+- laura habla del método científico, magnitudes escalares, vectoriales, y errores en la medida. empiezan por vídeo o experimento, proponen ejercicios en clase, que alguno participe y que lo cuente, etc. luego ejercicios pa casa y luego examen y nota.
+- EL PROFE SUGIERE QUE LOS MOTIVEMOS DE FORMAS ATRACTIVAS. DE CARA A PRESSENTARLE EL TRABAJO, PONER UN EJEMPLO TIPO QUE LE PONDRÍAMOS AL ALUMNO. 
+
+PARTE POR DESCUBRIMIENTO DE CLASE:
+
+- alex dice que mezclan una cosa con otra
+- ana dice que les dan sal y agua pa que mezlcen.
+- carlos elías propone hacer una práctica ligeramente guiada con muelles para la ley dde hooke. relacionan el peso que ponen al muellecito con la fuerza que ejerce el muelle etc. luego todos en común rellenar una tabla de excel y pintar lo que pasa.
+- maricarmeen: uno daban pmaterials y que se las apañaran e ir haciendo preguntas y guiar de alguna manera.
+- 
+
+SIGNIFICATIVO EN CLASE:
+
+- raquel dice que los alumnos traigan de casa las cosas a disolver en clase
+- mariajo habla de la solubilidad
+- del nuestro dice que es tradicional pero con lavado de cara
