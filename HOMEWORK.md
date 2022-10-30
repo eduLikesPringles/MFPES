@@ -1,14 +1,6 @@
 # ASAP
-- Margarita Salas vs Alfredo Kraus email Paloma esperando respuesta.
 
 # ASYNCRONOUS
-
-# 2022/10/21
-
-- buscar el proyecto educativo de un centro y ver si sigue la estructura que hemos aprendido en clase.
-    - tenemos un ejemplo de resolución
-    - tenemos guión de la práctica
-    - lo estamos haciendo en un google docs en mi drive de ucm
 
 # 2022/10/24
 
@@ -19,16 +11,8 @@
     - big bang
     - full metal jacket
     - harry potter (dolores umbridge)
+    - atypical
 
-# 2022/10/25
-# 2022/10/26
-# 2022/10/27
-# 2022/10/28
-# 2022/10/29
-# 2022/10/30
-# 2022/10/31
-# 2022/11/1
-# 2022/11/2
 # 2022/11/3
 - D.QUIMICA: preparar guión del primer labo
     - portada como la que dibujó en la pizarra en clase

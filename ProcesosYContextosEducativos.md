@@ -58,3 +58,9 @@
 - como profes, vamos a ver los documentos que hay en un centro y vamos a participar en su redacción.
 - en un centro público hay libertad de cátedra, pero en el departamento se pone la gente de acuerdo sobre los contenidos. el método de enseñanza no se impone.
 - en los centros privados, sí te dicen cómo dar la clase.
+
+## 2022/10/28
+
+- modelo clínico, modelo de programas, modelo de consulta, etc. son diferentes metodologías de terapia psicológica.
+- durante una sesión de terapia, la técnica que más se usa es la de la entrevista. también está la técnica proyectiva (dibuja esto que has vivido).
+- luego están las diferentes corrientes del pesamiento: psicoanálisis, cognitivo - conductial, etc.
