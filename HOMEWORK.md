@@ -12,23 +12,15 @@
     - full metal jacket
     - harry potter (dolores umbridge)
     - atypical
-
-# 2022/11/3
-- D.QUIMICA: preparar guión del primer labo
-    - portada como la que dibujó en la pizarra en clase
-    - índice con las fases de la MRPI
     
-# 2022/11/4
-# 2022/11/5
 # 2022/11/6
-# 2022/11/7
-# 2022/11/8
+- PREGUNTAR QUÉ HA MANDADO EL PROFE DE DIDÁCTICA DE LA FÍSICA
+
 # 2022/11/9
 # 2022/11/10
 # 2022/11/11
 # 2022/11/12
 # 2022/11/13
-
 # 2022/11/14
 ## SFyE
 - trabajo sobre tipología de familias y hogares

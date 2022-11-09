@@ -184,3 +184,25 @@ SIGNIFICATIVO EN CLASE:
 - raquel dice que los alumnos traigan de casa las cosas a disolver en clase
 - mariajo habla de la solubilidad
 - del nuestro dice que es tradicional pero con lavado de cara
+
+PARA EL ÚLTIMO MÉTODO:
+- primero damos la clase en la pizarra
+- luego resolvemos problemas tipo en la pizarra teniendo en cuenta las concepciones alternativas y haciendo hincapié en posibles errores. después de haber hecho algún problemilla, que nos vayan guiando ellos. nosotros seguimos escribiendo en la pizarra.
+- luego actividad grupal en clase. los chavales se ponen a currar en un problema más grande, con algo más de complejidad que los hechos en clase y el profe supervisa y apoya.
+- los chavales resuelven un problema en casa y la explican al resto de la clase. nos quitamos la supervisión. esta parte y la anterior se pueden combinar por ejemplo en una sola clase. la primera parte para que el profe guie en el durante y la segunda parte para que trabajen los nenes solos. los propios alumnos corrigen.
+- problema para casa.
+
+OTROS GRUPOS: 
+Mari Carmen habla de dar primero la clase magistral, y a medida que se iban presentado conceptos nuevos hacer miniejercicios para afianzar esos conceptos. al final usarian ejercicios más grandes para ver si han comprendido un poco la ottalidad. para el apartado 3, o bien resolverían un ejercicio en grupo, enfocado a las debilidades que tenían, o bien hacer una práctica de laboratorio supervisada por ellos. después de esa práctica, para el punto 4 harían una memoria o un póster sobre el laboratorio. para el 5 mandarían unos deberes como los que aparecen al final de cada tema del libro. que los resorvieran solos en casa.
+
+diego dice que ellos dan la clase normal. para el punto 2 harían ejercicios pero con experimento. dicen lo que quieren conseguir y los alumnos guían al profesor para que lo consiga. para el 3 hacen un ejercicio cerrado. sal y agua a mezclar y sacar concentración etc. para el 4 ni idea de lo que ha dicho. para el 5 que los chabvales hagan en casa unos cristales en lana.
+
+gonzalo habla de hacer el mismo ejercicio en clase con diferentes sistemas de referencia. poner en una hoja puntos y que ellos eligieran los sistemas de referencia. para finalizar, gonzalo proponía hacer una pregunta abierta en la que se estudia un fenómeno físico y se proponen diferentes sistemas de referencia por los alumnos
+
+david habla de la ley de hook. en la clase magistral explican qué son las variables, las unidades, qué significa cada cosa, etc. en el segundo paso les piden ejercicios faciles con la ecuación. luego en vez de estirar el muelle lo comprimen para que los chavales vean que el ejercicio es análogo. 
+
+raquel garcía habla de mezclas. primero se explica la teoría en clase. luego hacen una actividad los profes mientras hablan en voz alta. luego en la actividad guiada por el profesor, dan el material y que los alumnos lo resuelvan. lo demás no me ha dado tiempo a apuntarlo.
+
+alex habla de dar la clase de manera formal. en la etapa 2 explicar un problema abierto y ahhondar en las hipótesis una a una. luego que los alumnos planteearan hipótesis y que las comprobaran a ver si eran o no verdad. luego por grupos a ver si lo iban pillando. luego para finalizar un cuastionario para casa pa ver si se habían enterao.
+
+ana habla de las densidades. 1 pizarra. 2 ejercicio sencillo con datoss y que los mismos pofes lo calculan. en el 3 traemos un vaso con hielo y preguntamos por qué el hielo flota. en el cuatro les damos diferentes sustancias y ellos preveen cual va a ser más denso y cual va a ser menos denso. que ellos lo vean. si los alumnos no son capaces de responder por qué, les ayudamos. en el último paso les damos dos datos de tres y que saquen el tercero en casa.
