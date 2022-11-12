@@ -64,3 +64,16 @@
 - modelo clínico, modelo de programas, modelo de consulta, etc. son diferentes metodologías de terapia psicológica.
 - durante una sesión de terapia, la técnica que más se usa es la de la entrevista. también está la técnica proyectiva (dibuja esto que has vivido).
 - luego están las diferentes corrientes del pesamiento: psicoanálisis, cognitivo - conductial, etc.
+
+## 2022/11/11
+
+- perspectiva despatologizante
+- hay gente trans que no tiene disforia
+- persona trans: villano antillano. dice la profe que el sexo asignado no coincide con la identidad sexual.
+- persona cis: persona que nace con un sexo determinado y etiqueta su género como su sexo. yo.
+- persona no binaria: miley cyrus. no se siente ni hombre ni mujer. como en lloyd en el espacio.
+- SI TE GUSTAN LAS CHICAS PERO NO LAS CHICAS TRANS ERES TRÁNSFOBO.
+- qué es demichico? semichico
+- qué es hacer drag?
+- AL FASCISMO SE LE VENCE CON DERECHOS
+- PROFA, TESTIGUE

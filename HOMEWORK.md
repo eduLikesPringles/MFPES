@@ -29,6 +29,7 @@
 # 2022/11/16
 # 2022/11/17
 # 2022/11/18
+- análisis y reflexión individual sobre charla trans
 # 2022/11/19
 # 2022/11/20
 # 2022/11/21
