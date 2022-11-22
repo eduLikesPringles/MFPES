@@ -132,33 +132,6 @@ APRENDIZAJE Y DESARROLLO DE LA PERSONALIDAD
 
 # ACTIVIDAD 5. Elegir un algo del contenido curricular de la comunidad que sea del curso que sea y pensar cómo lo enseñaríamos a la luz de estas teorías que hemos visto ahora. No es una programación didáctica. Cómo aprenderían de las 3 maneras?
 
-- elegimos el movimiento armónico simple
-- 
-    - primero los motivamos con ejemplos cotidianos como boli, columpio, cuerda guitarra, etc.
-    - luego explicamos
-    - luego ejercicios
-
-    - fase de motivación: columpio. muelles. vídeo del puente.
-    - fase de comprensión: desarrollar el tema. ecuaciones. etc.
-    - fase de adquisición:
-    - fase de retención: experimento con el péndulo en clase. experimento de cátedra.
-    - fase de recordación:
-    - fase de generalización: 
-    - EVALUACIÓN: EXAMEN. TAREA PA CASA.
-
-- 
-    - luego cacharreo. darles muelles y péndulos y que cacharreen. que hagan sus hipótesis iniciales. (enactiva)
-    - luego que hagan el experimento bien, cogiendo las buenas ideas que hayan lanzado por ahí. (icónica)
-    - luego graficar resultados, graficar dispositivo experimental, interpretar el fenómeno. (simbólica)
-    - finalmente algún problema relacionado más complejo. tal ves a tratarlo solamente con mates.
-    - EVALUACIÓN: INFORME Y QUE PLANTEEN UNA SITUACIÓN DONDE ESO SE PUEDA APLICAR
-
-- 
-    - qué tienen en común un cepillo de dientes eléctrico, un gato chino, y un colibrí? quién ha ido alguna vez a una tienda de chinos? quién se ha lavado alguna vez los dientes?
-    - podemos poner la circunferencia gonométrica y MCU para rescatar conceptos de antes.
-    - hablamos de aceleración, punto de máxima velocidad, etc. comparando con columpio.
-    - luego ya nos metemos con lapiz y papel.
-    - EVALUACIÓN: EXAMEN DE APLICACIÓN DEL CONOCIMIENTO. QUÉ OTRAS COSAS PUEDEN ENTENDER COMO FUNCIONAN ASÍ?
 
 OTROS GRUPOS:
 
@@ -186,12 +159,6 @@ SIGNIFICATIVO EN CLASE:
 - del nuestro dice que es tradicional pero con lavado de cara
 
 PARA EL ÚLTIMO MÉTODO:
-- primero damos la clase en la pizarra
-- luego resolvemos problemas tipo en la pizarra teniendo en cuenta las concepciones alternativas y haciendo hincapié en posibles errores. después de haber hecho algún problemilla, que nos vayan guiando ellos. nosotros seguimos escribiendo en la pizarra.
-- luego actividad grupal en clase. los chavales se ponen a currar en un problema más grande, con algo más de complejidad que los hechos en clase y el profe supervisa y apoya.
-- los chavales resuelven un problema en casa y la explican al resto de la clase. nos quitamos la supervisión. esta parte y la anterior se pueden combinar por ejemplo en una sola clase. la primera parte para que el profe guie en el durante y la segunda parte para que trabajen los nenes solos. los propios alumnos corrigen.
-- problema para casa.
-
 OTROS GRUPOS: 
 Mari Carmen habla de dar primero la clase magistral, y a medida que se iban presentado conceptos nuevos hacer miniejercicios para afianzar esos conceptos. al final usarian ejercicios más grandes para ver si han comprendido un poco la ottalidad. para el apartado 3, o bien resolverían un ejercicio en grupo, enfocado a las debilidades que tenían, o bien hacer una práctica de laboratorio supervisada por ellos. después de esa práctica, para el punto 4 harían una memoria o un póster sobre el laboratorio. para el 5 mandarían unos deberes como los que aparecen al final de cada tema del libro. que los resorvieran solos en casa.
 
