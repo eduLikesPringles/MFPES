@@ -169,3 +169,12 @@ IDEAS:
 ## 2022/10/28
 
 - las concepciones alternativas son fruto de investigaciones empíricas. No son suposiciones que nosotros como profes nos hagamos. Ya están todas estudiadas (o al menos las más comunes).
+
+## 2022/11/15
+
+- para saber enseñar, lo primero es tener la experiencia de haber aprendido.
+- hemos aprendido a enseñar el concepto de ecuación química con los dibujitos y simplificar la relación estequiométrica
+- lo esencial es primero que dominen las nociones químicas (teoría de dalton). luego ya que aprendan las mates de la estequiometría.
+- para la UNIDAD DIDÁCTICA:
+    - UNA ACTIVIDAD TIPO MRPI
+    - OTRA UNIDAD QUE TENGA NATURALEZA TECNOLÓGICA

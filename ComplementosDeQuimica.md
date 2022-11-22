@@ -96,3 +96,7 @@ formar iones cargados negativamente: aniones.
 - por qué la indagación?
 - está la indagación en el currículo escolar?
 - MRPI: metodología de resolución de problemas como investigación / indagación
+
+## 2022/11/16
+
+

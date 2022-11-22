@@ -13,29 +13,18 @@
     - harry potter (dolores umbridge)
     - atypical
     
-# 2022/11/6
-- PREGUNTAR QUÉ HA MANDADO EL PROFE DE DIDÁCTICA DE LA FÍSICA
-
-# 2022/11/9
-# 2022/11/10
-# 2022/11/11
-# 2022/11/12
-# 2022/11/13
-# 2022/11/14
-## SFyE
-- trabajo sobre tipología de familias y hogares
-
 # 2022/11/15
 # 2022/11/16
 # 2022/11/17
 # 2022/11/18
-- análisis y reflexión individual sobre charla trans
+- video de lo del agua para jose antonio
 # 2022/11/19
 # 2022/11/20
 # 2022/11/21
 # 2022/11/22
 # 2022/11/23
 # 2022/11/24
+- informes MPRPI (los dos últimos)
 # 2022/11/25
 # 2022/11/26
 # 2022/11/27
@@ -43,6 +32,7 @@
 # 2022/11/29
 # 2022/11/30
 # 2022/12/1
+- primera entrega unidad didáctica química
 # 2022/12/2
 # 2022/12/3
 # 2022/12/4
@@ -54,8 +44,15 @@
 # 2022/12/10
 # 2022/12/11
 # 2022/12/12
+- Presentaciones unidad didáctica química
 # 2022/12/13
 # 2022/12/14
+- COMPLEMENTOS DE QUÍMICA: PRESENTACIÓN SOBRE PRESIÓN OSMÓTICA Y ÓSMOSIS INVERSA. 10 min exposición como máximo (pueden ser 10) y 5 minutos de debate. Se intenta planificar a nivel segundo de bachillerato. Si estás algo inseguro, lo puedes adaptar como para 4 de eso por ejemplo.
+- COMPLEMENTOS DE QUÍMICA: experimento de cátedra o experimento fuera del aula (casa) (se envía por correo.)
+    - material sencillo, inocuo, tiempo breve
+    - formativo: explicaciones químicas de lo mostrado
+    - formatos posibles: video, powerpoint, pdf, etc.
+    - SE PUEDE MIRAR LA REVISTA "EL RINCÓN DE LA CIENCIA" ONLINE. AHÍ HAY EXPERIMENTOS CHULIS.
 # 2022/12/15
 # 2022/12/16
 # 2022/12/17
