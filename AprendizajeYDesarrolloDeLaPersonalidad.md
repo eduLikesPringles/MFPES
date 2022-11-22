@@ -206,3 +206,11 @@ raquel garcía habla de mezclas. primero se explica la teoría en clase. luego h
 alex habla de dar la clase de manera formal. en la etapa 2 explicar un problema abierto y ahhondar en las hipótesis una a una. luego que los alumnos planteearan hipótesis y que las comprobaran a ver si eran o no verdad. luego por grupos a ver si lo iban pillando. luego para finalizar un cuastionario para casa pa ver si se habían enterao.
 
 ana habla de las densidades. 1 pizarra. 2 ejercicio sencillo con datoss y que los mismos pofes lo calculan. en el 3 traemos un vaso con hielo y preguntamos por qué el hielo flota. en el cuatro les damos diferentes sustancias y ellos preveen cual va a ser más denso y cual va a ser menos denso. que ellos lo vean. si los alumnos no son capaces de responder por qué, les ayudamos. en el último paso les damos dos datos de tres y que saquen el tercero en casa.
+
+## 2022/11/17
+## ACTIVIDAD:
+- DISEÑAR UNA FLIPPED CLASSROOM (AQUÍ NO VA A HABER PUESTA EN COMÚN)
+    - primero un material de sustento teórico para la clase. Que no sean fotocopias. Mejor un vídeo donde explico lo que quiero que sepan. duración de menos de un minuto. la gente que aparezca, la que sea.
+    - mínimo de 3 actividades para hacer en clase para trabajar sobre lo introducido en ese vídeo.
+
+    - aplicado, divertido, atractivoº
