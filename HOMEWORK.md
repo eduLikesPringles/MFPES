@@ -29,9 +29,6 @@
     - atypical
     
 
-# 2022/12/1
-- primera entrega unidad didáctica química
-# 2022/12/2
 # 2022/12/3
 # 2022/12/4
 # 2022/12/5
@@ -44,6 +41,8 @@
 # 2022/12/12
 - Presentaciones unidad didáctica química
 # 2022/12/13
+- D. FISICA
+    - experimento calor específico
 # 2022/12/14
 - COMPLEMENTOS DE QUÍMICA: PRESENTACIÓN SOBRE PRESIÓN OSMÓTICA Y ÓSMOSIS INVERSA. 10 min exposición como máximo (pueden ser 10) y 5 minutos de debate. Se intenta planificar a nivel segundo de bachillerato. Si estás algo inseguro, lo puedes adaptar como para 4 de eso por ejemplo.
 - COMPLEMENTOS DE QUÍMICA: experimento de cátedra o experimento fuera del aula (casa) (se envía por correo.)
