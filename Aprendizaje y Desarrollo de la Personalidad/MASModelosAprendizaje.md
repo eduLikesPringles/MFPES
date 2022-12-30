@@ -42,9 +42,16 @@ PUESTA EN COMÚN EN CLASE:
 
 Grupo de Disoluciones Homogéneas y Heterogéneas:
 Modelo 1: Teoría del procesamiento de la información (Robert M. Gagné)
+Para la fase de motivación se empieza utilizando el Colacao para captar la atención de los alumnos. Luego se explica la teoría de los tipos de mezcla y se hacen ejercicios de clasificación de mezclas. Más tarde se mandan actividades a los alumnos donde relacionan imágenes de mezclas diversas con el tipo de mezcla. Lo resuelven en casa y lo entregan. La evaluación se hace mediante ejercicios que se parezcan a las actividades que se han propuesto.
+
 Modelo 2: Aprendizaje por Descubrimiento (Jerome Bruner)
+El profesor trae a clase 5 sólidos y líquidos poco comunes, que no se vean en el sía a día y los alumnos proceden a mezclarlos entre sí para descubrir si se forman disoluciones homogéneas o heterogéneas. Por supuesto tiene que primar la seguridad del alumno, por lo que el profesor ha de asegurarse que la mezcla de reactivos no de lugar a reacciones peligrosas.
+
 Modelo 3: Aprendizaje Significativo (David Ausubel)
+Esta vez serían los alumnos los que traen 5 sólidos y líquidos de sus casas para mezclarlos y ver qué tipo de disolución se forma.
+
 Modelo 4: Aprendizaje por Acompañamiento/Andamiaje (Lev S. Vygotsky)
+Se comienza por la instrucción directa, en la que se explica en la pizarra teoría sobre los tipos de mezcla. Siguiendo con el modelado de decisiones, se r4aliza una actividad en la que se mezclan diferentes sustancias. El profesor relaciona lo que se está haciendo con la teoría ya explicada. Se continúa con una práctica guiada por el docente en el que se hacen pequeños grupos para mezclar de nuevo diferentes sustancias, esta vez en el laboratorio. El profesor debe estar atento para resolver las dudas que vayan surgiendo. Se pasa a la práctica guiada por iguales, en la que se hacen pequeños grupos en el aula y se hacen experimentos análogos, pero esta vez el profesor no interviene en la actividad. Por último, se pasa a la práctica autónoma, en la que se mandan ejercicios para resolver en el hogar de forma individual. Dichos ejercicios se resuelven en clase para que los demás alumnos también participen en la resolución.
 
 Grupo de Disoluciones, Mezclas, y Solubilidad:
 
@@ -62,9 +69,16 @@ Se comenzaría la clase con instrucción directa, es decir, se da la clase norma
 
 Grupo de Disoluciones A Secas:
 Modelo 1: Teoría del procesamiento de la información (Robert M. Gagné)
+Se empezaría poniendo un ejemplo el profesor, algo que motive a los alumnos. Después se explican conceptos y definiciones con unos apuntes que se complementan con el libro. Más tarde se resolverían ejercicios en clase, dejando el suficiente tiempo para que los alumnos los resuelvan. Se terminaría mandando como deberes una práctica en la que vieran qué pasa cuando se añade Colacao a la leche poco a poco. A medida que van aumentando sus nociones sobre el tema, se podrán ir haciendo ejercicios cada vez más parecidos a los de un examen. La evaluación final sería un examen y su corrección.
+
 Modelo 2: Aprendizaje por Descubrimiento (Jerome Bruner)
+El grupo planteó dos ideas diferentes para que el alumno aprendiera por descubrimiento. La primera consistía en entregar una serie de materiales a los alumnos para que se apañaran. Se podría ir lanzando una serie de preguntas abiertas para guiarlos pocoa  poco hacia el objetivo, con la mínima intervención posible por parte del profesor. El problema principal de esta idea es la dificultad de que el alumno llegue a donde el profesor quiere que llegue. La otra idea consistía en hacer una práctica de laboratorio con un guión formal que permitiera que el alumno llegara al objetivo que se quiere. 
+
 Modelo 3: Aprendizaje Significativo (David Ausubel)
+Se les saca el tema para que los alumnos buscaran ejemplos. El profesor serviría de ayuda al alumno para comprobar si sus ejemplos están bien o no, y al final de todo, también enseñaría ejemplos no tan populares en los que los alumnos no hubieran caído. En mi opinión, este planteamiento es un poco arriesgado, porque al poner en el alumno la responsabilidad de idear ejemplos, el profesor se puede encontrar con una ausencia de respuestas que le impida dar la clase de manera fluida.
+
 Modelo 4: Aprendizaje por Acompañamiento/Andamiaje (Lev S. Vygotsky)
+Para la instrucción directa se da una clase magistral. Luego se procede a hacer ejercicios mediante experimentos para atender a la parte del modelado de decisiones. Para la práctica guiada por el profesor se realiza un experimento de guión cerrado con cálculos matemáticos. Se pasa a la práctica guiada por iguales, en la que se plantea un experimento abierto con una pregunta que ellos tienen que llegar a resolver. Se continúa con una práctica autónoma, donde los alumnos realizan un experimento un poco más complejo en casa. Este requerirá de algo más de tiempo. Para evaluar se pone un examen.
 
 Grupo de Densidad:
 
@@ -82,20 +96,40 @@ Para la instrucción directa, se hace una explicación sobre la clase que se va 
 
 Grupo de Método Científico:
 Modelo 1: Teoría del procesamiento de la información (Robert M. Gagné)
+Se empieza motivando a los alumnos con un ejemplo audiovisual. Después se explican los fundamentos teóricos. Se van mandando ejercicios en clase con un tuempo razonable para hacerlos, incluso se puede llamar a alguien para que salga a la pizarra a corregir. Se mandan ejercicios para casa y se resuelve un examen de los de toda la vida para la evaluación. La corrección de dicho examen sirve como retroalimentación de su trabajo.
+
 Modelo 2: Aprendizaje por Descubrimiento (Jerome Bruner)
-Modelo 3: Aprendizaje Significativo (David Ausubel)
+Se plantea el experimento de la caja negra, en el que los alumnos no pueden abrirla, pero de alguna manera deben intentar adivinar qué hay dentro. Se plantean hipótesis sobre lo que puede haber dentro y las contrastan con los mini experimentos que van realizando. La principal pega de este ejemplo es que los alumnos se vean absorbidos por el problema en sí y por intentar resolverlo, y que no recuerden qué han estado haciendo en cada momento (plantear hipótesis, comprobarlas, etc.).
+
 Modelo 4: Aprendizaje por Acompañamiento/Andamiaje (Lev S. Vygotsky)
+Se comienza con la instrucción directa: dando una clase tradicional e introduciendo los conceptos. Se procede a modelar decisiones: se resuelven problemas tipo atendiendo a las concepciones alternativas de los alumnos. Después se pasa a una práctica guiada donde los alumnos indican al profesor como resolver un problema en la pizarra sin necesidad de ir levantando la mano para intervenir (así haciendo la resolución más fluida). Más adeante, se procede con una práctica guiada por iguales, donde se trabaja en grupo para resolver un problema más complejo. El profesor está atento a los grupos para intentar ayudarles a deshacer nudos cognitivos en los que se puedan encontrar. Se termina con una práctica autónoma en la que se resuelve un problema en casa y se expone al resto de la clase. También se hacen en esta etapa problemas tipo para asegurar que los conceptos se han asimilado correctamente.
 
 Grupo de Sistemas de Referencia:
 Modelo 1: Teoría del procesamiento de la información (Robert M. Gagné)
+Buscaron motivar a los alumnos aproximándolos a lo tangible: dónde están las cosas respecto de mí? Dónde están las cosas respecto de mis compañeros? Tras ese acerccamiento, se les pone ejemplos cotidianos. Más tarde se podría completar un ejercicio de mecánica atendiendo a un sistema de referencia y después a otro; comprobando que la solución es la misma, independiente del sistema de referencia elegido. Finalmente harían un problema que no se evaluaría, donde observarían su entorno y experimentarían con él.
+
 Modelo 2: Aprendizaje por Descubrimiento (Jerome Bruner)
+La idea en este modelo es simple. Se colocaría el bolígrafo en un lugar aleatorio del aula, y se les preguntaría a los alumnos para que describieran dónde está - en qué posición. La respuesta dependería de quien lo mire.
+
 Modelo 3: Aprendizaje Significativo (David Ausubel)
+Se pediría a los alumnos que trajeran de casa experimentos en los que se utilicen sistemas de referencia, y ahí empezar a desarrollar sobre el tema.
+
 Modelo 4: Aprendizaje por Acompañamiento/Andamiaje (Lev S. Vygotsky)
+En este modelo, se comenzaría por una instrucción directa, con una exposición que presentara los sistemas de referencia y su gran impacto e utilidad en la física. Debería ser motivadora para los alumnos. Más tarde se pasaría al modelado de decisiones, donde se resolverían ejercicios por parte de los alumnos delante de la clase. Se harían diferentes ejercicios de mecánica con diferentes sistemas de referencia. Luego se procedería a hacer otro ejercicio donde los propios alumnos guiaran. Pasando a la práctica guiada, se podría realizar una actividad en la que los alumnos vieran puntos ya dibujados en la hoja, e inventaran diversos sistemas de referencia en los que alojarlos. Una vez resuelto esto, se pasaría a la práctica guiada por iguales, donde resolverían un ejercicio parecido, pero esta vez abandonando el papel y pasando a la vida real, a lo más tangible. Para finalizar, se concluye con una práctica autónoma. Se hace una pregunta abierta, que intentarían resolver en grupo, encontrando diferentes sistemas físicos. Se trabajaría con una persona que lanza un dado a la diana y se haría caer al alumno en qué ve el lanzador, ellos como observadores, el propio dardo, y la diana. Caerían en que el problema aparenta ser diferente dependiendo del 'observador', o del sistema de referencia, pero descubrirían que las soluciones acaban siendo las mismas, matemáticamente hablando.
 
 Grupo de Ley de Hooke:
 Modelo 1: Teoría del procesamiento de la información (Robert M. Gagné)
+Se empieza motivando a los alumnos, atrayendo su atención tensando una goma de pelo y soltándola para que vuele a través de la clase. Se prosigue haciendo una intro teórica de la ley de Hooke, sobre la que se fundamenta la goma de pelo que ha viajado. Más tarde, se consolidan los conceptos adquiridos con problemas de dificultad creciente, y como evaluación se resuelve un examen.
+
 Modelo 2: Aprendizaje por Descubrimiento (Jerome Bruner)
+Se pueden repartir muelles por grupos para que intenten plantearse los alumnos cómo se comporta la fuerza recuperadora con la longitud que va adquiriendo el muelle. Luego se les puede entregar pesos diversos para que mediante un guión midan diferentes elongaciones para diferentes pesos. Lo importante es no abandonar al alumno. Que descubra por si solo pero que nos se vea perdido. El profesor ha de estar atento a diferentes posibles puntos gatillo para dar las pistas necesarias para que los alumnos puedan seguir indagando.
+
 Modelo 3: Aprendizaje Significativo (David Ausubel)
+Se emplea como ejemplo cotidiano el de los muelles de una bici, que se deforman para accionar los frenos de la bici.
+
 Modelo 4: Aprendizaje por Acompañamiento/Andamiaje (Lev S. Vygotsky)
+Se comienza con una instrucción directa, que no es más que una explicación tradicional. Se continùa con un modelado de decisiones que consiste en realizar una batería de ejercicios. Se procede a una práctica guiada donde se cambia la dinámica del problema, pero dentro del mismo tema. Luego sigue una práctica guiada por iguales en la que se plantean ejercicios similares a los vistos en clase, y se finaliza con una práctica autónoma donde se pone ejercicios mezclados sobre todo lo que se ha ido aprendiendo hasta el momento. De nuevo, en caso de que los alumnos no puedan seguir cómodamente con la clase por que los escalones de dificultad sean demasiado grandes, el profesor tiene que parar, ver dónde se atascan, e intentar ayudarlos a pasar dicho escalón.
+
+
 
 REFLEXIÓN PERSONAL:
