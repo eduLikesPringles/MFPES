@@ -1,183 +1,276 @@
-APRENDIZAJE Y DESARROLLO DE LA PERSONALIDAD
+# APRENDIZAJE Y DESARROLLO DE LA PERSONALIDAD
+
+## NOTAS CASOS PRÁCTICOS
+
+- como aprendo vs como aprendi: 7
+- alumno que interrumpe: 9
+- alumno que no participa: 5
+- aprendizajes: 6
+- pelis: 9
+- flipped classroom: 5
+- inteligencias: 5
+
+## INFORMACIÓN ÚTIL
 
 -	José Antonio bueno alvarez
 -	Departamento de investigación y psicología en educación
--	31 años en la casa lleva el boss
--	Maestro de educación primaria. Graduado en psicología. Doctorado en pedagogía de la educación.
 -	Tutorías online: L-V 8-19h
 -	4207 es su despacho
 -	alvarez@ucm.es
--	No escribirle por el campus virtual. Escribir al correo directamente.
--	En la web de la asignatura en el CV se habilitará un enlace al teams
--	Hay un semáforo por ahí en el CV que marca temperaturas y con eso se decide si se da clase en la uni o n    - 
--	El profe propone que nos certifiquemos con Google scholar o Microsoft sobre el manejo de tecnologías para la enseñanza
--	Resolución grupal y entrega individual cuando se vaya pudiendo. Mejor que no pase más de una semana entre entregas
--	Discusión en grupo. Parte en común. Aportación individual.
--	Viable factible y realista es una buena solución
--	No emperrarse en enseñar como a ti te funciona. Hay que enseñar como le venga bien al que tienes delante.
--	No solo enseñaremos. También educaremos.
--	FUNDACIÓN TELEFÓNICA PUBLICA ESTUDIOS SOBRE LO QUE FUNCIONA Y NO FUNCIONA EN LA ENSEÑANZA. ECHARLE UN VISTAZO
--	Tener cuidado con lo que publiques en redes sociales. Mucho cuidao que te puede hacer mucho mal.
--	No dar teléfono nunca
-2022/09/22
--	Las chicas maduran antes que los chicos pero desde los 11 o 12 años ya!
--	Cómo se trata el tema del teléfono móvil por las noches? Destrucción de conexiones neuronales. Los padres puede que vengan en algún momento a solicitar guidance sobre el tema.
--	El que tienes delante puede no aprender como tú
--	El que tienes delante puede que sude de lo que le quieras contar
--	No es solo contar. Es contar para ser entendido.
--	Quieren ser mayores pero no quieren crecer.
--	ACTIVIDAD PRÁCTICA:
-    - (recordar las 3 partes: trabajo en grupo, puesta en común, componente individual)
-    - Cómo aprendo hoy en día? (como adulto, lo que soy) (no confundirlo con el por qué aprendo)
-        - Se usa mucho internet. Puede distraer, pero si aprendes a usarlo bien, reconoces lo weno de lo malo. OK
-        - Preguntando mucho para que me apunten. OK 
-        - De mis amigos y compañeros. OK
-        - Se aprende mucho por boca. OK
-        - Te juntas con el que sabe. OK
-        - Ya se ha desarrollado un criterio para elegir la información OK
-        - Copiando el ejemplo bueno OK
-        - También puede que no haya una sola verdad o una sola forma buena de hacerlo.
-        - Videotutoriales. OK
-        - Ahora vamos a lo que nos gusta y aprendemos de ahí. OK
-        - Fallando mucho y asumiendo las consecuencias de tus errores. Antes era todo más guiado. OK
-        - Ahora aprendemos más despacio pero mejor, porque el tiempo no es limitante. OK
-        - Con ejemplos se aprende OK
-        - Con cosas tangibles. Con analogías. PERSONAL
-    - Cómo he aprendido todo lo que sé hoy?
-        - Memorizando (más en clase) OK
-        - En casa con experiencias OK
-        - En el cole haciendo todo por pasos OK
-        - Diferentes fuentes. En casa más visual y práctico. OK
-        - Hacer ejercicios. Teoría – ejercicios – problemas. OK
-        - La repetición hacía aprender muy bien OK
-        - Los esquemas ayudaban a aprender. OK
-        - Tema valores observando qué tratos me gustaban o no e intentar replicar lo weno. También experimentando. Tiras del pelo ala gente y les duele, entonces no lo haces más. OK
-        - Algunos bajo presión. Yo era más organizado. Tenía horarios. OK
-        - Por castigo recompensa. OK
-        - Yo de pequeño con mi amigo pedro y migui. Enseñando a mis amigos. Aprendizaje con iguales o algo así. PERSONAL
-        - A hablar por imitación OK
-    - Tips del profe:
-        - Entregar la parte de grupo todos igual
-        - Darle forma más de redacción
-        - No limitar el aprendizaje al contexto académico. Hablar tb de lo que se aprende fuera.
-        - Hemos aprendido siempre a solas? O con alguien? FALTA
-        - Se aprende de la misma forma ahora que de pequeños? FALTA
-        - Hemos dejado de aprender con ojos de niño? FALTA
-        - Cómo aprendimos a atarnos los cordones de las zapas, a nadar, a montar en bici, a andar, a andar?
 
+## Cuando Habla el Profe:
+- 25% activamente desconectados
+- 25% pasiivamente desconectados
+- 20% intentan escuchar y seguir el ritmo (a duras penas)
+- 15% atienden pero no se atreven a preguntar
+- 10% siguen la clase chill
+- 5% ya se lo saben (probablemente no atiendan)
 
-    - Qué dice el resto de grupos?
-        - Educación obligatoria más estricta y no por interés. Miedo a sacar mala nota o por que te pongan un negativo. Luego hay más libertad de elegir y mueve también el interés.
-        - Proceso más básico observar y repetir.
-        - Info se recibe en solitario pero luego aprendizaje es más en grupos. Puesta en común de entendimiento de conceptos.
-        - Mi amigo estalella me enseñó a limpiarme el culo PERSONAL
-        - De pequeños somos más dependientes de la confianza en los demás. Ahora tenemos menos miedo. Ahora somos más crédulos o más críticos? Somos ahora más flexibles ahora al cambiar nuestra forma de pensar? De pequeño eres más moldeable. Ahora no tanto. Ahora tienes prejuicios, te cuesta más adaptarte a lo que te cuentan. Ahora quizá más sesgado.
-        - Lo que no les ha pasado a los niños, para ellos no existe. Cómo eres capaz de meterte dentro de su lógica para que te entienda?
-        - El profe que está cerca de la realidad de lo que yo hago, me va a enseñar mejor. Corolario: conoce mejor a quien enseñas.
-        - Las experiencias traumáticas te hacen aprender más o te hacen aprender menos? Seguro que menos. Mucha gente genera conductas de evitación o de escape.
-        - Por qué nos empeñamos en que repitan lo que les enseño?
-        - Cómo podemos ayudar a pensar en nuestros muchachos? Cómo pueden aprender a desarrollar el pensamiento crítico?
-        - Cuanto más te encaminas hacia una forma de pensar, más rechazas otras formas de pensar.
-        - He de poner bajo la luz de la lupa si al enseñar lo he hecho bien o si me ha salido de chiripa. Ahí juega un papel clave nuestra rigidez mental.
-        - Cuando somos más pequeños somos más egocéntricos: si no me ha pasado a mí, no es verdad. Si sí me ha pasado a mí, tiene que ser la verdad.
-        - De mayor vemos determinada prensa y tele pq somos más tozudos.
-        - Mi forma de entender el mundo se proyecta hacia mis alumnos. Hay que tener mucho cuidado con eso.
-        - Educar hacia el escuchar, para que se trabaje de distinta forma.
-        - Primero te fijas en profes y padres. Luego observas, reflexionas y haces.
-        - Ana dice que no podemos ‘inculcar’ a los niños lo que es malo. Tenemos que guiar su pensamiento.
-        - Nuestras creencias matizan las acciones que tomamos al enseñar.
+## Generaciones:
+- X: 60s - 70s
+- Y: 80s - 90s
+- Z: finales 90s
+
+## Datos Retención:
+- alumnos atienden a un 40% de una lecture
+- en los 10 primeros mins, los alumnos retienen un 70%. en los últimos 10, un 20%
+- adding visual aids increases retention from 14% to 18%
+
+## Adolescencia:
+- temprana: 10 - 13 años
+- media: 14 - 17 años
+- tardía: 18 - 21 años
+
+- En esta época, aumentan la capacidad de abstraerse. Humor centrado en ironía y sexo.
+- Relación con los padres:
+    - temprana: menos interés en ellos. buscan identidad propia dentro de la fam. ponen a prueba la autoridad. necesitan más intimidad en el hogar.
+    - media: rebelión contra padres. rechazan muestras de cariño. siguen dependiendo de ellos.
+    - tardía: emocionalmente próximos a los padres y a sus valores.
+- relación con compis:
+    - temprana: buscan aprobación social. intensa amistad con mismo sexo. aparece el deseo sexual.
+    - media: buscan aprobación social. máxima interacción con compis. aumento experiencia sexual.
+    - tardía: priorizan relaciones íntimas frente a relaciones con compis.
+- concepto de sí mismo:
+    - temprana: preocupación por físico. conformidad con estereotipos de hombre o mujer. incertidumbre acerca de apariencia.
+    - media: preocupación por físico. conformidad con estereotipos de hombre o mujer. fascinación por la moda y deseo de tener un cuerpo más atractivo.
+    - tardía: preocupación por físico. conformidad con estereotipos de hombre o mujer. aceptación de la imagen corporal.
+- desarrollo moral:
+    - temprana: egocentrismo. cuestionan principios sociales, sobretodo en lo relativo a los padres. turbulencia moral.
+    - media: egocentrismo. cuestionan principios sociales, sobretodo en lo relativo a los padres. conformidad con valores de compañeros.
+    - tardía: desarrollan sus propios sistemas de valores.
+- características psicológicas:
+    - temprana: atención en sí mismos. preocupados por la opinión de otros. cambios muy fuertes de humor sin saber por qué. tendencia a olvidar todo. falta de control de impulsos. metas vcacionales irreales.
+    - media: atención en sí mismos. preocupados por la opinión de otros. cambios muy fuertes de humor sin saber por qué. tendencia a olvidar todo. sentimiento de invulnerabilidad. tendencia a conductas omnipotentes generadoras de riesgos.
+    - tardía: metas vocacionales reales. identidad personal y social con capacidad de intimar.
+
+## Modelos de Aprendizaje:
+
+- Aprendizaje por Procesamiento de la Información (Gagné):
+    - fase de motivación
+    - fase de comprensión
+    - fase de adquisición
+    - fase de retención
+    - fase de recuerdo
+    - fase de generalización
+    - fase de desempeño
+    - fase de realimentación
+
+- Aprendizaje por Descubrimiento (Bruner):
+    - manipulativo y visual
+    - simbólico
+    - si lo descubren ellos, no se olvida, pero se cae en el riesgo de que no aprendan lo que queremos.
+    - se requieren mínimos conocimientos previos para que puedan descubrir agusto.
+- Aprendizaje Significativo (Ausubel):
+
+- Aprendizaje por Andamiaje (Vygotsky): Nivel real, nivel tutor, nivel potencial. zona de desarrollo real y zona de desarrollo próximo.
+    - primer nivel: (alumno no es capaz de corregir errores ni con ayuda del experto).
+        instrucción directa. dar clase con una explicación formal.
+    - segundo nivel: (alumno ya toma consciencia del error, pero no es capaz de corregirlo, ni con ayuda del experto).
+        modelado de decisiones. se resuelve un ejercicio en la pizarra en alto por parte del profe, mencionando posibles concepciones alternativas. en ejercicios posteriores pueden intentar guiar alumnos.
+    - tercer nivel: (alumno ya identifica el error y lo puede corregir con ayuda del experto).
+        práctica guiada por el profesor. actividad grupal y el profe se pasea para corregir posibles errores.
+    - cuarto nivel: (alumno identifica y corrige con alyuda mínima del experto).
+        práctica guiada por iguales. alumnos trabajan grupalmente de forma semiautónoma.
+    - quinto nivel: (alumno totalmente independiente).
+        práctica autónoma. tarea individualmente resuelta. en casa por ejemplo.
+
+- también hay aprendizaje de dominio: con el suficiente tiempo
+- también hay aprendizaje situado: in situ
+
+## Aprendizaje Cooperativo:
+
+- para colaborar no es necesario ser amigos pero hay que tener un nivel de competencia similar.
+- para cooperar no importa el nivel de competencia, pero si es importante ser amigos.
+
+- actividad individualista: el objetivo es conseguido por el alumno independientemente de que lo consigaan otros. no hay interdependencia de finalidades.
+- actividad competitiva: el alumno consigue el objetivo solo si los demás no lo consiguen. interdependencia de finalidades negativa.
+- actividad cooperativa: el alumno consigue el objetivo si y solo si los demás lo consiguen. interdependencia de finalidades positiva. se espera que el estudiante contribuya también al aprendizaje del grupo.
+
+- consecuencias de aprendizaje cooperativo mal planeado:
+    - desengancharse del carro
+    - negociar el mínimo esfuerzo
+    - pobreza llama a pobreza
+
+- Fases del diseño:
+    - Antes: formular objetivos y toma de decisiones
+        - especificar objetivos instruccionales
+        - definir número de miembros del grupo
+        - asignar los alumnos a los grupos
+        - colocacion de la clase
+    - Durante: planificación de las situaciones y los materiales
+        - asignación de roles
+        - explicación de la tarea
+        - especificación de las conductas deseadas
+        - supervisión del funcionamiento de los grupos
+        - intervención, si procede
+    - Después: cierre y evaluación
+        - cierre de la lección
+        - evaluación del trabajo académico de los alumnos
+        - evaluación del trabajo social de los alumnos
+        - autoevaluación individual y de grupo, si procede
+
+- Roles del trabajo en grupo:
+    - coordinador: coordina, dirige, comprueba, anima. controla que el trabajo siga las pautas indicadas.
+    - secretario: recuerda, anota, comprueba. controla turno de palabra y tono de voz.
+    - portavoz: presenta, pregunta, responde. voz del grupo. media con otros grupos.
+    - controlador: supervisa, vigila, custodia, controla. comprueba que todos traen el material necesario y los deberes. encargado de buscar info. 
+
+    - crítico: critica, asesora, analiza, dialoga.
+    - ayudante: supervisa, sustituye, asegura, recuerda.
+
+- Principios para manejar el conflicto:
+    - controversia es una situación a resolver y no un "yo gano tú pierdes"
+    - criticar ideas y no personas
+    - alternar fases de diferenciación e integración
+    - considerar perspectiva de los demás
+
+    - alumno perezoso: pedir al grupo que contraste ideas con él; llamarlo aparte; dejar que el grupo se apañe; cambiar el sistema de evaluación del grupo.
+    - alumno aislado / rechazado: formar grupos constructivos; asignar roles; pre-entrenar al sujeto en labores colaborativas.
+    - alumno de alto rendimiento: programar interdependencia de roles; adaptar requisitos de evaluación individualmente; recompensar desarrollo de destrezas interpersonales; bonificar por la mejora del aprendizaje.
+    - alumno disruptor: crear grupos constructivos; pre-entrenar miembros en técnicas de control; instruir al sujeto en destrezas colaborativas; modificar el tamaño del grupo.
+
+- Técnicas de Aprendizaje Cooperativo Básicas:
+    - el folio giratorio
+    - lápices al centro
+    - lanza la pregunta
+    - parada de tres minutos
+    - compartir las tareas de casa
+    - cabezas numeradas
+    - encontrar a alguien que...
+
+- Técnicas de Aprendizaje Cooperativo Avanzadas:
+    - torneos de juegos por equipos
+    - lectura y escritura cooperativa
+    - investigación grupal
+    - rompecabezas
+
+- (ECHAR UN VISTAZO A LAS RÚBRICAS)
+
+## Flipped Classroom
+
+CASA [recordar -> comprender] -> CLASE [aplicar -> analizar -> evaluar]  -> GRUPO [crear]
+
+## Teorías de la Inteligencia:
+
+- Cattel: fluida + cristalizada
+    - fluida: con la que se nace. compuesta de capacidad de visualización, capacidad de memoria y recuperación, y velocidad cognitiva.
+    - cristalizada: lo que se ha aprendido gracias a aprendizaje y cultura. compuesta por tres factores que ser educados: comprensión verbal, capacidad para establecer relaciones semánticas, capacidad para evaluar la experiencia.
+- Carroll: inteligencia general 'g'. compuesta por tres estratos o niveles: factor general, aptitudes generales, aptitudes específicas asociadas a actividades concretas.
+    - inteligencia fluida:
+    - inteligencia cristalizada:
+    - memoria y aprendizaje general:
+    - percepción visual amplia:
+    - percepción auditiva amplia:
+    - habilidad de recuperación amplia / recuperación mnemónica:
+    - amplia rapidez cognitiva:
+    - velocidad de procesamiento: 
+- Sternberg:
+    - componencial o analítica: capacidad de pensar de forma abstracta y procesar info
+    - experiencial o empírica: capacidad de combinar hechos y aprender de la experiencia
+    - contextual o práctica: capacidad de adaptarse a un entorno cambiarte
+
+    - subteorías de Sternberg: (apuntarlo).
+
+Gardner: las inteligencias independientes pero interactuan entre sí. todas las inteligencias se pueden desarrollar si se entrenan.
+    - existencial
+    - musical: lóbulo temporal derecho
+    - intrapersonal: lóbulos frontales, lóbulos parietales, sistema límbico
+    - interpersonal: lóbulos frontales, lóbulo temporal, en especial el hemisferio derecho, sistema límbico
+    - corporal - kinestésico: cerebelo, ganglios basales, córtex motor
+    - visual - espacial: regiones posteriores del hemisferio derecho
+    - lingüística - verbal: lóbulos temporal izquierdo y frontal
+    - naturalista: áreas del lóbulo parietal izquierdo
+    - lógica - matemática: lóbulos frontal izquierdo y parietal derecho
+
+    - luego se especifica un poco las habilidades típicas que dominan los que exceden en cada una de las inteligencias. tb el sistema simbólico típico, vocaciones, y estructuras cerebrales
+
+    - no se valúa la cantidad de cada inteligencia, sino cuál predomina. eso con cuestionarios. tb se puede descubrir viendo qué hacen los chavales en el tiempo libre, hablando con otros padres y profes, revisando informes escolares, etc.
+
+    - por ahí te ponen tb cómo evaluar cada tipo de inteligencia
+
+- PROGRAMAS DE MEJORA DE INTELIGENCIA:
+    - programas de operaciones cognitiva: enseñan habilidades cognitivas básicas
+    - programas heurísticos: estrategias de resolución de problemas
+    - programas centrados en lenguaje y manipulación de símbolos: la mejora del lenguaje de todo tipo mejora el pensamiento
+    - programas orientados a pensar sobre el pensamienta: entender como pensamos mejora la capacidad para pensar
+
+## APUNTES DEL PROFE
+
+### CÓMO APRENDEMOS?
+
+cada una de las tres formas están especializadas en determinados aprendizajes
+
+- haciéndolas (por reforzamiento, o lo que se conoce coloquialmente como ensayo y error)
+    - reforzamiento es lo que sigue a la conducta
+    - refuerzo positivo: premios
+    - refuerzo negativo: se quita un castigo
+    - refuerzo aversivo: castigo
+
+    - se puede pasar una hoja a principio de curso para ver qué les gusta y qué no y poder come up with premios o castigos.
+    - para que un refuerzo tenga efecto hay que tener en cuenta dos cosas: contingencia (refuerzo inmediato) y credibilidad (ser consecuentes con el refuerzo prometido).
+    - para no generar dependencia: se juega con tiempo y cantidad de reforzamiento.
+    - técnica de aproximaciones sucesivas: reforzar gradualmente para ir acercando al sujeto a lo que quiero que consiga si no es one step process.
+
+    - técnicas de modificación de conducta:
+        - extinción: no hacer caso
+        - saturación: obligar a que el alumno siga con esa conducta hasta que se harte
+        - economía de fichas: puntos que se canjean por premios
+        - tiempo fuera: cuidao con no sacarle mucho para que no se pierda la clase
+        - contrato de contingencias: aguante mutuo, siempre que él no moleste a los demás
+        - los castigos: can backfire. cargas emocionales, anularlo, estropearlo pasiempre. es eficaz pero no constructivo porque no enseña alternativas aceptables de comportamiento.
+        - también se aprenden conduntas por juntamiento (condicionamiento clásico): perro de pavlov, batas verdes de cirujanos y carniceros
+
+- viéndolas hacer (aprendizaje vicario o por observación).
+    - ej programas de cocina, video tutoriales. etc.
+    - problema. no es algo cercano a nosotros. cercano físicamente y cercano de parecido.
+    - no hace falta sacar a los pros en todos, sino al mejor en la cosa específica que queremos aprender, aunque sea un gañán en lo demás.
+
+- dándole al coco. con la cabeza. es lo que se suele hacer en el cole. con pizarra, papel, o algo así.
+    - memoria sensorial: capacidad infinita pero tiempo pequeño. se olvida rápida.
+    - memoria de trabajo / a corto plazo: capacidad y duración moderadas.
+    - memoria a largo plazo: almecén como tal. capacidad infinita. tiempo ilimitado.
+
+    - analogía almacén: gente que pasa (memoria sensorial); gente que te pide cosas del almacén (recuerdas la lista); cuando vasa al almacén te acuerdas de dónde estaban las cosas (largo plazo).
+
+    - en la memoria caben 5 mas menos 2 cosas.
+    - para mejorar el recuerdo: apuntar en un papel; organizarlas en los 5 bultos; practicar el caminito al almacén; relacionando con conocimientos previos;
+
+### CÓMO ES EL QUE APRENDE?
+
+- inteligencia: habilidad para enfrentarse a abstracciones, resolver problemas, o aprender.
+- corriente genetista: la inteligencia se hereda y no se puede aprender.
+- corriente ambientalista: inteligencia es producto de estimulación y aprendizaje. 
+- corriente interaccionista / interaccionismo: se situa a medio camino entre las dos.
+- no se puede medir la inteligencia, pero sí patrones de los seres inteligentes.
+- CI: cociente de inteligencia = 100 * edad mental / edad cronológica.
+- no hay diferencias significativas entre hombres y mujeres (diferencia de un 1%)
 
 ## 2022/09/29
 
-- reforzamiento: las consecuncias de nuestros actos.
-- las consecuencias de nuestros comportamientos son las que determinan si repetimos o no esos comportamientos.
-- los castigos se llaman de refuerzos aversivos
-- los premios son refuerzos negativos
-- cómo era el ejemplo con salimos 10 min antes? salimos 10 min después? no salimos 10 min antes?
-- cuidado con castigar los malos comportamientos de un individuo. si se ven reforzados por el grupo, va a seguir portándose así.
-- es importante reconocer el comportamiento opuesto al malo. a veces castigamos lo malo, pero no premiamos lo opuesto de lo malo.
-- principio de la contingencia: en cuanto el alumno se porta bien o mal le premio o le castigo al instante. así el alumno establece una relación causa efecto en cuanto a las consecuencias de sus comportamientos.
-- principio de la credibilidad: perro ladrador poco mordedor. sé consecuente con lo que dices que vas a hacer. si has dicho que vas a castigar, castigas. cumplir con la amenaza y cumplir con el premio.
-- el usar refuerzos mal es peor que el no usarlos. a corto plazo: los alumnos se portan bien solo cuando estás delante. si solo repartes sugus cuando hacen algo bien, generas una dependencia. a larco plazo: 
-- para administrar premios: controlar la variable tiempo y controlar la variable cantidad. cuando preguntan, agradezco la pregunta la primera o segunda vez. a partir de ahí ya no alabo la pregunta tan frecuentemente. voy a ir haciéndolo cada vez menos, para que se normalice esa conducta.
 - técnica de aproximaciones sucesivas. reconocer partes buenas del comportamiento en alguien que se porte peor, para corregir poco a poco su comportamiento.
-- 5 técnicas de modificación de conducta en orden ascendente de dificultad:
-    - técnica de la extinción: no hacer caso al alumno que se porte mal. se usa cuando no es conveniente interrumpir la clase.
-    - técnica de la saturación: el sujeto repite o hace ese comportamiento hasta que se harte. ahora cuenta a toda la clase todo lo que has hablado con el de al lado.
-    - técnica de la economía de fichas: establecer unas reglas de juego (no gritar, no decir palabrotas, respetar el turno de palabra, etc.) Al final de la semana, o 15 días, en función de las monedas que la clase acumule, se pueden canjear por un tipo de beneficio u otro. Esto funciona para alumnos más pequeños.
-    - el penúltimo se me ha olvidado apuntarlo.
-    - el último: la técnica de contrato de contingencias.negociar con el alumno determinados beneficios a cambio de que te deje dar clase. dejar a los más problemáticos que lleguen tarde, que se pongan los cascos, etc. que él no te moleste a tí y que tú no el molestes a él. hay un libro que se titula cómo dar clase a los que no quieren. de ahí se pueden aprender recursos guays para enseñar a los que no quieren.
+
 
 ## 2022/10/20
 
 - aprendizaje por condicionamiento clásico (aprendizaje por juntamiento).
     - habla José Antonio del perro de Pavlov - el de la campana y la salivación.
-- algo así pasa cuando se ríen de mí por tener un acento raro, o por responder mal, o por responder una bobada, etc.
-- cómo aprendes de alguien que hace algo bien? por cercanía física o por cercanía por similitud.
-- no hay que elegir al mejor. con elegir a alguno normalito que lo haga bien, vale. de hecho así los compañeros "se pican" para ver si tb lo pueden hacer.
-- si coges al alumno "perfecto" le pillan tirria o lo ven imposible.
-- observación e imitación son dos cosas distintas. en la imitación yo copio como un loro. en la observación yo presto atención, tengo ganas de aprender, encuentro una utilidad en aquello que estoy aprendiendo, y tb me busco un poco las habas para ver cómo me las apaño para aprender lo que tengo que aprender.
-- tres tipos de memorias: 
-    - memoria sensorial: aquí recibimos toda la info que nos transmiten nuestros sentidos (vista, oído, olfato, gusto, tacto, me duele esto, tengo calor, cuánta luz, etc.). Queda todo muy poco rato y esta info la descartamos a no ser que pasemos al siguiente nivel de la memoria: memoria a corto plazo o memoria de trabajo.
-    - memoria a corto plazo, tb conocida como memoria de trabajo: nuestra ram. no tiene una gran capacidad, pero el tiempo que me aguantan ahí las cosas es más largo.
-    - memoria a largo plazo: la memoria de verdad. tiene una capacidad prácticamente ilimitada e infinita, tanto en espacio como en tiempo que ocupan los recuerdos.
-- qué podemos hacer para que los alumnos recuerden lo que los estamos enseñando? Lo cuenta el profe en clase. Mirarlo en los apuntes.
-- el cerebro humano puede almacenar 5 +- 2 unidades de información
-- al aprender algo, lo relacionamos con algo que tenemos ya dentro de la cabeza.
-- el primer nivel de manejar la info es tocándola. manipulándola. esto es lo que se llama el nivel en activo.
-- hay que enseñar a hacer las cosas bien pero tb a saber que hacer cuando las cosas están mal.
-- hay que aprender a escribir en una pizarra. aprende a escribir mientras miras a los alumnos.
-- no hagas que los alumnos se aprendan de memoria los procedimientos pararesolver los ejercicios. haz que enitiendan lo que hacen.
-- añadir los pensamientos a las explicaciones ayuda a que ellos entiendan los procedimientos.
-
-# ACTIVIDAD 5. Elegir un algo del contenido curricular de la comunidad que sea del curso que sea y pensar cómo lo enseñaríamos a la luz de estas teorías que hemos visto ahora. No es una programación didáctica. Cómo aprenderían de las 3 maneras?
-
-
-OTROS GRUPOS:
-
-- diego ha dicho algo pero no me acuerdo qué
-- rubén dice que por qué flota el hielo, luego les habla de problemas de desidad y tal, luego hacen problemas con masas volumenes para que saquen densidad. luego que calculen sus datos experimentales. luego problemas pa casa y evaluar a partir de los resultados.
-- mika dice sistemas de referencia. habla de lo que hablaba angel. donde está este boli respecto de este alumno. que vean que la distancia es relativa. luego habla de coches y acceleraciones y trenes y las farolas que se muevan en relación al observador en el tren. resolverían un problema con diferentes sistemas de referencia para ver que sale lo mismo independientemente del observador. luego que se suban al metro y tiren pelotas y que lo observe el de dentro y el de fuera del metro.
-- joseba habla de mezclas. les pone colacao y leche. lo de toda la vida, vaya.
-- carlos dice que para el tradicional, ellos ponen los ejemplos. nah es igual que el resto. KAHOOT.
-- javi sebas habla de la ley de hook. goma de pelo y la tiran. van haciendo ejercicios y los refuerzan con correcciones en clase. retroalimentación constante.
-- laura habla del método científico, magnitudes escalares, vectoriales, y errores en la medida. empiezan por vídeo o experimento, proponen ejercicios en clase, que alguno participe y que lo cuente, etc. luego ejercicios pa casa y luego examen y nota.
-- EL PROFE SUGIERE QUE LOS MOTIVEMOS DE FORMAS ATRACTIVAS. DE CARA A PRESSENTARLE EL TRABAJO, PONER UN EJEMPLO TIPO QUE LE PONDRÍAMOS AL ALUMNO. 
-
-PARTE POR DESCUBRIMIENTO DE CLASE:
-
-- alex dice que mezclan una cosa con otra
-- ana dice que les dan sal y agua pa que mezlcen.
-- carlos elías propone hacer una práctica ligeramente guiada con muelles para la ley dde hooke. relacionan el peso que ponen al muellecito con la fuerza que ejerce el muelle etc. luego todos en común rellenar una tabla de excel y pintar lo que pasa.
-- maricarmeen: uno daban pmaterials y que se las apañaran e ir haciendo preguntas y guiar de alguna manera.
-- 
-
-SIGNIFICATIVO EN CLASE:
-
-- raquel dice que los alumnos traigan de casa las cosas a disolver en clase
-- mariajo habla de la solubilidad
-- del nuestro dice que es tradicional pero con lavado de cara
-
-PARA EL ÚLTIMO MÉTODO:
-OTROS GRUPOS: 
-Mari Carmen habla de dar primero la clase magistral, y a medida que se iban presentado conceptos nuevos hacer miniejercicios para afianzar esos conceptos. al final usarian ejercicios más grandes para ver si han comprendido un poco la ottalidad. para el apartado 3, o bien resolverían un ejercicio en grupo, enfocado a las debilidades que tenían, o bien hacer una práctica de laboratorio supervisada por ellos. después de esa práctica, para el punto 4 harían una memoria o un póster sobre el laboratorio. para el 5 mandarían unos deberes como los que aparecen al final de cada tema del libro. que los resorvieran solos en casa.
-
-diego dice que ellos dan la clase normal. para el punto 2 harían ejercicios pero con experimento. dicen lo que quieren conseguir y los alumnos guían al profesor para que lo consiga. para el 3 hacen un ejercicio cerrado. sal y agua a mezclar y sacar concentración etc. para el 4 ni idea de lo que ha dicho. para el 5 que los chabvales hagan en casa unos cristales en lana.
-
-gonzalo habla de hacer el mismo ejercicio en clase con diferentes sistemas de referencia. poner en una hoja puntos y que ellos eligieran los sistemas de referencia. para finalizar, gonzalo proponía hacer una pregunta abierta en la que se estudia un fenómeno físico y se proponen diferentes sistemas de referencia por los alumnos
-
-david habla de la ley de hook. en la clase magistral explican qué son las variables, las unidades, qué significa cada cosa, etc. en el segundo paso les piden ejercicios faciles con la ecuación. luego en vez de estirar el muelle lo comprimen para que los chavales vean que el ejercicio es análogo. 
-
-raquel garcía habla de mezclas. primero se explica la teoría en clase. luego hacen una actividad los profes mientras hablan en voz alta. luego en la actividad guiada por el profesor, dan el material y que los alumnos lo resuelvan. lo demás no me ha dado tiempo a apuntarlo.
-
-alex habla de dar la clase de manera formal. en la etapa 2 explicar un problema abierto y ahhondar en las hipótesis una a una. luego que los alumnos planteearan hipótesis y que las comprobaran a ver si eran o no verdad. luego por grupos a ver si lo iban pillando. luego para finalizar un cuastionario para casa pa ver si se habían enterao.
-
-ana habla de las densidades. 1 pizarra. 2 ejercicio sencillo con datoss y que los mismos pofes lo calculan. en el 3 traemos un vaso con hielo y preguntamos por qué el hielo flota. en el cuatro les damos diferentes sustancias y ellos preveen cual va a ser más denso y cual va a ser menos denso. que ellos lo vean. si los alumnos no son capaces de responder por qué, les ayudamos. en el último paso les damos dos datos de tres y que saquen el tercero en casa.
-
-## 2022/11/17
-## ACTIVIDAD:
-- DISEÑAR UNA FLIPPED CLASSROOM (AQUÍ NO VA A HABER PUESTA EN COMÚN)
-    - primero un material de sustento teórico para la clase. Que no sean fotocopias. Mejor un vídeo donde explico lo que quiero que sepan. duración de menos de un minuto. la gente que aparezca, la que sea.
-    - mínimo de 3 actividades para hacer en clase para trabajar sobre lo introducido en ese vídeo.
-
-    - aplicado, divertido, atractivoº
