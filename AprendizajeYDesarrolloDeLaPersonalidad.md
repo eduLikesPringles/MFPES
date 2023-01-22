@@ -34,7 +34,7 @@
 ## Datos Retención:
 - alumnos atienden a un 40% de una lecture
 - en los 10 primeros mins, los alumnos retienen un 70%. en los últimos 10, un 20%
-- adding visual aids increases retention from 14% to 18%
+- adding visual aids increases retention from 14% to 38%
 
 ## Adolescencia:
 - temprana: 10 - 13 años
@@ -264,13 +264,3 @@ cada una de las tres formas están especializadas en determinados aprendizajes
 - no se puede medir la inteligencia, pero sí patrones de los seres inteligentes.
 - CI: cociente de inteligencia = 100 * edad mental / edad cronológica.
 - no hay diferencias significativas entre hombres y mujeres (diferencia de un 1%)
-
-## 2022/09/29
-
-- técnica de aproximaciones sucesivas. reconocer partes buenas del comportamiento en alguien que se porte peor, para corregir poco a poco su comportamiento.
-
-
-## 2022/10/20
-
-- aprendizaje por condicionamiento clásico (aprendizaje por juntamiento).
-    - habla José Antonio del perro de Pavlov - el de la campana y la salivación.

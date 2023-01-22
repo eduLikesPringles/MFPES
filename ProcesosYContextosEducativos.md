@@ -20,7 +20,7 @@
     - Claustro de Profesores
     - Órganos de Coordinación Docente (dept orientación, dept didácticos, comisión de coord pedagógica, equipo docente del grupo, tutores, dept de actividades extraescolares  y commplementarias)
 
-- Selección de la Dirección: 6 en total: 1/3 claustro, 1/3 consejo escolar, 1/3 comisión (que es otro director en activo en otro centro y un inspector de educación).
+- Selección de la Dirección: 6 en total: 1/3 claustro, 1/3 consejo escolar, 1/3 comisión (que es otro director en activo en otro centro y un inspector de educación). Se elige cada 5 años.
 - Para presentarse como candidato: al menos 5 años como funcionario, haber enseñado al menos 5 años, no haber sido cesado como director, haber superado un programa de competencias para el desempeño, presentar un proyecto de dirección. Se puede solicitar hasta 3 centros.
 
 - Equipo Directivo: director (que elige jefe de estudios y secretario con previo aviso al claustro y consejo), jefe de estudios, y secretario.
@@ -39,7 +39,7 @@
     - oferta educativa
     - sistema de organización
     FINES DE PE:
-    - adaptar programas del MEC a necesidades del centro y entorno
+    - adaptar programas del Ministerio de Educación y Cultura (MEC) a necesidades del centro y entorno
     - facilitar participación de instituciones escolares
     - actividades extraescolares para fomentar relaciones y aprovechamiento de instalaciones
     - relacionar principios del centro con realidad sociocultural.
@@ -207,5 +207,3 @@
 - tenemos eso, diversificación, y ciclo formativo de carácter básico. qué es lo último?
 - qué quiere decir que en privados y concertados se puede titular una persona jurídica (empresa)?
 - qué se estudia en el Bachollerato General?
-- diferencias entre pec, pcc, etc?
-- qué coño es el MEC?

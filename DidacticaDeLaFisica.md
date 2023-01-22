@@ -1,3 +1,138 @@
+# DIDÁCTICA DE LA FÍSICA
+
+## TODO
+- batallitas de mierda
+
+## MODELOS DE ENSEÑANZA
+
+- Modelo de Transmisión y Recepción
+- Modelo de Descubrimiento
+- Modelo Constructivista
+
+## Procesamiento Cognitivo de la Información
+
+- Exposición 2%
+- Lectura 10%
+- Audiovisual 20%
+- Demostración 30%
+- Discusión 50%
+- Práctica 75%
+- Enseñar a Otros 90%
+
+## TENDENCIAS DE ENSEÑANZA DE LAS CIENCIAS
+
+- Tradicional
+    - ventajas
+    - inconvenientes
+- Tecnologista
+    - ventajas
+    - inconvenientes
+- Espontaneista
+    - ventajas
+    - inconvenientes
+- Alternativa (orientación constructivista)
+    - ventajas
+    - inconvenientes
+
+## DEFS: ciencia, método científico, magnitud, medir, unidad?
+
+- CIENCIA es la parte del conocimiento humano que estudia la Naturaleza a través de la experimentación, de tal modo que los resultados sean reproducibles y las conclusiones puedan ser refutadas. Habitualmente se admite que la ciencia puede dividirse en cuatro grandes áreas: física, química, biología y geología. Se considera a las matemáticas la herramienta común para el tratamiento de los datos y la expresión de los resultados. La tecnología es la aplicación práctica de estos conocimientos a la resolución de problemas concretos para los individuos y la sociedad.
+
+- El método científico es la forma o la manera en que se desarrolla el trabajo de los científicos. Si bien existen varios esquemas y serias críticas a la propia existencia de un método, es habitual considerar los siguientes pasos:
+    - Observación y planteamiento del problema.
+    - Planteamiento de hipótesis. Característica: deben ser susceptibles de comprobación experimental.
+    - Experimentación y análisis de resultados.
+    - Conclusiones expuestas en forma de teorías, leyes o fórmulas.
+    - Comunicación de los resultados.
+
+- Magnitud es una propiedad que puede ser medida, como por ejemplo, el número de sillas de una clase, la energía, la masa, etc
+- Medir una propiedad es comparar la cantidad que tiene un objeto con una cantidad fija o patrón, denominada unidad.
+- Unidad es una cantidad arbitraria elegida por convenio que nos sirve como patrón para realizar medidas (fundamentales, derivadas y complementarias).
+
+- Proceso de medida
+- Error sistemático
+- Error accidental
+- Incertidumbre absoluta
+- Incertidumbre relativa
+- Cifras significativas
+
+## CONCEPCIONES ALTERNATIVAS
+
+- tipos:
+    - perceptivas (o primarias): dependen de nuestros sentidos (ej. calor y temperatura, velocidad y aceleración, etc.)
+    - explicativas (o secundarias): por el modo de relacionar los hechos (si das calor a un cuerpo, su temperatura sube y no puede invertirse ese calor para nada más).
+    - predictivas (o terciarias): vinculadas con la generalización (más implica más).
+
+- PENSAR (inteligencia), entendido como capacidad de ofrecer respuestas adaptadas y eficientes, parece no tener una ubicación espacial concreta
+
+## ENEGÍA Y TRABAJO
+
+- transferencia de energía:
+    - trabajo: aparecen fuerzas que mueven cosas
+    - calor: cambian temperaturas de cosas
+
+- unidades:
+    - julio: necesario para levantar 100 gramos un metro sobre el suelo
+    - caloría: necesario para elever 1ºC la T de 1g de agua. 1 cal = 4,18 J.
+    - 1 CV = 735 W
+
+## CALOR Y TEMPERATURA
+
+- T es una magnitud intensiva porque no depende de la masa del sistema
+- equilibrio térmico
+- calorimetría
+
+## CURSO SCIxSOC
+
+- nada útil
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Didáctica de la Física
 -	El profe se llama ángel
 -	Los de didáctica (específicas) se odian con los de pedagogía (lo general)
