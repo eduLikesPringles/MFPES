@@ -1,4 +1,1 @@
-# REMINDER AFTER CHRISTMAS
-
-- concretar tema TFM Angel correo métodos didácticos
-- hablar tutor prácticas
+- INNOVACIÓN: partes de un artículo a ver si lo cumplen los subidos. Subir al campus.
