@@ -16,6 +16,6 @@
 - 2 gatherers from gold to wood
 - build houses and hersirs
 - dwarfs autoqueue until 10 on gold
-- then dwarfs on food
+- then dwarfs on food  
 
 we're at 10:00 min
