@@ -1,0 +1,1 @@
+- LMS: Learning Management System. Ex: Google Classroom, Moodle, etc.

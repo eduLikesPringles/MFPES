@@ -19,3 +19,20 @@
 - then dwarfs on food  
 
 we're at 10:00 min
+
+## KRONOS RUSH
+
+- oracles to enemy base
+- 5 to food
+- build temple + house as soon as possible
+- advance
+- 2 wood, 2 gold, 1 food
+- 1 wood, 2 gold, 2 food
+- time shift temple
+- deconstruct buildings
+- autoquehe prometheans
+- valor oracles
+- build barracs + couter barracs
+- time shift those
+- new vills to food
+- keep getting upgrades and carry on
