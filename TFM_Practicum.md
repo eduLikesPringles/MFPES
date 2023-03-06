@@ -1,24 +1,56 @@
 # TFM y PRÁCTICUM
 
+## TEMP
+- 3 eso (3 clases)
+- repasar mol
+    - dibuja en pizarra una docena de huevos.
+    - docena de siameses.
+    - qué pesa más? una docena de huevos o una docena de barcos?
+    - el mol se refiere a la masa? no! a la cantidad!
+- intro reacciones químicas sin meterme mucho en el tema
+
+- 2 eso (2 clases)
+    - 1. resolver examen.
+    - 2. profundizar estequiometría. exceso de una sustancia.
+    - 2. homeopatía. debunking myths.
+    - 2. kahoot con premio.
+        - atom vs molecule vs particle.
+        - conservation of atoms. non conservation of molecules.
+        - trabajar en cosas que les de problemas a los de tercero, para ir asentando.
+        - excess reagent. what happens?
+        - lavoisier: los átomos no se transforman en otros. se recombinan.
+        - cambio físico vs químico
+        - la naturaleza de una sustancia?
+        - el mol.
+        - closed system and open system combustion combination.
+    - 2. juego puntuando con protones y subiendo en la tabla periódica.
+    - 2. qué es el fuego?
+        - temperatura y luz, ley de stefan boltzmann, termómetro de infrarrojos, medidas indirectas en física.
+
 ## TEACHERS
+Dirección: Director, Andrés (Secreterio?)
 FyQ: Ágata Cubero Belinchón, Alicia Coballes Redondo, Ana Martín Recio (jefa de departamento).
 Mates: Inmaculada Puebla (jefa de departamento), Eugenio Hernández, Mª Antonia Chaves, Yolanda Guijarro, Mª Lourdes Sánchez, Patricia Martínez, Marina Cortón, Miguel Gómez.
 
 ## WAITING FOR
-- nombres alumnos
+- nombres alumnos 
 
 ## TODO
+- check Khan Academy
+- investigar sciencebits a ver si es aprendizaje significativo.
+- jerk en physics en la fase explore. 
+- pizarras de Bach credenciales de alumno de confianza?
+
 - cacharrear pg web centro
     - leer PGA y demás
 
-- cuál es el horario de todos los profes?
 - ir planificando bloques de cinemática para 2o y 3o
-- ask for signed papers back
+- send signed papers back
 
 ## TONTERÍAS
 - quién se ha encargado de redactar la programación?
-- cómo organizas tú tu material para dar clase? sigues alguna rutina?
-- he visto que hay un cuestionario del centro para pasar a los alumnos y que evalúen la calidad de enseñanza del profe
+    - he visto que hay un cuestionario del centro para pasar a los alumnos y que evalúen la calidad de enseñanza del profe
+    - lo de los 3 puntos menos de media que en otras asignaturas se refiere a la nota sobre 10?
 - las secuencias didácticas se recogen en qué documento? O es propio de cada docente?
 
 - vacation?
@@ -98,6 +130,7 @@ Mates: Inmaculada Puebla (jefa de departamento), Eugenio Hernández, Mª Antonia
     - formulación: compuestos binarios, peróxidos, sales binarias, hidróxidos. oxidation number name and prefixes name.
 - Guardia:
     - primera vez con un grupo. 1ºESO. Aprendo los "contratos" que Alicia establece con los alumnos.
+
 ## 2023/03/2
 - 2C
     - lab disoluciones: cálculo de concentración molar y en porcentaje en masa de sulfato de cobre en agua. tenían que darse cuenta que a misma masa de sulfato de cobre y diferente de agua obtenían disolus más concentradas o diluidas.
@@ -122,5 +155,52 @@ Mates: Inmaculada Puebla (jefa de departamento), Eugenio Hernández, Mª Antonia
     - laptop desaparecido
     - 1 h de reu
 
+## 2023/03/3
+- 3D
+    - tablas nomenclatura para práctica examen
+- Reu FyQ:
+    - cómo conservar Na oxidado en superficie
+    - Ana cuenta feria "Qué Onda Wey"
+        - ondas transversales y longitudinales
+        - sonido con diapasones, frecuencias naturales y resonancia (analogía columpio)
+        - levitación con ultrasonidos (dispositivo con altavoces a 40 kHz). ondas estacionarias. PVC levita en todos los nodos, a alturas separadas a 4 mm. aparato hecho con 3d printer, arduino, altavoces en geometría específica.
+        - luz, transversal, visible e invisible. infrarrojos con el móvil. polarizadores.
+- 2C:
+    - vamos al labo pq hace frío
+    - resolvemos ejemplos de ajustes estequiométricos dibujando moléculas
+    - sacamos a estudiantes a la pizarra para que expliquen el procedimiento seguido a los demás.
+    - chistecito de lepe y PoliDeportivo.
+- 2BachB
+    - pilas daniell, potenciales de reducción, dos modos de resolución de problemas de ese tipo: con los potenciales de reducción ó con las semirreacciones de oxidación y reducción.
+- 2BachA
+    - idem
+
+## 2023/03/6
+- 2BachB, 2BachA:
+    - problemas pilas:
+        - la reacción redox en una pila es espontánea. la energía gibbs es menor que cero (por eso es espontánea). 
+        - increment(G) -nFEº. Eºpila > 0. Eºpila = Eºcátodo - Eºánodo.
+        - los cationes del puente salino van al cátodo.
+        - los aniones en el puente salino van al ánodo.
+        - el potencial de la pila siempre ha de ser positivo, o sea que la especie que tiene mayor potencial es la que se reduce.
+        - en el cátodo se ganan electrones. se reduce el cátodo.
+        - los electrones van del ánodo al cátodo. desde la especie que los pierde hacia la especie que los gana.
+        - el sentido de la corriente eléctrica va en sentido opuesto! Recordar.
+        - el circuito interno es el puente salino. ahí no se mueven electrones. se mueven solo iones.
+        - el circuito externo es el cable que conecta los electrodos. aquí sí se mueven los electrones y no los iones.
+        - en el puente salino, los iones positivos van hacia el cátodo.
+        - el polo positivo es el cátodo.
+        - el Zn pasa a Zn2+ en disolución, por lo que la lámina va perdiendo masa.
+- 3C, 3E:
+    - hoja nomenclature.
+
 ## APRENDIZAJES:
 - aprender algo de historia de FyQ: competencias transversales
+- luz y temperatura en el aula son importantes: que los alumnos estén cómodos.
+
+## RISAS:
+- chiste vela
+- chiste lepe PoliDeportivo
+- "que aprenda, que los chavales somos así"
+- "pues Ana tiene -5 años. Y PUNTO!"
+- "dónde está la hoja de reclamaciones? (el aprobado del examen de formulación normalizado a 7)"
