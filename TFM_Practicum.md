@@ -1,61 +1,46 @@
 # TFM y PRÁCTICUM
 
 ## TEMP
+- lab disolus conclusiones:
+    - análisis de los resultados, incertidumbres, errores
+    - vincular resultados a la hipótesis
+    - qué podríamos haber mejorado en el procedimiento, o qué más cosas podríamos haber medido
+    - qué has aprendido? tanto de lo numérico como de lo visual.
+    - conecta con ostros estudios que hayas hecho o que haya por ahí.
+    - novedades o posibles estudios posteriores o posibles preguntas posteriores
+
 - 3 eso (3 clases)
 - repasar mol
     - dibuja en pizarra una docena de huevos.
-    - docena de siameses.
+    - docena de siameses.l
     - qué pesa más? una docena de huevos o una docena de barcos?
     - el mol se refiere a la masa? no! a la cantidad!
 - intro reacciones químicas sin meterme mucho en el tema
 
 - 2 eso (2 clases)
     - 1. resolver examen.
-    - 2. profundizar estequiometría. exceso de una sustancia.
-    - 2. homeopatía. debunking myths.
-    - 2. kahoot con premio.
-        - atom vs molecule vs particle.
-        - conservation of atoms. non conservation of molecules.
-        - trabajar en cosas que les de problemas a los de tercero, para ir asentando.
-        - excess reagent. what happens?
-        - lavoisier: los átomos no se transforman en otros. se recombinan.
-        - cambio físico vs químico
-        - la naturaleza de una sustancia?
-        - el mol.
-        - closed system and open system combustion combination.
-    - 2. juego puntuando con protones y subiendo en la tabla periódica.
-    - 2. qué es el fuego?
-        - temperatura y luz, ley de stefan boltzmann, termómetro de infrarrojos, medidas indirectas en física.
+    - 2. repasar informes de lab. hablar de conclusiones.
 
 ## TEACHERS
 Dirección: Director, Andrés (Secreterio?)
 FyQ: Ágata Cubero Belinchón, Alicia Coballes Redondo, Ana Martín Recio (jefa de departamento).
 Mates: Inmaculada Puebla (jefa de departamento), Eugenio Hernández, Mª Antonia Chaves, Yolanda Guijarro, Mª Lourdes Sánchez, Patricia Martínez, Marina Cortón, Miguel Gómez.
 
-## WAITING FOR
-- nombres alumnos 
-
 ## TODO
+- examen 2bach y soluciones
+- responder a ángel de manera más formal y estructurada
 - check Khan Academy
-- investigar sciencebits a ver si es aprendizaje significativo.
+- ver qué es photomath
 - jerk en physics en la fase explore. 
-- pizarras de Bach credenciales de alumno de confianza?
-
-- cacharrear pg web centro
-    - leer PGA y demás
-
-- ir planificando bloques de cinemática para 2o y 3o
-- send signed papers back
-
-## TONTERÍAS
-- quién se ha encargado de redactar la programación?
-    - he visto que hay un cuestionario del centro para pasar a los alumnos y que evalúen la calidad de enseñanza del profe
-    - lo de los 3 puntos menos de media que en otras asignaturas se refiere a la nota sobre 10?
+    - info extra pero dejando claro que no hace falta. estímulo para los interesados. descanso para los demás.
+    - preguntas abiertas para sub ir nota.
 - las secuencias didácticas se recogen en qué documento? O es propio de cada docente?
-
 - vacation?
     - viernes 24 mar
     - 11 mayo 15 mayo canarias
+- cacharrear pg web centro
+    - leer PGA y demás
+- talk to Marie
 
 ## RESUMEN GUÍA PRÁCTICUM
 - 22 feb a 27 abr prácticas
@@ -194,9 +179,60 @@ Mates: Inmaculada Puebla (jefa de departamento), Eugenio Hernández, Mª Antonia
 - 3C, 3E:
     - hoja nomenclature.
 
+## 2023/03/7
+- 2BachB Mates:
+    - integrales por partes
+    - cambio de variable
+    - inmediatas
+    - división de polinomios
+    - idea feliz +1 -1
+    - cíclicas por partes con INTEGRAL[(senx * e**x) * dx]
+- 3E:
+    - examen formulación y nomenclatura
+        - tablita, corregir fórmulas que están mal, dar todas las posibles combinaciones entre titanio y oxígeno.
+- 2BachB, 2BachA:
+    - problemas cubas electroquímicas
+    - en cubas electrolísticas el polo positivo y negativo cambian entre el ánodo y cátodo respecto a la pila galvánica.
+
+## 2023/03/8
+- 2 ESO
+    - problemas estequiometría
+    - problemas conservación de la masa
+- 3C
+    - juego dados compuestos con iones
+- 3D
+    - juego dados compuestos con iones
+- 3E
+    - corrección examen y entrega y resolución de dudas
+
+## 2023/03/9
+- 2 ESO
+    - picklers repaso examen
+    - problemas conservación de la masa
+    - problemas estequiometría
+    - cuestiones teóricas número atómico y másico, cambio físico vs químico, etc.
+- 3C
+    - examen
+- 2BachB, 2BachA:
+    - aplicaciones pilas
+    - experimento galvanoplastia cuchara
+    - minas de riotinto
+        - se explota para conseguir oro, cobre, etc
+        - mina a cielo abierto
+        - cobre por tostación, pero se produce óxido de azufre pq produce lluvia ácida
+        - ahora cobre se consigue por electrolisis :D
+- reu bilinguismo
+    - tablitas de aprobados y suspensos de exámenes de cambridge. 92 vs 8
+    - alumnos que no superan nivel mínimos de inglés se propone pasarlos a programa (pmar)
+    - concurso Global Classrooms de Debate. Tema: economía circular. cada grupo representa un país con sus pensamientos. hay pases de ronda y el premio es un viaje a new york.
+    - concurso Global Scholars sobre el agua. escasez, distribución, tratamiento, etc. alumnos se comunican con chavales de la india. 
+
+
 ## APRENDIZAJES:
 - aprender algo de historia de FyQ: competencias transversales
 - luz y temperatura en el aula son importantes: que los alumnos estén cómodos.
+- no parar la clase demasiado por dudas individuales. hacer un foro de preguntas con upvotes.
+- experimentos de cátedra cortitos y que encajen con ejercicios.
 
 ## RISAS:
 - chiste vela
