@@ -1,1 +1,2 @@
 - LMS: Learning Management System. Ex: Google Classroom, Moodle, etc.
+- CCP: Comisión de Coordinación Pedagógica. Aquí hay un secretario que apunta todo lo que pasa. se suele elegir al más pequeño, quizá para que se entere de las cosas bien.

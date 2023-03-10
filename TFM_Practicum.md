@@ -22,11 +22,15 @@
     - 2. repasar informes de lab. hablar de conclusiones.
 
 ## TEACHERS
-Dirección: Director, Andrés (Secreterio?)
+Dirección: Director Andrés? (Secreterio?)
 FyQ: Ágata Cubero Belinchón, Alicia Coballes Redondo, Ana Martín Recio (jefa de departamento).
 Mates: Inmaculada Puebla (jefa de departamento), Eugenio Hernández, Mª Antonia Chaves, Yolanda Guijarro, Mª Lourdes Sánchez, Patricia Martínez, Marina Cortón, Miguel Gómez.
 
 ## TODO
+- PREPARAR REACCIONES PA ACABAR ANTES DE S.SANTA 3ESO.
+- PREPARAR CLASE CONCLUSIONES COMPARANDO CON PAPER ALUMNOS 2ESO.
+
+- pedir alicia material mol 3ºeso
 - examen 2bach y soluciones
 - responder a ángel de manera más formal y estructurada
 - check Khan Academy
@@ -223,10 +227,33 @@ Mates: Inmaculada Puebla (jefa de departamento), Eugenio Hernández, Mª Antonia
         - ahora cobre se consigue por electrolisis :D
 - reu bilinguismo
     - tablitas de aprobados y suspensos de exámenes de cambridge. 92 vs 8
-    - alumnos que no superan nivel mínimos de inglés se propone pasarlos a programa (pmar)
+    - alumnos que no superan nivel mínimos de inglés se propone pasarlos a programa (que es dar todo en español, salvo música y PE, que se da siempre en inglés)
     - concurso Global Classrooms de Debate. Tema: economía circular. cada grupo representa un país con sus pensamientos. hay pases de ronda y el premio es un viaje a new york.
     - concurso Global Scholars sobre el agua. escasez, distribución, tratamiento, etc. alumnos se comunican con chavales de la india. 
-
+## 2023/03/10
+- 3D:
+    - corrección examen del mol: ajuste de reacciones, porcentaje de disolución en volumen, molecular mass, avogadro, 
+- reu fyq:
+    - hablan de programación asignatura proyectos para año que viene
+    - hablan de por donde van cada una en temario y donde tienen que ponerse las pilas
+    - me comentan trabajo extra de tutor: reus periódicas con alumnos, padres, hacer informes, etc. sueldo de +60 euros mensuales. Ágata no lo recomienda para nada.
+    - me comentan trabajo extra de jefe departamento: programaciones, etc.
+- Radio:
+    - programa sobre 8m y feminismo
+    - música de poemas feministas hechos por mujeres
+    - alumnas hablaban de mujeres a quienes admiran: mamá, abuela, etc.
+- Aula Música:
+    - 2 alumnos tocando el piano!
+    - hay una batería!
+    - primera vez que me dicen que soy buen profe :D (alumno química 3eso)
+- 2eso:
+    - examen estequimetría, elementos, reactivos, productos, ley de conservación de la masa, atomos, moléculas, cambio físico y químico, etc.
+    - 2 alumnos con "déficit de atención". simulacro falso de incendios.
+- 2BachB, 2BachA:
+    - examen recu y subida nota
+- clase PE a 3ESO:
+    - convers chill con el profe de gimnasia
+    - me dice una alumna que gracias por animarla a aprobar formulación! sacó un 4 con mucho
 
 ## APRENDIZAJES:
 - aprender algo de historia de FyQ: competencias transversales
