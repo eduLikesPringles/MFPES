@@ -11,8 +11,9 @@
 
 - 3 eso (3 clases)
 - repasar mol
+    - what is a mole? 6,022*10**23
     - dibuja en pizarra una docena de huevos.
-    - docena de siameses.l
+    - docena de siameses.
     - qué pesa más? una docena de huevos o una docena de barcos?
     - el mol se refiere a la masa? no! a la cantidad!
 - intro reacciones químicas sin meterme mucho en el tema
@@ -26,7 +27,16 @@ Dirección: Director Andrés? (Secreterio?)
 FyQ: Ágata Cubero Belinchón, Alicia Coballes Redondo, Ana Martín Recio (jefa de departamento).
 Mates: Inmaculada Puebla (jefa de departamento), Eugenio Hernández, Mª Antonia Chaves, Yolanda Guijarro, Mª Lourdes Sánchez, Patricia Martínez, Marina Cortón, Miguel Gómez.
 
+## TODAY
+- encuesta alumnos: qué te gusta de un profe. qué no te gusta de un profe.
+- rellenar horario agatha jueves y viernes
+- imprimir hoja mol
+
 ## TODO
+- imprimir examen 2bach 16 marzo
+- ver soluciones y entenderlas
+- ver soluciones de ejercicios que tienen que hacer en clase
+
 - PREPARAR REACCIONES PA ACABAR ANTES DE S.SANTA 3ESO.
 - PREPARAR CLASE CONCLUSIONES COMPARANDO CON PAPER ALUMNOS 2ESO.
 
@@ -254,6 +264,16 @@ Mates: Inmaculada Puebla (jefa de departamento), Eugenio Hernández, Mª Antonia
 - clase PE a 3ESO:
     - convers chill con el profe de gimnasia
     - me dice una alumna que gracias por animarla a aprobar formulación! sacó un 4 con mucho
+
+## 2023/03/13
+- 2BachA:
+    - ejercicios redox y pilas
+- 3esoC:
+    - moles, estequiometría, reactivo limitante, masas molares, masas.
+    - ha sido mi primera clase. un desastre porque no he podido prepararla y los alumnos estaban en mood fiesta. tengo que aprender a tratar con grupos.
+- 1Bach Física Ana:
+    - MRU problemas de movimientos compuestos. persona en barco, persona en cinta transportadora, paloma que se eleva y vuela.
+    - tiro parabólico
 
 ## APRENDIZAJES:
 - aprender algo de historia de FyQ: competencias transversales
