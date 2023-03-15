@@ -9,15 +9,6 @@
     - conecta con ostros estudios que hayas hecho o que haya por ahí.
     - novedades o posibles estudios posteriores o posibles preguntas posteriores
 
-- 3 eso (3 clases)
-- repasar mol
-    - what is a mole? 6,022*10**23
-    - dibuja en pizarra una docena de huevos.
-    - docena de siameses.
-    - qué pesa más? una docena de huevos o una docena de barcos?
-    - el mol se refiere a la masa? no! a la cantidad!
-- intro reacciones químicas sin meterme mucho en el tema
-
 - 2 eso (2 clases)
     - 1. resolver examen.
     - 2. repasar informes de lab. hablar de conclusiones.
@@ -27,31 +18,17 @@ Dirección: Director Andrés? (Secreterio?)
 FyQ: Ágata Cubero Belinchón, Alicia Coballes Redondo, Ana Martín Recio (jefa de departamento).
 Mates: Inmaculada Puebla (jefa de departamento), Eugenio Hernández, Mª Antonia Chaves, Yolanda Guijarro, Mª Lourdes Sánchez, Patricia Martínez, Marina Cortón, Miguel Gómez.
 
-## TODAY
-- encuesta alumnos: qué te gusta de un profe. qué no te gusta de un profe.
-- rellenar horario agatha jueves y viernes
-- imprimir hoja mol
-
 ## TODO
-- imprimir examen 2bach 16 marzo
-- ver soluciones y entenderlas
-- ver soluciones de ejercicios que tienen que hacer en clase
-
 - PREPARAR REACCIONES PA ACABAR ANTES DE S.SANTA 3ESO.
 - PREPARAR CLASE CONCLUSIONES COMPARANDO CON PAPER ALUMNOS 2ESO.
 
-- pedir alicia material mol 3ºeso
+- buscar labos para cinemática! así hago una unidad didáctica para 2ESO.
+- para 3 ESO hago el TFM.
+
 - examen 2bach y soluciones
-- responder a ángel de manera más formal y estructurada
+
 - check Khan Academy
 - ver qué es photomath
-- jerk en physics en la fase explore. 
-    - info extra pero dejando claro que no hace falta. estímulo para los interesados. descanso para los demás.
-    - preguntas abiertas para sub ir nota.
-- las secuencias didácticas se recogen en qué documento? O es propio de cada docente?
-- vacation?
-    - viernes 24 mar
-    - 11 mayo 15 mayo canarias
 - cacharrear pg web centro
     - leer PGA y demás
 - talk to Marie
@@ -275,11 +252,32 @@ Mates: Inmaculada Puebla (jefa de departamento), Eugenio Hernández, Mª Antonia
     - MRU problemas de movimientos compuestos. persona en barco, persona en cinta transportadora, paloma que se eleva y vuela.
     - tiro parabólico
 
+## 2023/03/14
+- 2BachFísica
+    - se resuelven problemas que se mandaron de deberes: efecto fotoeléctrckio y óptica geométrica.
+- Todos los terceros de la ESO:
+    - película del gran showman
+- 2 Bach B:
+    - les cambian la clase de Alicia por la de Historia
+
+## 2023/03/15
+- 2 eso francés:
+    - tutoría: hablan de mujeres de su familia que admiran (abuelas que trabajaban de sol a sol, madres que perseguían sus sueños, etc.)
+- 2 eso ágata empiezan física
+    - v = d / t
+    - doy yo la segunda clase y les ha molado!
+    - tb reparto papelitos para encuesta: qué te gusta de un profe y qué no?
+
 ## APRENDIZAJES:
 - aprender algo de historia de FyQ: competencias transversales
 - luz y temperatura en el aula son importantes: que los alumnos estén cómodos.
 - no parar la clase demasiado por dudas individuales. hacer un foro de preguntas con upvotes.
 - experimentos de cátedra cortitos y que encajen con ejercicios.
+- usar juguetes o simuladores tanto como se pueda en las clases.
+
+## IDEAS:
+    - info extra pero dejando claro que no hace falta. estímulo para los interesados. descanso para los demás.
+    - preguntas abiertas para sub ir nota.
 
 ## RISAS:
 - chiste vela
