@@ -1,32 +1,12 @@
 # TFM y PRÁCTICUM
 
-## TEMP
-- lab disolus conclusiones:
-    - análisis de los resultados, incertidumbres, errores
-    - vincular resultados a la hipótesis
-    - qué podríamos haber mejorado en el procedimiento, o qué más cosas podríamos haber medido
-    - qué has aprendido? tanto de lo numérico como de lo visual.
-    - conecta con ostros estudios que hayas hecho o que haya por ahí.
-    - novedades o posibles estudios posteriores o posibles preguntas posteriores
-
-- 2 eso (2 clases)
-    - 1. resolver examen.
-    - 2. repasar informes de lab. hablar de conclusiones.
-
-## TEACHERS
-Dirección: Director Andrés? (Secreterio?)
-FyQ: Ágata Cubero Belinchón, Alicia Coballes Redondo, Ana Martín Recio (jefa de departamento).
-Mates: Inmaculada Puebla (jefa de departamento), Eugenio Hernández, Mª Antonia Chaves, Yolanda Guijarro, Mª Lourdes Sánchez, Patricia Martínez, Marina Cortón, Miguel Gómez.
-
 ## TODO
-- PREPARAR REACCIONES PA ACABAR ANTES DE S.SANTA 3ESO.
-- PREPARAR CLASE CONCLUSIONES COMPARANDO CON PAPER ALUMNOS 2ESO.
+- pensar en proyecto de investigación tema de energía
+- integrar tema aceleración en planning 2 eso
+- subir esquema chemical reactions
+- subir esquema método científico
 
-- buscar labos para cinemática! así hago una unidad didáctica para 2ESO.
-- para 3 ESO hago el TFM.
-
-- examen 2bach y soluciones
-
+## NOT URGENT
 - check Khan Academy
 - ver qué es photomath
 - cacharrear pg web centro
@@ -45,20 +25,9 @@ Mates: Inmaculada Puebla (jefa de departamento), Eugenio Hernández, Mª Antonia
 - pg 32. anexo 7. guion memoria prácticas.
 
 ## INFO ÚTIL:
-- Alicia Coballes Redondo
-- 21 marzo puedo empezar a experimentar con TFM en grupos de la ESO
-    - 2 eso cinemática
-    - 2 eso 11 abril cinemática
 - Science bits libro digital
 - student4@kraus.es
 - bits8586
-
-## IDEAS TFM
-- idea de TFM:
-    - iMotions en vez de Likert
-    - intervención educativa diferente (tradi vs gamificación por ejemplo)
-    - me gustaría hacer un laboratorio por indagación vs uno tradicional guiado
-    - necesitaría grabar y para ello firmar permisos
 
 ## 2023/02/22
 - Guardia. Alicia me comenta por dónde va con cada grupo y planes docentes para estos dos meses.
@@ -268,6 +237,66 @@ Mates: Inmaculada Puebla (jefa de departamento), Eugenio Hernández, Mª Antonia
     - doy yo la segunda clase y les ha molado!
     - tb reparto papelitos para encuesta: qué te gusta de un profe y qué no?
 
+## 2023/03/16
+- 2 frances MATES:
+    - empiezan gráficas!
+    - x es var indepe
+    - y es var depen
+    - dibujan parábola a mano alzada! no unir los puntos!
+    - antena parabólica puede ser buen ejemplo!
+    - m es la pendiente: avanzo 1, subo m.
+    - y = mx. obtener gráfica a partir de ecuación y ecuación a partir de gráfica.
+- 2 eso agata
+    - repaso estequiometría pre examen
+- 2 bachs 
+    - exámenes
+
+## 2023/03/17
+- 2 eso mates frances: y = mx+n, dibujar gráfica, sacar ecuación.
+- 3 esos: triangulo de mandelbrot ese raro con latas
+- reu fyq: mates solicita una hora más. nosotros podemos pedir más desdobles?
+- 2 eso fyq francés: método científico, partes de un paper, conclusiones
+
+## 2023/03/21
+- 3D, 3E: ejercicios mol y corregir exámenes.
+- Ana 3 eso: chemical reactions
+- 2Bach: orgánica
+
+## 2023/03/22
+- 2: repasar examen. corregir memoria.
+- 3: con unos moles ejercicios. con otros toda la teoría de chemical reactions. con otros la mitad de teoría de chemical reactions.
+
+## 2023/03/23
+- reu evaluación:
+    - profes de todas las asignaturas y los delegados de la clase.
+    - hablan delegasdos del grupo. se hacen un autodiagnóstico:
+        - ambiente de estudio ha mejorado
+        - atención a la explicación del profe depende de la materia, del cansancio, de la hora
+        - más aprobados que en el trimestre anterior
+        - utilizan bien la agenda
+        - cumplen bien las normas
+        - relaciones entre compis son buenas
+        - relaciones con profes en general bien, salvo algún desacuerdo
+        - peticiones: 
+            - que arreglen ventanas y radiadores, que limpien mejor la clase, que los profes avisen bien de las tareas que suben para que los chavales se aclaren, pq el aula virtual no avisa bien, que reduzcan la cantidad de deberes cuando no están o cuando se ponen malos, que las horas de entrega no sean a las 00:00 pq confunde, que todo lo importante se pase como apuntes en el aula virtual o que lo copien en la pizarra, que suban las correcciones de los exámenes al Aula Virtual o corregirlas en clase, 
+        - hablan las delegadas de bienestar:
+            - convivencia 8,5.
+            - se han formado grupos
+            - relación con profes un 7
+            - 21 / 26 en bienestar alto entre los alumnos
+            - 5 / 26 en grado medio de bienestar
+            - han mejorado la relación con los profes con los que se llevaban mal
+            - ambiente más cargado pero por tantos exámenes juntos
+            - hubo conflictos pero intervino el equipo de delegadas de bienestar para solucionarlo
+        - la profe de francés se queja de que no se sientan a tiempo cuando entra el profe por la puerta. se pierde clase! ellos responden que se lo comunicarán al grupo
+        - luego se chequean las notas de las actas entre todos los profes. que no haya equivocaciones ni nada. se corrige lo que está mal.
+        - se va luego alumno por alumno para ver cómo han evolucionado sus notas respecto del trimestre pasado, se habla de la actitud también.
+        - se habla de una chica que habla demasiado y distrae a los compis!
+        - se habla de otra chica que ha tenido anorexia. ha faltado un mes. comentan que ahora se le vuelven a ver un poquillo de ojeras, pero ha sacado el curso adelante. los profes dicen que dentro de lo que cabe se la ve bien. llevan un protocolo de seguimiento con ella.
+        - se habla de otra chica con TDH, que le cuesta entender las preguntas, está yendo al psicólogo, etc. Es una alumna que encaja con Diversificación. Creen que en un grupo pequeño y estando muy encima de ella lo puede sacar. Sufrió acoso en el anterior colegio y al entrar en este como que estaba esperando a ver quién la iba a acosar. se propone una otra evaluación psicopedagógica. pasa mucho tiempo en casa sola y mirando el móvil. sólo suspende ella en todo el grupo que es buenísimo académicamente y eso le puede minar la moral. se aprueba lo de que la pasen a diver.
+        - otro chico con TDH ahora ha aprobado todo. le han cambiado la medicación y parece que se distrae todo el rato. TDH.
+        - otro chico, que ha suspendido 2, le están viendo más flojo y parece que no se está enterando muy bien de las cosas.
+
 ## APRENDIZAJES:
 - aprender algo de historia de FyQ: competencias transversales
 - luz y temperatura en el aula son importantes: que los alumnos estén cómodos.
@@ -277,11 +306,4 @@ Mates: Inmaculada Puebla (jefa de departamento), Eugenio Hernández, Mª Antonia
 
 ## IDEAS:
     - info extra pero dejando claro que no hace falta. estímulo para los interesados. descanso para los demás.
-    - preguntas abiertas para sub ir nota.
-
-## RISAS:
-- chiste vela
-- chiste lepe PoliDeportivo
-- "que aprenda, que los chavales somos así"
-- "pues Ana tiene -5 años. Y PUNTO!"
-- "dónde está la hoja de reclamaciones? (el aprobado del examen de formulación normalizado a 7)"
+    - preguntas abiertas para subir nota.

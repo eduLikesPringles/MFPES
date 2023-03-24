@@ -1,6 +1,11 @@
 # 3ESO
 
 ## Motion
+- Ideas:
+    - MARIO KART: How can I win most of the time?
+        - video acceleration vs speed with mushroom
+        - graph static car, omnipresent car, MRU, MRUA, trayecto al cole, etc.
+        - senses, acceleration, and speed
 
 ### Explore
 - context: F1, Mario Kart

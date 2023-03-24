@@ -16,4 +16,9 @@
 
 - PROCESOS Y CONTEXTOS EDUCATIVOS: MARIA CRIPTANA ESCOBAR FERNANDEZ, maritaes@ucm.es
 
+## TEACHERS
+Dirección: Director Andrés, Secretario Alberto.
+FyQ: Ágata Cubero Belinchón, Alicia Coballes Redondo, Ana Martín Recio (jefa de departamento).
+Mates: Inmaculada Puebla (jefa de departamento), Eugenio Hernández, Mª Antonia Chaves, Yolanda Guijarro, Mª Lourdes Sánchez, Patricia Martínez, Marina Cortón, Miguel Gómez.
+
 
