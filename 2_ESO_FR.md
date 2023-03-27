@@ -43,7 +43,7 @@ FALTA INTEGRAR TEMA ACELERACIÓN!
     - ecuaciones: 
         - velocidad (ecuación) y despejar la velocidad
             - asumimos que v constante!
-        - km/h a m/s
+        - km a m, h a min, h a s, km/h a m/s
         - y = mx -> d = vt
             - vídeo motos
             - relacionar con gráfica y que vean que es la pendiente
@@ -70,6 +70,8 @@ FALTA INTEGRAR TEMA ACELERACIÓN!
 - PROBLEMAS PROPUESTOS:
     - Usain Bolt 100m en 9s. Velocidad?
     - Barco de Gran Canaria a Tenerife. 90 km. 6h
+    - Merece la pena correr?
+    
     - graficas MRUA aceleración y velocidad.
     - grafica plana de velocidad y recta de posición
     - gráfica recta de posición y parabólica de velocidad

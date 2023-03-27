@@ -41,11 +41,21 @@ RECAP:
     - 4, la 5 pa casa **HE MANDADO EL 4 PACASA, el 5 no ha dado tiempo**
     - 6, la 7 pacasa **HA FALTADO**
 
-## lesson 3 VOY POR AQUÍ
+**VOY POR AQUÍ**
+
+## lesson 3 
+- avisar de que voy a pedir como entrega TODOS los ejercicios de la hoja
 
 - que vean que las proporciones se mantienen con MOLES, y no con GRAMOS. Por eso hay que pasar a MOLES. SIEMPRE.   
 - hecemos la actividad 8 y mando la 9 pacasa
 
+- la última clase haremos un juego y repasaremos dudas y conceptos juntos. estudiad ahora para que os ayude todo lo posible!
+
 ## lesson 4 a jugar repasando / ó labo de reactivo limitante
+
+plastilina! word de alicia
+- tb resolución de dudas
+
+- mandaré ejercicios resueltos para que practiquen más. NO HACE FALTA ENTREGARLOS.
 
 ## lesson 5 examen

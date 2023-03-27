@@ -1,9 +1,15 @@
 # TFM y PRÁCTICUM
+https://aulavirtual32.educa.madrid.org/ies.alfredokraus.madrid/course/index.php?categoryid=30
 
 ## TODO
+- vistazo a link twitter de Alicia. ajuste de reacciones.
+- Buscar un RDR que exista ya en la bibliografía
+- ACABAR RDR Y ENCUESTA EMOCIONES
+- preparar guion labos 2 eso abierto
+- integrar tema aceleración en planning 2 eso mirando science bits
+- acabar de definir programación y mandar email a alicia
+
 - pensar en proyecto de investigación tema de energía
-- integrar tema aceleración en planning 2 eso
-- subir esquema chemical reactions
 - subir esquema método científico
 
 ## NOT URGENT
