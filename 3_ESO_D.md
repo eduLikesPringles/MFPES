@@ -1,3 +1,6 @@
+**EXAMEN 18**
+**EJERCICIOS 14**
+
 # CHEMICAL REACTIONS (3 lessons)
 ## lesson 1
 - all videos explore
@@ -25,9 +28,9 @@ RECAP:
 - what is a chemical change?
 - what happens to molecules during a reaction according to the collisions model?
     - during the collisions, if they have enough energy, bonds are broken and new ones are formed to make new products
-    - ACTIVATION ENERGY EXPLAIN 4 **FALTÓ**
+    - ACTIVATION ENERGY EXPLAIN 4
 - how to increase the rate of a chemical reaction?
-    - REACTION RATE EXPLAIN 4 **FALTÓ**
+    - REACTION RATE EXPLAIN 4
 - law of conservation of mass?
     - we checked this macroscopically (lab)
     - how can we explain this microscopically?
@@ -38,10 +41,8 @@ RECAP:
 
 - stoichiometry activities:
     - 2 la mitad, la otra pa casa
-    - 4, la 5 pa casa **HE MANDADO EL 4 PACASA, el 5 no ha dado tiempo**
+    - 4, la 5 pa casa 
     - 6, la 7 pacasa **HA FALTADO**
-
-**VOY POR AQUÍ**
 
 ## lesson 3 
 - avisar de que voy a pedir como entrega TODOS los ejercicios de la hoja
@@ -50,6 +51,10 @@ RECAP:
 - hecemos la actividad 8 y mando la 9 pacasa
 
 - la última clase haremos un juego y repasaremos dudas y conceptos juntos. estudiad ahora para que os ayude todo lo posible!
+
+**VOY POR AQUÍ**
+- comentar fecha de examen y entrega ejercicios.
+- ha faltado hacer el ejercicio 6. el 7 lo mando pacasa. CON CONVERSION FACTORS!
 
 ## lesson 4 a jugar repasando / ó labo de reactivo limitante
 

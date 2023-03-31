@@ -1,11 +1,3 @@
-
-# EXAM SOLVING AND LAB REPORT (1 lesson)
-
-- completar memoria:
-    - procedimiento. qué he hecho y **cómo lo he hecho**. **ANALOGÍA PROGRAMA DE COCINA**
-
-- tenéis el mario kart?
-
 # MOVIMIENTO
 FALTA INTEGRAR TEMA ACELERACIÓN!
 
@@ -33,7 +25,7 @@ FALTA INTEGRAR TEMA ACELERACIÓN!
         - coordenadas
         - abscisas
         - ordenadas
-        - trayectoria
+        - trayectoria **retomo por aquí ALICIA PROPONE SACARLOS AL PATIO. COMPARAR DE USAIN BOLT. sprint saltos paradas. MK en casa se les ocurren experimentos. arreglar también ecuación de velocidad para meter INCREMENTOS. probasteis lo de la moto y la pelota?. despejo v = s/t para ver que puedo resolver diferentes tipos de problema**
             - esto también se puede graficar!
             - vídeo pelota
         - distancia
@@ -67,11 +59,11 @@ FALTA INTEGRAR TEMA ACELERACIÓN!
 
 - preparar labo burbuja agua después de dar velocidad
 
-- PROBLEMAS PROPUESTOS:
+- **PROBLEMAS PROPUESTOS:**
     - Usain Bolt 100m en 9s. Velocidad?
     - Barco de Gran Canaria a Tenerife. 90 km. 6h
     - Merece la pena correr?
-    
+      
     - graficas MRUA aceleración y velocidad.
     - grafica plana de velocidad y recta de posición
     - gráfica recta de posición y parabólica de velocidad

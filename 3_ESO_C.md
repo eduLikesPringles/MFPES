@@ -1,3 +1,6 @@
+**EXAMEN 17**
+**EJERCICIOS 13**
+
 LESSON 1:
 - science bits explore videos
 - law of conservation of mass + macro and micro explanations + example question
@@ -11,15 +14,18 @@ LESSON 1:
 - increasing reaction rate with science bits simulation
     - Science Bits Simulation
 
-**3C**
-- tenéis papeles de buen profe vs mal profe?
-
 LESSON 2:
 - magic paper to remember law of conservation of mass
 
 - stoichiometry: 
     - adjusting chemical equations 2 methods examples
     - from molecules to moles
+
+- plasticine demo done
+
+**I AM HERE**
+- comentar fecha de examen y entrega ejercicios.
+- maybe plasticine lab before. LESSON 3 INSTEAD OF 4
 
 LESSON 3:
 - what is a model? back to the collisions model: measurements + our attempt at an explanation.

@@ -2,12 +2,22 @@
 https://aulavirtual32.educa.madrid.org/ies.alfredokraus.madrid/course/index.php?categoryid=30
 
 ## TODO
+- leer ley sobre contenidos en la eso para mis grupos!
+
+- integrar ley de proust en 3 eso. leer ley: contenidos que hay que saber.
+
+-  IMPORTANTE! Buscar un RDR que exista ya en la bibliografía.
+- Alicia me habilita todos los ejercicios en science bits.
+
+- favear papers misconceptions kinematiks (mirar historial)
+- leer papers de angel para análisis cualitativo
+- subir ejercicios resueltos de 3 eso de cuánta masa me genera tanta masa de reactivo.
 - vistazo a link twitter de Alicia. ajuste de reacciones.
-- Buscar un RDR que exista ya en la bibliografía
-- ACABAR RDR Y ENCUESTA EMOCIONES
 - preparar guion labos 2 eso abierto
 - integrar tema aceleración en planning 2 eso mirando science bits
-- acabar de definir programación y mandar email a alicia
+- acabar de definir programación 2 eso y mandar email a alicia
+
+- queda por ver a la profe de mates, al de tecnología tb.
 
 - pensar en proyecto de investigación tema de energía
 - subir esquema método científico
@@ -17,7 +27,7 @@ https://aulavirtual32.educa.madrid.org/ies.alfredokraus.madrid/course/index.php?
 - ver qué es photomath
 - cacharrear pg web centro
     - leer PGA y demás
-- talk to Marie
+- ir a una clase de tecnología
 
 ## RESUMEN GUÍA PRÁCTICUM
 - 22 feb a 27 abr prácticas
@@ -302,6 +312,37 @@ https://aulavirtual32.educa.madrid.org/ies.alfredokraus.madrid/course/index.php?
         - se habla de otra chica con TDH, que le cuesta entender las preguntas, está yendo al psicólogo, etc. Es una alumna que encaja con Diversificación. Creen que en un grupo pequeño y estando muy encima de ella lo puede sacar. Sufrió acoso en el anterior colegio y al entrar en este como que estaba esperando a ver quién la iba a acosar. se propone una otra evaluación psicopedagógica. pasa mucho tiempo en casa sola y mirando el móvil. sólo suspende ella en todo el grupo que es buenísimo académicamente y eso le puede minar la moral. se aprueba lo de que la pasen a diver.
         - otro chico con TDH ahora ha aprobado todo. le han cambiado la medicación y parece que se distrae todo el rato. TDH.
         - otro chico, que ha suspendido 2, le están viendo más flojo y parece que no se está enterando muy bien de las cosas.
+
+## 2023/03/24
+- 3D: cambio físico y químico, ley conservación masa, modelo de colisiones
+- 2B: recu redox y electrolisis
+- 2A: recu redox y electrolisis
+
+## 2023/03/27
+- 3E: ajuste de reacciones, problemas de reactivo limitante, con moles y masas.
+- 3C: cambio físico y químico, ley conservación masa, modelo de colisiones
+- 2B: formulación de química orgánica
+- 2A: formulación de química orgánica
+
+## 2023/03/28
+- 3D: ajuste de reacciones, problemas de reactivo limitante, con moles y masas.
+- 3E: ajuste de reacciones, problemas de reactivo limitante, con moles y masas.
+- 2B: reacciones de química orgánica
+- 2A: reacciones de química orgánica
+- Charla de dos Presos de Soto del Real
+
+## 2023/03/29
+- 2 Fr: RDR, fórmula v = d/t, gráficas d-t y v-t.
+- 3C: repaso ley conservación masa, ajuste de reacciones químicas, de moléculas a moles, ejemplo con plastilina.
+- 3D: recu nomenclatura y disoluciones
+- 3E: recu nomenclatura y disoluciones
+
+## 2023/03/30
+- 2Fr: gráficas movimiento v cte, acelerado, estático, movs compuestos. problema Usain Bolt, v media, v instantánea. definiciones varias: trayectoria, móvil, desplazamiento, etc. sistemas de referencia: movimiento y posición son relativos!
+- 3C: recu disoluciones, mol, y formulación.
+- Reunión 1 a 1 con Marie. Me habla sobre Proyectos. En concreto Proyecto de Bienestar.
+- 2A: modelo examen EVAU. parte química orgánica: formulación y reacciones. 
+
 
 ## APRENDIZAJES:
 - aprender algo de historia de FyQ: competencias transversales

@@ -25,3 +25,13 @@ CONVIVENCIA: NÚMEROS
 - diseño 2d y 3d es otro proyecto.
 - se vota un sí unánime para las cuatro materias.
 - ruegos y preguntas y al carrur.
+- se habla de los exámenes de inglés, como ya se hizo en la reu de bilingüismo.
+
+# Contextualización Proyectos. Profundizamos en Bienestar.
+## 2023/03/30
+- Marie: jefa de proyecto de Bienestar. Me guía en el enfoque por proyectos del centro.
+- Los proyectos son iniciativa propia del centro. No hay ninguna ley que obligue a llevarlos a cabo, pero la ley si que asigna horas de trabajo de los profes a esos proyectos.
+- Se proponen ante Consejo y Claustro para ser aprobados. Son iniciativa de los profes o del equipo directivo.
+- Los propios alumnos ven los beneficios reales de apuntarse a los proyectos. No hay premios "extra" como subida de nota o algo parecido. En algunos pryectos ven que ellos mejoran a nivel emocional, en otros aprovechan que pueden salir fuera y enriquecer su aprendizaje, etc.
+- Proyectos: FALTA LISTAR TODOS
+- Proyecto de Bienestar: Al principio de cada curso, se juega a un juego: "El Secreto". Se pregunta a los alumnos a quién de sus compis le confiarían su mayor secreto. Los nombres que más aparezcan se eligen como delegados de bienestar de la clase (si ellos quieren). En las reus de evaluación, los delegados de bienestar comentan cómo está la situación en la clase, apoyándose en un informe que se rellena. Hay un espacio específico para gente que lo necesite. Siempre abierto. Es el espacio de Bienestar. Ahí van los alumnos que están sufriendo ansiedad, o si tienen que resolver algún conflicto con otros alumnos (con un mediador), o para cualquier otra cuestión relacionada con el bienestar. Todo parte de el libro de una chica (meter nombre), y el perfil de facebook de un chico (meter nombre). RELLENAR TODO UN POCO MÁS APOYÁNDOME EN LA WEB.

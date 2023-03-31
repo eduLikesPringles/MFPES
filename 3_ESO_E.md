@@ -1,3 +1,6 @@
+**EXAMEN 18**
+**EJERCICIOS 12**
+
 LESSON 1:
 - science bits explore videos
 - law of conservation of mass + macro and micro explanations + example question
@@ -18,16 +21,21 @@ LESSON 2:
     - adjusting chemical equations 2 methods examples
     - from molecules to moles
 
-**HE MANDADO EL 4 Y 5 PARA CASA**
-
-**I AM HERE**
 LESSON 3:
 - what is a model? back to the collisions model: measurements + our attempt at an explanation.
 
 - mole connection to micro and macro through M and Navogadro (diagram)
 - grams to moles exercises with chemical reactions
+    - 6, 8 con alumno en la pizarra, 7 pacasa.
 - some more adjusting exercises
+    - hoja extra de ajustes
 - back to law of conservation of mass: we don't multiply by stoichiometric factors!
+
+**I AM HERE**
+- comentar fecha de examen y entrega ejercicios.
+- no he podido hacer el 8 ni el 7. resuelvo el 8 yo solo la siguiente clase. USE CONVERSION FACTORS.
+- hacer ajustes también. 
+- falta hoja extra de ajustes.
 
 LESSON 4:
 - mole game with plasticine. (limiting reactant?)
