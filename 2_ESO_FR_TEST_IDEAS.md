@@ -4,6 +4,8 @@
 - clasificar gráficas: v cte, aceleración, parado
     - d(t)
     - v(t)
+- problema con 2 sistemas de referencia. que vean que sale lo mismo.
+
 - EXTRA: un coche que pilla a otro en un viaje a Valencia.
     - v1 = 80 km/h.
     - v2 = 100 km/h, sale 30 min más tarde.

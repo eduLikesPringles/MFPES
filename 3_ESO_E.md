@@ -31,7 +31,7 @@ LESSON 3:
     - hoja extra de ajustes
 - back to law of conservation of mass: we don't multiply by stoichiometric factors!
 
-**I AM HERE**
+**I AM HERE** ley de proust
 - comentar fecha de examen y entrega ejercicios.
 - no he podido hacer el 8 ni el 7. resuelvo el 8 yo solo la siguiente clase. USE CONVERSION FACTORS.
 - hacer ajustes también. 

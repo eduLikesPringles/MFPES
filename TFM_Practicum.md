@@ -2,31 +2,29 @@
 https://aulavirtual32.educa.madrid.org/ies.alfredokraus.madrid/course/index.php?categoryid=30
 
 ## TODO
-- leer ley sobre contenidos en la eso para mis grupos!
+- 2eso:
+    - elegir problemas science bits
+    - crear problemas analíticos
+    - crear problemas gráficas
+    - integrar tema aceleración con science bits
 
-- integrar ley de proust en 3 eso. leer ley: contenidos que hay que saber.
+    - subir esquema método científico
 
--  IMPORTANTE! Buscar un RDR que exista ya en la bibliografía.
-- Alicia me habilita todos los ejercicios en science bits.
+- 3eso:
+    - elegir problemas science bits
+    - seleccionar ejercicios science bits (email alicia)
+    - preparar alguna reacción química (email alicia)
 
-- favear papers misconceptions kinematiks (mirar historial)
-- leer papers de angel para análisis cualitativo
-- subir ejercicios resueltos de 3 eso de cuánta masa me genera tanta masa de reactivo.
-- vistazo a link twitter de Alicia. ajuste de reacciones.
-- preparar guion labos 2 eso abierto
-- integrar tema aceleración en planning 2 eso mirando science bits
-- acabar de definir programación 2 eso y mandar email a alicia
-
-- queda por ver a la profe de mates, al de tecnología tb.
-
-- pensar en proyecto de investigación tema de energía
-- subir esquema método científico
+- leer papers de angel para análisis cualitativo (email)
+- leer science bits un poquito la web y enlaces sergio (email)
 
 ## NOT URGENT
+- pensar en proyecto de investigación tema de energía
 - check Khan Academy
 - ver qué es photomath
 - cacharrear pg web centro
     - leer PGA y demás
+- queda por ver a la profe de mates
 - ir a una clase de tecnología
 
 ## RESUMEN GUÍA PRÁCTICUM

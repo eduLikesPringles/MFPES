@@ -1,3 +1,13 @@
+## BOCM
+C. El cambio.
+- Interpretación microscópica de las reacciones químicas: explicación de las relaciones de la química con el medio ambiente, la tecnología y la sociedad.
+    - Ajuste de reacciones químicas sencillas.
+- Aplicación de la ley de conservación de la masa (Ley de Lavoisier) y de la ley de las proporciones definidas (Ley de Proust): aplicación de estas leyes como evidencias experimentales que permitan validar el modelo atómico-molecular de la materia.
+    - Cálculos estequiométricos sencillos.
+- Análisis de los factores que afectan a las reacciones químicas: predicción cualitativa de la evolución de las reacciones, entendiendo su importancia en la resolución de problemas actuales por parte de la ciencia.
+    - Análisis cualitativo de la influencia de la temperatura y la concentración en una reacción
+química.
+
 LESSON 1:
 - science bits explore videos
 - law of conservation of mass + macro and micro explanations + example question

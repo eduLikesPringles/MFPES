@@ -23,7 +23,7 @@ LESSON 2:
 
 - plasticine demo done
 
-**I AM HERE**
+**I AM HERE** ley de proust
 - comentar fecha de examen y entrega ejercicios.
 - maybe plasticine lab before. LESSON 3 INSTEAD OF 4
 

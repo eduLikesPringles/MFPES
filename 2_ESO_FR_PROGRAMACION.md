@@ -1,9 +1,18 @@
 # HAY 11 CLASES HASTA EL 28 DE ABRIL. SE PLANIFICARON 11 CLASES EN LA PROGRAMACIÓN OFICIAL (CONTANDO VACACIONNES)
 
+## BOCM
+D. La interacción.
+− Predicción de movimientos sencillos a partir de los conceptos de la cinemática, formulando
+hipótesis comprobables sobre valores futuros de estas magnitudes a través de la
+interpretación de gráficas o el trabajo experimental.
+- Introducción a la Cinemática.
+- El movimiento. Sistemas de referencia.
+- Representaciones gráficas espacio-tiempo y velocidad-tiempo en el movimiento rectilíneo y
+uniforme.
+
 # Lesson 1
 - RDR: Ideas previas y concepciones alternativas.
-- Encuesta Emociones Science Bits y Física.
-- Cómo gano al Mario Kart? En vez de bibliografía, daremos la teoría.
+- Cómo gano al Mario Kart? En vez de bibliografía, daremos la teoría. Diseñaremos el experimento y lo iremos resolviendo entre todos poco a poco, un poquito en cada clase. Lluvia de ideas en la pizarra. Trabajo para casa. Foco en diseño, resultados, conclusiones.
 
 # Lesson 2
 - Empezamos y Exploramos Science Bits.
@@ -30,28 +39,36 @@
 
 # Lesson 5
 - Experimentamos! Buzo que hace burbujas.
-- Experimentamos! Objeto que cae.
-- Experimentamos! De qué depende la aceleración de caída? Masa? Forma?
 - escriben memorias
 
 # Lesson 6
-- Experimentamos! Buzo que hace burbujas.
-- Experimentamos! Objeto que cae.
-- Experimentamos! De qué depende la aceleración de caída? Masa? Forma?
-- escriben memorias
+- problemas varios MRU y MRUA a nivel 2ºESO (centrados en analítica)
 
-# Lesson 7
-- Cómo gano al Mario Kart? Diseñamos experimento. Lluvia de ideas en la pizarra. Trabajo para casa. Foco en diseño, resultados, conclusiones.
+# Lesson 7 (en el patio)
+- Graficamos movimientos de 1 y 2 coches: **toma de contacto, chill**
+    - Adelantamiento en autopista.
+    - Evitamos un accidente.
+    - Carrera con ventaja.
+    - Bus que me lleva a casa.
+    - Policía que persigue a alguien que corre. (MRU y MRUA)
+- Graficamos d-t y v-t circuitos P.E: **evaluable**
+    - recta a sprint, canguritos en conos, avanzar saltando a la pata coja.
 
 # Lesson 8
-- RDR: Ideas previas y concepciones alternativas.
-- Encuesta Emociones Science Bits y Física.
+- problemas varios MRU y MRUA a nivel 2ºESO (centrados en gráficas)
 
 # Lesson 9
-- problemas varios MRU y MRUA a nivel 2ºESO
-
-# Lesson 10
+- RDR: concepciones alternativas post-test. Picklers.
 - DOUBT SOLVING AND EXAM REVISION (EXCERSISES)
 
-# Lesson 11
+# Lesson 10
 - EXAM
+
+# Lesson 11
+- EXAM CORRECTION AND GRADES
+
+# Ideas Actividades:
+- Más allá: **chill**
+    - coordenadas de 3 puntos y de 4 puntos.
+    - algo más allá de la aceleración?
+

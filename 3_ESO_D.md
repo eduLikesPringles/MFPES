@@ -52,7 +52,7 @@ RECAP:
 
 - la última clase haremos un juego y repasaremos dudas y conceptos juntos. estudiad ahora para que os ayude todo lo posible!
 
-**VOY POR AQUÍ**
+**VOY POR AQUÍ** ley de proust
 - comentar fecha de examen y entrega ejercicios.
 - ha faltado hacer el ejercicio 6. el 7 lo mando pacasa. CON CONVERSION FACTORS!
 

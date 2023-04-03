@@ -1,6 +1,4 @@
 # MOVIMIENTO
-FALTA INTEGRAR TEMA ACELERACIÓN!
-
 - empezamos y exploramos (como en la clase de Ágata) (1 clase)
     - esquemita de las fórmulas en la pizarra
     - candidatos de ecuaciones de velocidad
@@ -25,7 +23,17 @@ FALTA INTEGRAR TEMA ACELERACIÓN!
         - coordenadas
         - abscisas
         - ordenadas
-        - trayectoria **retomo por aquí ALICIA PROPONE SACARLOS AL PATIO. COMPARAR DE USAIN BOLT. sprint saltos paradas. MK en casa se les ocurren experimentos. arreglar también ecuación de velocidad para meter INCREMENTOS. probasteis lo de la moto y la pelota?. despejo v = s/t para ver que puedo resolver diferentes tipos de problema**
+
+**retomo por aquí** 
+- probasteis lo de la moto y la pelota?
+- Experimentos pensadosMK.
+- Arreglar ec. velocidad metiendo incrementos.
+- despejar v = s/t para ver diferentes tipos de problema
+- problema correr con el coche.
+- mandar pacasa 200m Usain Bolt.
+**retomo por aquí** 
+
+        - trayectoria 
             - esto también se puede graficar!
             - vídeo pelota
         - distancia
@@ -67,10 +75,5 @@ FALTA INTEGRAR TEMA ACELERACIÓN!
     - graficas MRUA aceleración y velocidad.
     - grafica plana de velocidad y recta de posición
     - gráfica recta de posición y parabólica de velocidad
-    - gráfica de coche que va al cole
-    - gráfica de bus que me lleva de casa al cine.
-    - gráfica con adelantamientos en la autopista.
-    - evito un accidente.
-    - cosas de frenada.
-    - composición de movimientos uniforme y uniformemente acelerado
+
 
