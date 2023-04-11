@@ -31,14 +31,14 @@ LESSON 3:
     - hoja extra de ajustes
 - back to law of conservation of mass: we don't multiply by stoichiometric factors!
 
-**I AM HERE** ley de proust
+LESSON 4:
+- mole game with plasticine. (limiting reactant?)
+
+**I AM HERE** ley de proust 
 - comentar fecha de examen y entrega ejercicios.
 - no he podido hacer el 8 ni el 7. resuelvo el 8 yo solo la siguiente clase. USE CONVERSION FACTORS.
 - hacer ajustes también. 
 - falta hoja extra de ajustes.
-
-LESSON 4:
-- mole game with plasticine. (limiting reactant?)
 
 - doubt solving and revising for the exam.
 

@@ -2,6 +2,9 @@
 https://aulavirtual32.educa.madrid.org/ies.alfredokraus.madrid/course/index.php?categoryid=30
 
 ## TODO
+- acabar de leer enlaces scence bits sergio
+- tarea pal chaval expulsado
+
 - 2eso:
     - elegir problemas science bits
     - crear problemas analíticos
@@ -11,11 +14,22 @@ https://aulavirtual32.educa.madrid.org/ies.alfredokraus.madrid/course/index.php?
     - subir esquema método científico
 
 - 3eso:
-    - elegir problemas science bits
-    - seleccionar ejercicios science bits (email alicia)
     - preparar alguna reacción química (email alicia)
 
+- 1. cambiar las respuestas sin justificar por respuestas mal.
+- 11. etiquetar justificaciones pregunta 11
+
+- MENDELEY
+- leer misconceptions en las que hace HINCAPIÉ SCIENCE BITS para los de segundo de ESO.
+    - listarlas
+    - decidir categorías para los códigos en base a esas misconceptions: una para cada misconception.
+- leer estudios intervenciones didácticas para cambio en misconceptions. CÓMO SE CATEGORIZA?
 - leer papers de angel para análisis cualitativo (email)
+    - que no sea descriptivo
+    - poder recuperar la info en bruto
+    - categorías pre-hechas VS categorías que surjan con el estudio
+    - codificación por líneas
+
 - leer science bits un poquito la web y enlaces sergio (email)
 
 ## NOT URGENT
@@ -341,6 +355,9 @@ https://aulavirtual32.educa.madrid.org/ies.alfredokraus.madrid/course/index.php?
 - Reunión 1 a 1 con Marie. Me habla sobre Proyectos. En concreto Proyecto de Bienestar.
 - 2A: modelo examen EVAU. parte química orgánica: formulación y reacciones. 
 
+## 2023/04/11
+- 3C: labo plastilinas
+- 3D: labo plastilinas
 
 ## APRENDIZAJES:
 - aprender algo de historia de FyQ: competencias transversales

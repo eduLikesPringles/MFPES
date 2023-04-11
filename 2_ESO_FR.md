@@ -58,6 +58,8 @@
         - vídeo pedal coche
         - vídeo simulación coche
 
+**si da tiempo, juego de graficar por grupos**
+
 - exploramos aceleración: (empezamos en 6 / 12)
     - ahora gráficas de velocidad y tiempo!
 - explicamos aceleración:

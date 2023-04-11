@@ -52,13 +52,14 @@ RECAP:
 
 - la última clase haremos un juego y repasaremos dudas y conceptos juntos. estudiad ahora para que os ayude todo lo posible!
 
+## lesson 4 a jugar repasando / ó labo de reactivo limitante
+
+plastilina! word de alicia
+
 **VOY POR AQUÍ** ley de proust
 - comentar fecha de examen y entrega ejercicios.
 - ha faltado hacer el ejercicio 6. el 7 lo mando pacasa. CON CONVERSION FACTORS!
 
-## lesson 4 a jugar repasando / ó labo de reactivo limitante
-
-plastilina! word de alicia
 - tb resolución de dudas
 
 - mandaré ejercicios resueltos para que practiquen más. NO HACE FALTA ENTREGARLOS.

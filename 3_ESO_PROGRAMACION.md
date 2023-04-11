@@ -43,3 +43,45 @@ LESSON 4:
 
 LESSON 5:
 - EXAM
+
+## SCIENCE BITS EXCERSISES:
+- Engage
+    - are you ready? YES
+- Explore
+    - which changes are chemical? YES
+    - everyday chemical reactions NO
+    - from reactants to products YES
+    - facts about property changes NO
+    - analyzing a reactivity test YES
+- Explain
+    - from greater to lesser activation energy YES
+    - facts about reaction rates YES
+    - about the ozone layer YES
+    - synthesis, decomposition, and displacement NO
+    - what type of reaction is that NO
+    - precipitation reaction NO
+    - effervescence reaction NO
+    - facts about acid-base reactions NO
+    - baking soda for acid reflux NO
+    - stoichiometry in acid-base reactions YES
+    - acid or basic substances NO
+    - pH indicators NO
+    - facts about redox reactions NO
+    - combustion, a redox reaction NO
+    - oxidation numbers YES
+    - energy involved in chemical reactions NO
+    - designing a hand warmer NO
+    - energy graphs NO
+    - classifying life's reactions NO
+    - classifying reactions in industry NO
+    - industrial production NO 
+    - lavoisier's experiments YES
+    - calculating reactants and products YES
+    - conservation of mass in chemical reactions YES
+    - from statement to chemical equation YES 
+    - from chemical equation to statement YES
+    - which quantities react? YES
+    - balancing equations YES
+    - balancing chemical equations by counting atoms YES
+    - some unbalanced equations YES
+    - some more unbalanced equations YES
