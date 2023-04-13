@@ -1,5 +1,6 @@
-**EXAMEN 18**
-**EJERCICIOS 12**
+**EXAMEN 18 martes**
+**EJERCICIOS 14 viernes**
+**science bits domingo 16, 22:00**
 
 LESSON 1:
 - science bits explore videos

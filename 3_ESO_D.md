@@ -1,5 +1,6 @@
-**EXAMEN 18**
-**EJERCICIOS 14**
+**EXAMEN 21 viernes**
+**EJERCICIOS viernes 14**
+**EJERCICIOS SCIENCE BITS lunes 17**
 
 # CHEMICAL REACTIONS (3 lessons)
 ## lesson 1
@@ -56,7 +57,7 @@ RECAP:
 
 plastilina! word de alicia
 
-**VOY POR AQUÍ** ley de proust
+ley de proust
 - comentar fecha de examen y entrega ejercicios.
 - ha faltado hacer el ejercicio 6. el 7 lo mando pacasa. CON CONVERSION FACTORS!
 
@@ -65,3 +66,9 @@ plastilina! word de alicia
 - mandaré ejercicios resueltos para que practiquen más. NO HACE FALTA ENTREGARLOS.
 
 ## lesson 5 examen
+
+**VOY POR AQUÍ:**
+- RECOGER EJERCICIOS!
+- SÍ TENÉIS QUE ENTENDER LA TEORÍA. PUEDO PREGUNTAR Y PREGUNTARÉ.
+- REPASAMOS LOS PUNTOS IMPORTANTES.
+- simulacro de examen

@@ -1,5 +1,6 @@
-**EXAMEN 17**
-**EJERCICIOS 13**
+**EXAMEN 19 miércoles**
+**EJERCICIOS 14 viernes**
+**SCIENCE BITS EJERCICIOS domingo 16, 22:00**
 
 LESSON 1:
 - science bits explore videos
@@ -23,10 +24,6 @@ LESSON 2:
 
 - plasticine demo done
 
-**I AM HERE** ley de proust
-- comentar fecha de examen y entrega ejercicios.
-- maybe plasticine lab before. LESSON 3 INSTEAD OF 4
-
 LESSON 3:
 - what is a model? back to the collisions model: measurements + our attempt at an explanation.
 
@@ -39,6 +36,10 @@ LESSON 4:
 - mole game with plasticine. (limiting reactant?)
 
 - doubt solving and revising for the exam.
+
+**aquí**
+- excersises
+- adjusting chemical reactions
 
 LESSON 5:
 - EXAM

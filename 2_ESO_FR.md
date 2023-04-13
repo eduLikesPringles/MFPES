@@ -24,14 +24,12 @@
         - abscisas
         - ordenadas
 
-**retomo por aquí** 
 - probasteis lo de la moto y la pelota?
 - Experimentos pensadosMK.
 - Arreglar ec. velocidad metiendo incrementos.
 - despejar v = s/t para ver diferentes tipos de problema
 - problema correr con el coche.
 - mandar pacasa 200m Usain Bolt.
-**retomo por aquí** 
 
         - trayectoria 
             - esto también se puede graficar!
@@ -44,6 +42,14 @@
         - velocidad (ecuación) y despejar la velocidad
             - asumimos que v constante!
         - km a m, h a min, h a s, km/h a m/s
+
+- EL VIERNES ABRIREMOS EJERCICIOS DE SCIENCE BITS!
+- video grafica tren
+- video motoristas y gráfica
+- vel media y vel instantánea con ejemplo radares!
+- aceleración (última parte tema velocidad)
+- gráficas aceleración pal cacharreo (v frente a t)
+
         - y = mx -> d = vt
             - vídeo motos
             - relacionar con gráfica y que vean que es la pendiente
@@ -58,7 +64,16 @@
         - vídeo pedal coche
         - vídeo simulación coche
 
-**si da tiempo, juego de graficar por grupos**
+
+**voy por aquí**
+- cómo siento la posición?
+- cómo siento la velocidad?
+- cómo siento la aceleración?
+- puedo definir el cambio de aceleración con el tiempo?
+- gráficas aceleración pal cacharreo (v frente a t)
+- algun ejercicio tb!
+**tal vez ej gráficas whatsapp?**
+**si da tiempo, juego de graficar por grupos. MAÑANA SALDREMOS AL PATIO A HACER UNA PRÁCTICA!**
 
 - exploramos aceleración: (empezamos en 6 / 12)
     - ahora gráficas de velocidad y tiempo!

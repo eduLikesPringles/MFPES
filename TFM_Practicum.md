@@ -2,8 +2,20 @@
 https://aulavirtual32.educa.madrid.org/ies.alfredokraus.madrid/course/index.php?categoryid=30
 
 ## TODO
+- SUBIR EJERCICIOS 3ESO
+- PREPARAR SIMULACRO TERCERO LUNES
+
+
+- copias de seguridad tfm y one note
+- abrir ejercicios science bits pa los de segundo
+
+- pensar en traducir ejs gráficas velocidad y aceleracion WA alicia
+
+- preparar ejercicios semana de la ciencia expeerimento en clase 3ero
+
 - acabar de leer enlaces scence bits sergio
 - tarea pal chaval expulsado
+- sergio! ya no hace falta la entrevista
 
 - 2eso:
     - elegir problemas science bits
@@ -359,12 +371,24 @@ https://aulavirtual32.educa.madrid.org/ies.alfredokraus.madrid/course/index.php?
 - 3C: labo plastilinas
 - 3D: labo plastilinas
 
+## 2023/04/12
+- 2Fr: arreglamos v = d/t con incrementos. aprendemos a despejar v = d/t. problema correr con el coche. mando pacasa problema usain bolt 200m. gráficas de trayectoria. diferencia entre distancia y desplazamiento.
+- 3C: lab plastilina. primero ejs fáciles y luego difíciles.
+- 3D: ejercicios varios hoja. no entienden algunos. lloran.
+- 3E: ejercicios varios hoja. no entienden algunos. aprendo a cortar preguntas con "practícalo".
+
+## 2023/04/13
+- 2Fr: gráfica movimiento tren por andenes. sacamos vel media en secciones y vemos importancia de incrementos. vel media vs instantánea. ejemplo radares móviles y radares de tramo. aceleración expresión.
+- 3C: ejercicios varios comprensión lectora reactivos y preductos. ajuste reacciones. masas finales dadas masas iniciales.
+
 ## APRENDIZAJES:
 - aprender algo de historia de FyQ: competencias transversales
 - luz y temperatura en el aula son importantes: que los alumnos estén cómodos.
 - no parar la clase demasiado por dudas individuales. hacer un foro de preguntas con upvotes.
 - experimentos de cátedra cortitos y que encajen con ejercicios.
 - usar juguetes o simuladores tanto como se pueda en las clases.
+- redactar los problemas, para que apliquen comprensión lectora.
+- no cometer faltas de ortografía ni gramaticales.
 
 ## IDEAS:
     - info extra pero dejando claro que no hace falta. estímulo para los interesados. descanso para los demás.
