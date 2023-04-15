@@ -54,6 +54,19 @@ uniforme.
 - Graficamos d-t y v-t circuitos P.E: **evaluable**
     - recta a sprint, canguritos en conos, avanzar saltando a la pata coja.
 
+- **OBSERVACIONES PRÁCTICA CIRCUITOS:**
+    - a alguno le he escrito que me aclare algo dureante la clase. cuando lleguemos, que me lo diga!
+    - Gráfica: empieza en el (0.0), ejes bien medidos, elegir medida de cuadrados, poner magnitud y unidad, poner título creativo.
+        - algunos me ponían puntos fuera de la cuadrícula. evitemos eso
+        - dijimos de redondear a 0,5 y no  a 1.
+        - gráfica realista
+        - cuál es la de dist y cual la de desp y cuál la de pos?
+    - ojo al redondear!
+        - conviene redondear todo al mismo número de decimales
+    - vel media no es la media de las vels
+    - alguno me ha sumado la distancia de las dos carreras
+    - el desplazamiento total era para cada carrera
+
 # Lesson 8
 - problemas varios MRU y MRUA a nivel 2ºESO (centrados en gráficas)
 

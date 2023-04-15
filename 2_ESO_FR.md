@@ -66,6 +66,7 @@
 
 
 **voy por aquí**
+- corregir observaciones de práctica circuitos (en el md de la programación)
 - cómo siento la posición?
 - cómo siento la velocidad?
 - cómo siento la aceleración?

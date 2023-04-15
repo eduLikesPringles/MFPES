@@ -2,28 +2,19 @@
 https://aulavirtual32.educa.madrid.org/ies.alfredokraus.madrid/course/index.php?categoryid=30
 
 ## TODO
-- SUBIR EJERCICIOS 3ESO
-- PREPARAR SIMULACRO TERCERO LUNES
+- completar historial semana pasada
+- ver si me da tiempo a todas las clases de segundo
 
-
-- copias de seguridad tfm y one note
+- planificar integrar aceleración 2º
 - abrir ejercicios science bits pa los de segundo
+    - crear problemas analíticos
+    - crear problemas gráficas
+    - subir esquema método científico
 
 - pensar en traducir ejs gráficas velocidad y aceleracion WA alicia
 
 - preparar ejercicios semana de la ciencia expeerimento en clase 3ero
 
-- acabar de leer enlaces scence bits sergio
-- tarea pal chaval expulsado
-- sergio! ya no hace falta la entrevista
-
-- 2eso:
-    - elegir problemas science bits
-    - crear problemas analíticos
-    - crear problemas gráficas
-    - integrar tema aceleración con science bits
-
-    - subir esquema método científico
 
 - 3eso:
     - preparar alguna reacción química (email alicia)

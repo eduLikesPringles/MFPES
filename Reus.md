@@ -35,3 +35,8 @@ CONVIVENCIA: NÚMEROS
 - Los propios alumnos ven los beneficios reales de apuntarse a los proyectos. No hay premios "extra" como subida de nota o algo parecido. En algunos pryectos ven que ellos mejoran a nivel emocional, en otros aprovechan que pueden salir fuera y enriquecer su aprendizaje, etc.
 - Proyectos: FALTA LISTAR TODOS
 - Proyecto de Bienestar: Al principio de cada curso, se juega a un juego: "El Secreto". Se pregunta a los alumnos a quién de sus compis le confiarían su mayor secreto. Los nombres que más aparezcan se eligen como delegados de bienestar de la clase (si ellos quieren). En las reus de evaluación, los delegados de bienestar comentan cómo está la situación en la clase, apoyándose en un informe que se rellena. Hay un espacio específico para gente que lo necesite. Siempre abierto. Es el espacio de Bienestar. Ahí van los alumnos que están sufriendo ansiedad, o si tienen que resolver algún conflicto con otros alumnos (con un mediador), o para cualquier otra cuestión relacionada con el bienestar. Todo parte de el libro de una chica (meter nombre), y el perfil de facebook de un chico (meter nombre). RELLENAR TODO UN POCO MÁS APOYÁNDOME EN LA WEB.
+
+# Dept fyq
+## 2023/04/14
+- adptación significativa se acabó con un alumno de Ana, pq no hace nada
+- hemos pensado en preparar los proyectos de investigación para los de 2º y 3º
