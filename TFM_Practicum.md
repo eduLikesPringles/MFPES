@@ -2,22 +2,20 @@
 https://aulavirtual32.educa.madrid.org/ies.alfredokraus.madrid/course/index.php?categoryid=30
 
 ## TODO
-- completar historial semana pasada
-- ver si me da tiempo a todas las clases de segundo
 
 - planificar integrar aceleración 2º
+- preparar labo burbuja
 - abrir ejercicios science bits pa los de segundo
     - crear problemas analíticos
     - crear problemas gráficas
-    - subir esquema método científico
-
-- pensar en traducir ejs gráficas velocidad y aceleracion WA alicia
-
-- preparar ejercicios semana de la ciencia expeerimento en clase 3ero
+    - pensar en traducir ejs gráficas velocidad y aceleracion WA alicia
+- subir esquema método científico
 
 
-- 3eso:
-    - preparar alguna reacción química (email alicia)
+- preparar ejercicios semana de la ciencia expeerimento en clase 3ero (email alicia)
+
+
+
 
 - 1. cambiar las respuestas sin justificar por respuestas mal.
 - 11. etiquetar justificaciones pregunta 11
@@ -371,6 +369,11 @@ https://aulavirtual32.educa.madrid.org/ies.alfredokraus.madrid/course/index.php?
 ## 2023/04/13
 - 2Fr: gráfica movimiento tren por andenes. sacamos vel media en secciones y vemos importancia de incrementos. vel media vs instantánea. ejemplo radares móviles y radares de tramo. aceleración expresión.
 - 3C: ejercicios varios comprensión lectora reactivos y preductos. ajuste reacciones. masas finales dadas masas iniciales.
+
+## 2023/04/13
+- 3D: repaso general examen reacciones químicas. teoría y ejercicio de práctica con A + B = A3B4
+- 2Fr: práctica patio velocidades! aprendí que es muy importante el orden y las instrucciones claras. contar todo antes de salir al patio.
+- Extra: preparar trabajo para alumno expulsado, corrección de ejerrcicios pre examen para los de tercero.
 
 ## APRENDIZAJES:
 - aprender algo de historia de FyQ: competencias transversales

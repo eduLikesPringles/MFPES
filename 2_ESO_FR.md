@@ -66,6 +66,9 @@
 
 
 **voy por aquí**
+- MK no da tiempo :/
+- examen 27 abr
+- hablar con alberto PE para comentar lo de 1Bach a la gente
 - corregir observaciones de práctica circuitos (en el md de la programación)
 - cómo siento la posición?
 - cómo siento la velocidad?
