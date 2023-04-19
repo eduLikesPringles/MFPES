@@ -2,13 +2,10 @@
 https://aulavirtual32.educa.madrid.org/ies.alfredokraus.madrid/course/index.php?categoryid=30
 
 ## TODO
+- rellenar diario
 
-- planificar integrar aceleración 2º
-- preparar labo burbuja
-- abrir ejercicios science bits pa los de segundo
-    - crear problemas analíticos
-    - crear problemas gráficas
-    - pensar en traducir ejs gráficas velocidad y aceleracion WA alicia
+- 2 Fr
+- crear problemas gráficas
 - subir esquema método científico
 
 
@@ -34,6 +31,7 @@ https://aulavirtual32.educa.madrid.org/ies.alfredokraus.madrid/course/index.php?
 - leer science bits un poquito la web y enlaces sergio (email)
 
 ## NOT URGENT
+- meterme en el AULA VIRTUAL para descargar todas las cosas de Alicia
 - pensar en proyecto de investigación tema de energía
 - check Khan Academy
 - ver qué es photomath

@@ -65,24 +65,26 @@
         - vídeo simulación coche
 
 
-**voy por aquí**
-- MK no da tiempo :/
+
+- (abrir email programación definitiva alicia para ver si mando deberes pensar MK)
+- MK no da tiempo :/ IMÁGENES ONENOTE PARA DAR PISTAS
 - examen 27 abr
 - hablar con alberto PE para comentar lo de 1Bach a la gente
 - corregir observaciones de práctica circuitos (en el md de la programación)
-- cómo siento la posición?
-- cómo siento la velocidad?
-- cómo siento la aceleración?
-- puedo definir el cambio de aceleración con el tiempo?
-- gráficas aceleración pal cacharreo (v frente a t)
-- algun ejercicio tb!
-**tal vez ej gráficas whatsapp?**
-**si da tiempo, juego de graficar por grupos. MAÑANA SALDREMOS AL PATIO A HACER UNA PRÁCTICA!**
 
 - exploramos aceleración: (empezamos en 6 / 12)
     - ahora gráficas de velocidad y tiempo!
+    - vel instantánea es la que pone en cada instante en el velocímetro. vel media es la que pone en la def de science bits.
 - explicamos aceleración:
-    - 
+    - solo la parte del mov. uniforme con el coche y las fotos por tramos
+    - tb gráfica móvil que acelera y móvil que frena
+    - video velocímetro foto y gráfica que se dibuja sola (v-t)
+    - vídeo avión
+    - vídeo coche vel positiva, negativa, nula
+    - foticos motos 
+    - VECTOR VELOCIDAD NO
+    - ELABORAMOS NO
+    - **PRÁCTICA BURBUJAS EL JUEVES?**
 
 - elaboramos: LO SUSTITUIMOS POR LOS LABOS (2 clases)
 
@@ -97,4 +99,14 @@
     - grafica plana de velocidad y recta de posición
     - gráfica recta de posición y parabólica de velocidad
 
+
+**voy por aquí**
+- FECHAS EXAMENES ACTIVIDADES ETC. 2 min
+- cómo siento la posición?
+- cómo siento la velocidad?
+- cómo siento la aceleración? 3 min
+- **gráfica realista práctica carreras!** 5 min
+- ejercicios science bits 20 min
+- **gráficas aceleración pal cacharreo (v frente a t)** LIKE AGATA 15 min SÓLO SI DA TIEMPO!
+- **COMENTAR LABO MAÑANA** 10 min
 

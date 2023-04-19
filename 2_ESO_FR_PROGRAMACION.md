@@ -85,3 +85,26 @@ uniforme.
     - coordenadas de 3 puntos y de 4 puntos.
     - algo más allá de la aceleración?
 
+# Ejercicios Science Bits
+- indica la referencia
+- movimiento o reposo
+- coordenadas en 3D
+- una hormiga sobre un círculo
+- el ascensor de un rascacielos
+- interpreta el gráfico
+- ascensión al cerro torre
+- distancia, tiempo, y velocidad
+- automóvil teledirigido
+- animales muy lentos
+- camino del colegio
+- dibujos de gráficas
+- en contacto por walkie-talkie
+- gráfica de velocidad respecto al tiempo
+- representamos movimientos gráficamente
+- planificamos las vacaciones
+- un robot programable
+- velocidad de saque
+- radares
+- depredadores (aceleración)
+- esprints (aceleración)
+
