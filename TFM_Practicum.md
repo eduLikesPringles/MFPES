@@ -2,7 +2,6 @@
 https://aulavirtual32.educa.madrid.org/ies.alfredokraus.madrid/course/index.php?categoryid=30
 
 ## TODO
-- rellenar diario
 
 - 2 Fr
 - crear problemas gráficas
@@ -368,10 +367,34 @@ https://aulavirtual32.educa.madrid.org/ies.alfredokraus.madrid/course/index.php?
 - 2Fr: gráfica movimiento tren por andenes. sacamos vel media en secciones y vemos importancia de incrementos. vel media vs instantánea. ejemplo radares móviles y radares de tramo. aceleración expresión.
 - 3C: ejercicios varios comprensión lectora reactivos y preductos. ajuste reacciones. masas finales dadas masas iniciales.
 
-## 2023/04/13
+## 2023/04/14
 - 3D: repaso general examen reacciones químicas. teoría y ejercicio de práctica con A + B = A3B4
 - 2Fr: práctica patio velocidades! aprendí que es muy importante el orden y las instrucciones claras. contar todo antes de salir al patio.
 - Extra: preparar trabajo para alumno expulsado, corrección de ejerrcicios pre examen para los de tercero.
+
+## 2023/04/17
+- clase de ágata de gráficas posición velocidades y aceleración. es química. creo que se salta mates esenciales. me pide consejo como físico.
+- clase de miguel de mates. sucesiones. los pone a resolver problemas y los dos hacemos de apoyo. un poco descontrol. amenaza de que vale nota sirve.
+- 3C: repaso pal examen. el mío preparao.
+- 3E: repaso pal examen. el mío preparao.
+
+## 2023/04/18
+- 3D: repaso examen con batería ejercicios improvisaos en onenote y alguno de un libro de texto: ajuste, comprensión lectora, gramos a gramos.
+- 3E: examen.
+- empiezo a corregir los exámenes. pregunta pregunta. decido puntuar al final. enfoque más a "entender" que a hacer ejercicios.
+
+## 2023/04/19
+- 2Fr: repaso práctica patio velocidades. tema aceleración apoyado en vídeos science bits (error. muy repetitivo).
+- 3's: excursión. actividad lavoisier de alicia con los que se quedan. aprovecho para corregir mil exámenes.
+- Concurso monólogos. Gana virginia.
+
+## 2023/04/20
+- 2Fr: actualización mario kart. experimento casi diseñao. hincapié en gráficas d-t, v-t, a-t. resolvemos agún ejercicio science bits
+- 3C: examen reacciones químicas. Anexarlo!
+
+## 2023/04/21
+- 3D: examen reacciones químicas. pillo a uno copiando. mensajico en alto.
+- 2Fr: repaso ejercicios en clase science bits.
 
 ## APRENDIZAJES:
 - aprender algo de historia de FyQ: competencias transversales

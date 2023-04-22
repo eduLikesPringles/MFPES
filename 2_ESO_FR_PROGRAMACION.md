@@ -86,25 +86,21 @@ uniforme.
     - algo más allá de la aceleración?
 
 # Ejercicios Science Bits
-- indica la referencia
-- movimiento o reposo
-- coordenadas en 3D
-- una hormiga sobre un círculo
-- el ascensor de un rascacielos
-- interpreta el gráfico
-- ascensión al cerro torre
-- distancia, tiempo, y velocidad
-- automóvil teledirigido
-- animales muy lentos
-- camino del colegio
-- dibujos de gráficas
-- en contacto por walkie-talkie
-- gráfica de velocidad respecto al tiempo
-- representamos movimientos gráficamente
-- planificamos las vacaciones
-- un robot programable
-- velocidad de saque
-- radares
-- depredadores (aceleración)
-- esprints (aceleración)
+- coordenadas en 3D (CASA)
+- una hormiga sobre un círculo (CASA)
+- interpreta el gráfico (CASA)
+- ascensión al cerro torre (CASA)
+- distancia, tiempo, y velocidad (CASA)
+- automóvil teledirigido (HECHO EN CLASE)
+- animales muy lentos (CLASE **UNIDADES**)
+- camino del colegio (CASA)
+- dibujos de gráficas (CLASE)
+- en contacto por walkie-talkie (CASA)
+- gráfica de velocidad respecto al tiempo (CASA)
+- representamos movimientos gráficamente (CASA)
+- planificamos las vacaciones (CASA)
+- un robot programable (CLASE)
+- velocidad de saque (CASA)
+- radares (CASA)
+- esprints (aceleración) (CLASE)
 
