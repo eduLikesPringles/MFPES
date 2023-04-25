@@ -101,12 +101,5 @@
 
 
 **voy por aquí**
-- FECHAS EXAMENES ACTIVIDADES ETC. 2 min
-- cómo siento la posición?
-- cómo siento la velocidad?
-- cómo siento la aceleración? 3 min
-- **gráfica realista práctica carreras!** 5 min
-- ejercicios science bits 20 min
-- **gráficas aceleración pal cacharreo (v frente a t)** LIKE AGATA 15 min SÓLO SI DA TIEMPO!
-- **COMENTAR LABO MAÑANA** 10 min
+- resolvemos problema usain bolt para 200 m lisos?
 

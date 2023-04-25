@@ -3,10 +3,9 @@ https://aulavirtual32.educa.madrid.org/ies.alfredokraus.madrid/course/index.php?
 
 ## TODO
 
-- 2 Fr
-- crear problemas gráficas
-- subir esquema método científico
-
+- 2 Fr:
+    - preparar simulacro examen
+    - subir esquema método científico
 
 - preparar ejercicios semana de la ciencia expeerimento en clase 3ero (email alicia)
 
@@ -395,6 +394,9 @@ https://aulavirtual32.educa.madrid.org/ies.alfredokraus.madrid/course/index.php?
 ## 2023/04/21
 - 3D: examen reacciones químicas. pillo a uno copiando. mensajico en alto.
 - 2Fr: repaso ejercicios en clase science bits.
+
+## 2023/04/24
+- 2BachA: repaso redox. chavales aprecian que entreguemos resúmenes.
 
 ## APRENDIZAJES:
 - aprender algo de historia de FyQ: competencias transversales
