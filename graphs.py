@@ -1,17 +1,17 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-x = [0, 50]
-y = [0, 0]
+x = [0, 5, 17, 23]
+y = [0, 100, 100, 190]
 
 fig, ax = plt.subplots()
 ax.axhline(y=0, color='k')
 ax.axvline(x=0, color='k')
 
 # Major ticks every 20, minor ticks every 5
-"""y_major_ticks = np.arange(0, 200, 10)
+"""y_major_ticks = np.arange(0, 200, 50)
 y_minor_ticks = np.arange(0, 200, 2)
-x_major_ticks = np.arange(0, 40, 10)
+x_major_ticks = np.arange(0, 25, 5)
 x_minor_ticks = np.arange(0, 40, 2)
 
 ax.set_xticks(x_major_ticks)
@@ -25,10 +25,10 @@ ax.grid(which='major', alpha=0.5)"""
 
 plt.plot(x, y)
 plt.title("")
-plt.xlabel("x (m)")
-plt.ylabel("y (m)")
-plt.xlim(0, 50)
-plt.ylim(0, 30)
+plt.xlabel("d (km)")
+plt.ylabel("t (h)")
+plt.xlim(0, 23)
+plt.ylim(0, 190)
 plt.grid()
 plt.show()
 

@@ -52,9 +52,6 @@ https://aulavirtual32.educa.madrid.org/ies.alfredokraus.madrid/course/index.php?
 - Guardia. Alicia me comenta por dónde va con cada grupo y planes docentes para estos dos meses.
 - Yo le comento mis intenciones de TFM. 
 ## 2023/02/23
-- 2EC:
-    - Bingo tabla periódica
-    - cambio físico vs químico de pie
 - Recreo:
     - ensayo monólogos científicos: genética, pesadillas, big bang.
 - 3C (inglés):
@@ -88,47 +85,23 @@ https://aulavirtual32.educa.madrid.org/ies.alfredokraus.madrid/course/index.php?
     - lo mismo
 
 ## 2023/03/1
-- 2C:
-    - ley de conservación de la masa de lavoisier. fase Explora de Science bits. si la balanza mide menos, se ha escapado el gas. si mide más, ha entrado gas. ajuste de reacciones por estequiometría dibujando las moléculas.
 - 3's Todos:
     - formulación: compuestos binarios, peróxidos, sales binarias, hidróxidos. oxidation number name and prefixes name.
 - Guardia:
     - primera vez con un grupo. 1ºESO. Aprendo los "contratos" que Alicia establece con los alumnos.
 
 ## 2023/03/2
-- 2C
-    - lab disoluciones: cálculo de concentración molar y en porcentaje en masa de sulfato de cobre en agua. tenían que darse cuenta que a misma masa de sulfato de cobre y diferente de agua obtenían disolus más concentradas o diluidas.
-        - materiales: espátula, vidrio de reloj, el aguita de limpiar, beaker, matraces aforados, pipeta, balanza.
 - 3C
     - formulación. ternary compounds: hydroxides.
 - 2BachB:
     - pila daniell y ejercicios de ajustes redox por el método de ión electrón.
 - 2C:
     - mates: sistemas de ecuaciones. sustitución, reducción e igualación. problemas.
-- REUNIÓN DE CLAUSTRO 
-    - aprobar presupuesto para año 2023:
-        - gasto de luz y gas de 2022 ha sido el doble que en 2021
-        - se habla de recortar los tiempos de encendido de la calefacción
-        - se habla de gastos previstos: imprescindibles e interesantes
-    - sala para alumnos a los que les dan ataques. se habla de dónde se pondría.
-    - licitación de la cafetería. no hay pasta dentro del centro, así que tendrían que pedirlo a la administración. esto se hablará en el consejo escolar.
-    - pasan a hablar del PEC, quién vota a favor y quién en contra. La mayoría vota a favor.
-    - se comenta un documento sobre atención a la diversidad. está aprobado en el claustro, pero no en el consejo.
-    - se termina la orden del día y se da paso a ruegos y preguntas
-    - se van rellenadndo todos los votos y cosas en actas
-    - laptop desaparecido
-    - 1 h de reu
 
 ## 2023/03/3
 - 3D
     - tablas nomenclatura para práctica examen
-- Reu FyQ:
-    - cómo conservar Na oxidado en superficie
-    - Ana cuenta feria "Qué Onda Wey"
-        - ondas transversales y longitudinales
-        - sonido con diapasones, frecuencias naturales y resonancia (analogía columpio)
-        - levitación con ultrasonidos (dispositivo con altavoces a 40 kHz). ondas estacionarias. PVC levita en todos los nodos, a alturas separadas a 4 mm. aparato hecho con 3d printer, arduino, altavoces en geometría específica.
-        - luz, transversal, visible e invisible. infrarrojos con el móvil. polarizadores.
+
 - 2C:
     - vamos al labo pq hace frío
     - resolvemos ejemplos de ajustes estequiométricos dibujando moléculas
@@ -200,11 +173,7 @@ https://aulavirtual32.educa.madrid.org/ies.alfredokraus.madrid/course/index.php?
         - mina a cielo abierto
         - cobre por tostación, pero se produce óxido de azufre pq produce lluvia ácida
         - ahora cobre se consigue por electrolisis :D
-- reu bilinguismo
-    - tablitas de aprobados y suspensos de exámenes de cambridge. 92 vs 8
-    - alumnos que no superan nivel mínimos de inglés se propone pasarlos a programa (que es dar todo en español, salvo música y PE, que se da siempre en inglés)
-    - concurso Global Classrooms de Debate. Tema: economía circular. cada grupo representa un país con sus pensamientos. hay pases de ronda y el premio es un viaje a new york.
-    - concurso Global Scholars sobre el agua. escasez, distribución, tratamiento, etc. alumnos se comunican con chavales de la india. 
+
 ## 2023/03/10
 - 3D:
     - corrección examen del mol: ajuste de reacciones, porcentaje de disolución en volumen, molecular mass, avogadro, 
@@ -282,39 +251,9 @@ https://aulavirtual32.educa.madrid.org/ies.alfredokraus.madrid/course/index.php?
 - 2Bach: orgánica
 
 ## 2023/03/22
-- 2: repasar examen. corregir memoria.
 - 3: con unos moles ejercicios. con otros toda la teoría de chemical reactions. con otros la mitad de teoría de chemical reactions.
 
 ## 2023/03/23
-- reu evaluación:
-    - profes de todas las asignaturas y los delegados de la clase.
-    - hablan delegasdos del grupo. se hacen un autodiagnóstico:
-        - ambiente de estudio ha mejorado
-        - atención a la explicación del profe depende de la materia, del cansancio, de la hora
-        - más aprobados que en el trimestre anterior
-        - utilizan bien la agenda
-        - cumplen bien las normas
-        - relaciones entre compis son buenas
-        - relaciones con profes en general bien, salvo algún desacuerdo
-        - peticiones: 
-            - que arreglen ventanas y radiadores, que limpien mejor la clase, que los profes avisen bien de las tareas que suben para que los chavales se aclaren, pq el aula virtual no avisa bien, que reduzcan la cantidad de deberes cuando no están o cuando se ponen malos, que las horas de entrega no sean a las 00:00 pq confunde, que todo lo importante se pase como apuntes en el aula virtual o que lo copien en la pizarra, que suban las correcciones de los exámenes al Aula Virtual o corregirlas en clase, 
-        - hablan las delegadas de bienestar:
-            - convivencia 8,5.
-            - se han formado grupos
-            - relación con profes un 7
-            - 21 / 26 en bienestar alto entre los alumnos
-            - 5 / 26 en grado medio de bienestar
-            - han mejorado la relación con los profes con los que se llevaban mal
-            - ambiente más cargado pero por tantos exámenes juntos
-            - hubo conflictos pero intervino el equipo de delegadas de bienestar para solucionarlo
-        - la profe de francés se queja de que no se sientan a tiempo cuando entra el profe por la puerta. se pierde clase! ellos responden que se lo comunicarán al grupo
-        - luego se chequean las notas de las actas entre todos los profes. que no haya equivocaciones ni nada. se corrige lo que está mal.
-        - se va luego alumno por alumno para ver cómo han evolucionado sus notas respecto del trimestre pasado, se habla de la actitud también.
-        - se habla de una chica que habla demasiado y distrae a los compis!
-        - se habla de otra chica que ha tenido anorexia. ha faltado un mes. comentan que ahora se le vuelven a ver un poquillo de ojeras, pero ha sacado el curso adelante. los profes dicen que dentro de lo que cabe se la ve bien. llevan un protocolo de seguimiento con ella.
-        - se habla de otra chica con TDH, que le cuesta entender las preguntas, está yendo al psicólogo, etc. Es una alumna que encaja con Diversificación. Creen que en un grupo pequeño y estando muy encima de ella lo puede sacar. Sufrió acoso en el anterior colegio y al entrar en este como que estaba esperando a ver quién la iba a acosar. se propone una otra evaluación psicopedagógica. pasa mucho tiempo en casa sola y mirando el móvil. sólo suspende ella en todo el grupo que es buenísimo académicamente y eso le puede minar la moral. se aprueba lo de que la pasen a diver.
-        - otro chico con TDH ahora ha aprobado todo. le han cambiado la medicación y parece que se distrae todo el rato. TDH.
-        - otro chico, que ha suspendido 2, le están viendo más flojo y parece que no se está enterando muy bien de las cosas.
 
 ## 2023/03/24
 - 3D: cambio físico y químico, ley conservación masa, modelo de colisiones
@@ -343,7 +282,6 @@ https://aulavirtual32.educa.madrid.org/ies.alfredokraus.madrid/course/index.php?
 ## 2023/03/30
 - 2Fr: gráficas movimiento v cte, acelerado, estático, movs compuestos. problema Usain Bolt, v media, v instantánea. definiciones varias: trayectoria, móvil, desplazamiento, etc. sistemas de referencia: movimiento y posición son relativos!
 - 3C: recu disoluciones, mol, y formulación.
-- Reunión 1 a 1 con Marie. Me habla sobre Proyectos. En concreto Proyecto de Bienestar.
 - 2A: modelo examen EVAU. parte química orgánica: formulación y reacciones. 
 
 ## 2023/04/11
