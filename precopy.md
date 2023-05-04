@@ -22,15 +22,6 @@ https://aulavirtual32.educa.madrid.org/ies.alfredokraus.madrid/course/index.php?
 
 - leer science bits un poquito la web y enlaces sergio (email)
 
-## NOT URGENT
-- meterme en el AULA VIRTUAL para descargar todas las cosas de Alicia
-- pensar en proyecto de investigación tema de energía
-- check Khan Academy
-- ver qué es photomath
-- cacharrear pg web centro
-    - leer PGA y demás
-- queda por ver a la profe de mates
-- ir a una clase de tecnología
 
 ## RESUMEN GUÍA PRÁCTICUM
 - 22 feb a 27 abr prácticas
@@ -43,10 +34,6 @@ https://aulavirtual32.educa.madrid.org/ies.alfredokraus.madrid/course/index.php?
 - pg 22. anexo 4. informe de evaluación del prácticum.
 - pg 32. anexo 7. guion memoria prácticas.
 
-## INFO ÚTIL:
-- Science bits libro digital
-- student4@kraus.es
-- bits8586
 
 
 ## 2023/02/23
