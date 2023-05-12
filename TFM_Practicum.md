@@ -2,25 +2,11 @@
 https://aulavirtual32.educa.madrid.org/ies.alfredokraus.madrid/course/index.php?categoryid=30
 
 ## TODO
-
-- 2 Fr:
-    - subir esquema método científico
-
-- 1. cambiar las respuestas sin justificar por respuestas mal.
-- 11. etiquetar justificaciones pregunta 11
-
-- MENDELEY
-- leer misconceptions en las que hace HINCAPIÉ SCIENCE BITS para los de segundo de ESO.
-    - listarlas
-    - decidir categorías para los códigos en base a esas misconceptions: una para cada misconception.
-- leer estudios intervenciones didácticas para cambio en misconceptions. CÓMO SE CATEGORIZA?
 - leer papers de angel para análisis cualitativo (email)
     - que no sea descriptivo
     - poder recuperar la info en bruto
     - categorías pre-hechas VS categorías que surjan con el estudio
     - codificación por líneas
-
-- leer science bits un poquito la web y enlaces sergio (email)
 
 ## NOT URGENT
 - meterme en el AULA VIRTUAL para descargar todas las cosas de Alicia
